@@ -11,12 +11,12 @@ public:
 	void setRank(int _rank);
 	void setAbility(int _ability);
 	void setContinent(string _coutinent);
-	void setWon(int _won);
-	void setDraw(int _draw);
-	void setLost(int _lost);
-	void setGoals_for(int _goals_for);
-	void setGoals_against(int _goals_against);
-	void setPoints(int _points);
+	void setWon(int _won = 0);
+	void setDraw(int _draw = 0);
+	void setLost(int _lost = 0);
+	void setGoals_for(int _goals_for = 0);
+	void setGoals_against(int _goals_against = 0);
+	void setPoints(int _points = 0);
 
 	int getWon();
 	int getDraw();
@@ -27,8 +27,8 @@ public:
 	int getPoints();
 	int getAbility();
 	string getCountry();
+	string getContinent();
 	int getRank();
-	int getContinent();
 	vector<Player>& getPlayer();
 private:
 	vector<Player> myPlayer;
