@@ -15,6 +15,11 @@ void Team::setRank(int _rank)
 	rank = _rank;
 }
 
+void Team::setAbility(int _ability)
+{
+	ability = _ability;
+}
+
 void Team::setAbility(double _ability)
 {
 	ability = _ability;
@@ -23,6 +28,10 @@ void Team::setAbility(double _ability)
 void Team::setContinent(string _coutinent)
 {
 	continent = _coutinent;
+}
+
+void Team::setWon(int _won)
+{
 }
 
 string Team::getCountry()

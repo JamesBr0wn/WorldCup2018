@@ -35,7 +35,7 @@ private:
 	vector<Player> myPlayer;
 	string country;
 	string continent;
-	int ability;     //能力值
+	int ability;		//能力值
 	int rank;           //世界排名
 	int won;            //获胜场次
 	int draw;           //平局场次

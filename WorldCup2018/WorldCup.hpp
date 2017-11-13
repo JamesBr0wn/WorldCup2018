@@ -18,6 +18,14 @@ struct Group
 	}
 };
 
+struct Shot {
+	unsigned int time;
+	bool goal;
+	string teamName;
+	string playerName;
+	string playerPosition;
+};
+
 class WroldCup
 {
 public:
@@ -28,7 +36,7 @@ public:
 	void showPotInfo();
 	void setPot();
 	void grouping();
-	std::vector<std::string> match(Team& home, Team& away);
+	std::vector<Shot> match(Team& home, Team& away);
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i);
 	void helpSetPlot(vector<Team>& tempPot, int amount, int &i);

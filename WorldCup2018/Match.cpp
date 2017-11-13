@@ -5,19 +5,11 @@
 #include <ctime>
 using namespace std;
 
-struct shot {
-	unsigned int time;
-	bool goal;
-	string teamName;
-	string playerName;
-	string playerPosition;
-};
-
-vector<string> WroldCup::match(Team& home, Team& away){
-	vector<shot> result;
+vector<Shot> WroldCup::match(Team& home, Team& away){
+	vector<Shot> result;
 	int homeGoal = 0, awayGoal = 0;
 	for (int i = 0; i < 9; i++) {
-		result.push_back(shot());
+		result.push_back(Shot());
 		srand((unsigned int)time(NULL));
 		unsigned int currentTime = i * 10 + (rand() % 10);
 		result[i].time = currentTime;
