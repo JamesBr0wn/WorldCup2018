@@ -21,9 +21,24 @@
     <ClCompile Include="Match.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Team.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldCup.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Match.h">
+    <ClInclude Include="Player.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Team.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldCup.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
