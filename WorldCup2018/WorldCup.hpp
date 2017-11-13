@@ -22,6 +22,7 @@ struct Shot {
 	unsigned int time;
 	bool goal;
 	string teamName;
+	string playerID;
 	string playerName;
 	string playerPosition;
 };
@@ -36,7 +37,7 @@ public:
 	void showPotInfo();
 	void setPot();
 	void grouping();
-	std::vector<Shot> match(Team& home, Team& away);
+	std::vector<Shot> match(Team& home, Team& away, int type);
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i);
 	void helpSetPlot(vector<Team>& tempPot, int amount, int &i);

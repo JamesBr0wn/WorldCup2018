@@ -20,18 +20,9 @@ void Team::setAbility(int _ability)
 	ability = _ability;
 }
 
-void Team::setAbility(double _ability)
-{
-	ability = _ability;
-}
-
 void Team::setContinent(string _coutinent)
 {
 	continent = _coutinent;
-}
-
-void Team::setWon(int _won)
-{
 }
 
 string Team::getCountry()
@@ -44,7 +35,7 @@ int Team::getRank()
 	return rank;
 }
 
-vector<Player> Team::getPlayer()
+vector<Player>& Team::getPlayer()
 {
 	return myPlayer;
 }

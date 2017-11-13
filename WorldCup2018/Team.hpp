@@ -16,7 +16,6 @@ public:
 	void setLost(int _lost);
 	void setGoals_for(int _goals_for);
 	void setGoals_against(int _goals_against);
-	void setGoals_diffence(int _goals_diffence);
 	void setPoints(int _points);
 
 	int getWon();
@@ -30,7 +29,7 @@ public:
 	string getCountry();
 	int getRank();
 	int getContinent();
-	vector<Player> getPlayer();
+	vector<Player>& getPlayer();
 private:
 	vector<Player> myPlayer;
 	string country;
@@ -42,7 +41,6 @@ private:
 	int lost;           //输球场次
 	int goals_for;      //进球数目
 	int goals_against;  //失球数目
-	int goals_diffence; //净胜球数
 	int points;         //比赛积分 3/1/0
 };
 
