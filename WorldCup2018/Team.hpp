@@ -23,7 +23,7 @@ public:
 	int getLost();
 	int getGoals_for();
 	int getGoals_against();
-	int getgGoals_diffence();
+	int getGoals_difference();
 	int getPoints();
 	int getAbility();
 	string getCountry();

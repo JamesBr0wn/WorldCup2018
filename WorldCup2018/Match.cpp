@@ -144,21 +144,22 @@ void WorldCup::groupMatch() {
 		}
 		cout << "Today we will have ";
 		if (i & 1) {
-			cout << "matches of Group A, C, E and G, totally 4 matches." << endl;
+cout << "matches of Group A, C, E and G, totally 4 matches." << endl;
 		}
 		else {
 			cout << "matches of Group B, D, F and H, totally 4 matches." << endl;
 		}
 		CIT it = range.first;
 		int j = 1;
-		for (; it != range.second; it++, j++) {
+		for (; it != range.second; it++) {
 			//The jth match in one day
 			string vsTeam = it->second;
 			string homeName = vsTeam.substr(0, vsTeam.find(" vs"));
 			string awayName = vsTeam.substr(vsTeam.find("vs") + 3, vsTeam.find(',') - vsTeam.find("vs") - 3);
 			//Print match information
-			cout << "Next we will have today's " << j << "th match:"<< endl;
+			cout << "Next we will have today's " << j << "th match:" << endl;
 			startMatch(homeName, awayName, 0);
+			j++;
 		}
 		groupSort(i);
 	}
@@ -181,7 +182,7 @@ void WorldCup::liveBroadcast(string homeName, string awayName, vector<Shot> resu
 	int homeGoal = 0, awayGoal = 0;
 	cout << "Playing..." << endl;
 	for (int i = 0; i < result.size(); i++) {
-		if (result[i].goal){
+		if (result[i].goal) {
 			if (result[i].teamName == homeName) {
 				homeGoal++;
 			}
@@ -206,16 +207,16 @@ void WorldCup::liveBroadcast(string homeName, string awayName, vector<Shot> resu
 void WorldCup::groupSort(int i) {
 	bool compareTeam(Team* a, Team* b);
 	if (i & 1) {
-		sort(GB.group.begin(), GB.group.end(), compareTeam);
-		sort(GD.group.begin(), GB.group.end(), compareTeam);
-		sort(GF.group.begin(), GB.group.end(), compareTeam);
-		sort(GH.group.begin(), GB.group.end(), compareTeam);
+		sortGroup(GA);
+		sortGroup(GC);
+		sortGroup(GE);
+		sortGroup(GG);
 	}
 	else {
-		sort(GA.group.begin(), GB.group.end(), compareTeam);
-		sort(GC.group.begin(), GB.group.end(), compareTeam);
-		sort(GE.group.begin(), GB.group.end(), compareTeam);
-		sort(GG.group.begin(), GB.group.end(), compareTeam);
+		sortGroup(GB);
+		sortGroup(GD);
+		sortGroup(GF);
+		sortGroup(GH);
 	}
 }
 
@@ -242,6 +243,22 @@ Team& WorldCup::findTeam(string teamName) {
 	throw runtime_error("No team match");
 }
 
-bool compareTeam(Team* a, Team* b) {
-	return a->getPoints() > b->getPoints() || (a->getPoints() == b->getPoints() && a->getgGoals_diffence() > b->getgGoals_diffence()) || (a->getPoints() == b->getPoints() && a->getgGoals_diffence() == b->getgGoals_diffence() && a->getCountry() < b->getCountry());
+void WorldCup::sortGroup(Group group) {
+	bool compareTeam(Team* a, Team* b);
+	Team* temp;
+	for (int i = 0; i < group.group.size()-1; i++){
+		for (int j = 0; j < group.group.size() - 1; j++) {
+			if (!compareTeam(group.group[j], group.group[j + 1])) {
+				temp = group.group[j];
+				group.group[j] = group.group[j + 1];
+				group.group[j + 1] = temp;
+				
+			}
+		}
+	}
 }
+
+bool compareTeam(Team* a, Team* b) {
+	return a->getPoints() > b->getPoints() || (a->getPoints() == b->getPoints() && a->getGoals_difference() > b->getGoals_difference()) || (a->getPoints() == b->getPoints() && a->getGoals_difference() == b->getGoals_difference() && a->getCountry() < b->getCountry());
+}
+

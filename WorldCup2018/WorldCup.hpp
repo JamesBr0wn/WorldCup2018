@@ -54,6 +54,7 @@ public:
 	void liveBroadcast(string homeName, string awayName, vector<Shot> result);
 	void groupSort(int i);
 	void printTeamInfo(Team& team);
+	void sortGroup(Group group);
 	string voicePool(Shot shot);
 	Team& findTeam(string teamName);
 	vector<Shot> match(Team& home, Team& away, int type);

@@ -90,7 +90,7 @@ int Team::getGoals_against()
 	return goals_against;
 }
 
-int Team::getgGoals_diffence()
+int Team::getGoals_difference()
 {
 	return getGoals_for() - getGoals_against();
 }
