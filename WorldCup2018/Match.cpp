@@ -4,8 +4,12 @@
 #include <string>
 #include <cstdlib>
 #include <ctime>
+#include <algorithm>
 #define GOALRATE 20
 #define MONTH  "July\0"
+typedef multimap<int, string> Schedule;
+typedef Schedule::const_iterator CIT;
+typedef pair<CIT, CIT> Range;
 using namespace std;
 
 vector<Shot> WorldCup::match(Team& home, Team& away, int type){ 
@@ -126,9 +130,6 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 }
 
 void WorldCup::groupMatch() {
-	typedef multimap<int, string> Schedule;
-	typedef Schedule::const_iterator CIT;
-	typedef pair<CIT, CIT> Range;
 	Range range;
 	for (int i = 0; i < 12; i++) {
 		//Matches in the ith day
@@ -148,11 +149,13 @@ void WorldCup::groupMatch() {
 		else {
 			cout << "matches of Group B, D, F and H, totally 4 matches." << endl;
 		}
-		for (CIT it = range.first, int j = 0; it != range.second; it++, j++) {
+		CIT it;
+		int j;
+		for (it = range.first, j = 0; it != range.second; it++, j++) {
 			//The jth match in one day
 			string vsTeam = it->second;
 			string homeName = vsTeam.substr(0, vsTeam.find(" vs"));
-			string awayName = vsTeam.substr(awayName.find("vs") + 3, vsTeam.find(',') - vsTeam.find("vs") - 3);
+			string awayName = vsTeam.substr(vsTeam.find("vs") + 3, vsTeam.find(',') - vsTeam.find("vs") - 3);
 			//Print match information
 			cout << "Next we will have today's " << j << "th match:"<< endl;
 			startMatch(homeName, awayName, 0);
@@ -175,28 +178,56 @@ void WorldCup::startMatch(string homeName, string awayName, int type) {
 }
 
 void WorldCup::liveBroadcast(string homeName, string awayName, vector<Shot> result) {
-	int homeGoal, awayGoal;
+	int homeGoal = 0, awayGoal = 0;
+	cout << "Playing..." << endl;
 	for (int i = 0; i < result.size(); i++) {
-		voicePool(result[i]);
 		if (result[i].goal){
-			
+			if (result[i].teamName == homeName) {
+				homeGoal++;
+			}
+			else {
+				awayGoal++;
+			}
+			cout << result[i].teamName << " did a goal, and it was " << result[i].playerID << ", " << result[i].playerName << " did the goal" << endl;
+			cout << "Now it is " << homeGoal << ":" << awayGoal << endl;
 		}
+	}
+	if (homeGoal > awayGoal) {
+		cout << homeName << " beats " << awayName << " with the goals " << homeGoal << ":" << awayGoal << endl;
+	}
+	else if (homeGoal < awayGoal) {
+		cout << homeName << " fails " << awayName << " with the goals " << homeGoal << ":" << awayGoal << endl;
+	}
+	else {
+		cout << "It is a draw with " << homeGoal << ":" << awayGoal << endl;
 	}
 }
 
 void WorldCup::groupSort(int i) {
-
+	bool compare(Team* a, Team* b);
+	if (i & 1) {
+		sort(GB.group.begin(), GB.group.end(), compare);
+		sort(GD.group.begin(), GB.group.end(), compare);
+		sort(GF.group.begin(), GB.group.end(), compare);
+		sort(GH.group.begin(), GB.group.end(), compare);
+	}
+	else {
+		sort(GA.group.begin(), GB.group.end(), compare);
+		sort(GC.group.begin(), GB.group.end(), compare);
+		sort(GE.group.begin(), GB.group.end(), compare);
+		sort(GG.group.begin(), GB.group.end(), compare);
+	}
 }
 
 void WorldCup::printTeamInfo(Team& team) {
 	cout << team.getCountry() << endl;
 	for (int i = 0; i < team.getPlayer().size(); i++) {
-		cout << team.getPlayer()[i]->getID() << ", " << team.getPlayer()[i]->getName() << ", " << team.getPlayer()[i]->getPosition << endl;
+		cout << team.getPlayer()[i]->getID() << ", " << team.getPlayer()[i]->getName() << ", " << team.getPlayer()[i]->getPosition() << endl;
 	}
 }
 
 string WorldCup::voicePool(Shot shot) {
-
+	return string();
 }
 
 
@@ -209,3 +240,6 @@ Team& WorldCup::findTeam(string teamName) {
 	throw runtime_error("No team match");
 }
 
+bool compare(Team* a, Team* b) {
+	return a->getPoints() > b->getPoints() || (a->getPoints() == b->getPoints() && a->getgGoals_diffence() > b->getgGoals_diffence()) || (a->getPoints() == b->getPoints() && a->getgGoals_diffence() == b->getgGoals_diffence() && a->getCountry() < b->getCountry());
+}
