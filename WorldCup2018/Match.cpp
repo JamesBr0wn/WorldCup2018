@@ -155,7 +155,7 @@ void WorldCup::groupMatch() {
 			string awayName = vsTeam.substr(awayName.find("vs") + 3, vsTeam.find(',') - vsTeam.find("vs") - 3);
 			//Print match information
 			cout << "Next we will have today's " << j << "th match:"<< endl;
-			startMatch(homeName, awayName, j);
+			startMatch(homeName, awayName, 0);
 		}
 		groupSort(i);
 	}
@@ -168,13 +168,20 @@ void WorldCup::knockout() {
 void WorldCup::startMatch(string homeName, string awayName, int type) {
 	cout << homeName << "vs" << awayName << endl;
 	Team& home = findTeam(homeName), away = findTeam(awayName);
+	printTeamInfo(home);
+	printTeamInfo(away);
 	vector<Shot> result = match(home, away, type);
-	liveBroadcast(result);
-
+	liveBroadcast(homeName, awayName, result);
 }
 
-void WorldCup::liveBroadcast(vector<Shot> result) {
-
+void WorldCup::liveBroadcast(string homeName, string awayName, vector<Shot> result) {
+	int homeGoal, awayGoal;
+	for (int i = 0; i < result.size(); i++) {
+		voicePool(result[i]);
+		if (result[i].goal){
+			
+		}
+	}
 }
 
 void WorldCup::groupSort(int i) {
@@ -182,7 +189,10 @@ void WorldCup::groupSort(int i) {
 }
 
 void WorldCup::printTeamInfo(Team& team) {
-
+	cout << team.getCountry() << endl;
+	for (int i = 0; i < team.getPlayer().size(); i++) {
+		cout << team.getPlayer()[i]->getID() << ", " << team.getPlayer()[i]->getName() << ", " << team.getPlayer()[i]->getPosition << endl;
+	}
 }
 
 string WorldCup::voicePool(Shot shot) {

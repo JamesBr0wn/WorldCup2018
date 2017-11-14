@@ -51,7 +51,7 @@ public:
 	void groupMatch();
 	void knockout();
 	void startMatch(string homeName, string awayName, int type);
-	void liveBroadcast(vector<Shot> result);
+	void liveBroadcast(string homeName, string awayName, vector<Shot> result);
 	void groupSort(int i);
 	void printTeamInfo(Team& team);
 	string voicePool(Shot shot);
