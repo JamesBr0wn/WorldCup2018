@@ -68,7 +68,7 @@ private:
 	void helpSchedule16(Group tempGroup,multimap<int,string>& day_info,const vector<string>&tempPlace,int _day, int match);
 	vector<string> helpGetMatchPlace();
 	void helpShowTeam16(Group tempGroup,int winner);
-	void helpGrouping16(Group tempGroup1, Group tempGroup2, vector<string>tempPlace);
+	void helpGrouping16(Group tempGroup1, Group tempGroup2, vector<string>&tempPlace);
 	void helpShowTeam8_4_2(int teamAmount);
 	void helpGrouping8_4_2(int teamAmount);
 

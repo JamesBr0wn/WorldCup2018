@@ -229,7 +229,6 @@ void WorldCup::grouping16()
 {
 	day_info.clear();
 	srand((unsigned)time(NULL));
-	day++;
 	vector<string>savePlace;
 	vector<string>tempPlace = place;
 	while (tempPlace.size()) {
@@ -455,10 +454,10 @@ void WorldCup::helpShowTeam16(Group tempGroup, int winner)
 	}
 }
 
-void WorldCup::helpGrouping16(Group tempGroup1, Group tempGroup2,vector<string> tempPlace)
+void WorldCup::helpGrouping16(Group tempGroup1, Group tempGroup2,vector<string>& tempPlace)
 {
 	cout << '\t' << tempGroup1.group[0]->getCountry() << " vs " << tempGroup2.group[1]->getCountry();
-	cout << " at " << tempPlace[0];
+	cout << " at " << tempPlace[0] << endl;
 	day_info.insert(pair<int, string>(day, tempGroup1.group[0]->getCountry()
 		+" vs "+ tempGroup2.group[1]->getCountry()+","+ tempPlace[0]));
 	matchTeam.push_back(tempGroup1.group[0]);

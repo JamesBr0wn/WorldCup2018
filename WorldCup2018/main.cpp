@@ -16,5 +16,6 @@ int main()
 	mycup.schedule32();
 	mycup.groupMatch();
 	mycup.showTeam16();
+	mycup.grouping16();
 	getchar();
 }
