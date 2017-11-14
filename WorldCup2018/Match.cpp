@@ -206,7 +206,7 @@ void WorldCup::liveBroadcast(string homeName, string awayName, vector<Shot> resu
 
 void WorldCup::groupSort(int i) {
 	bool compareTeam(Team* a, Team* b);
-	/*if (i & 1) {
+	if (i & 1) {
 		sortGroup(GA);
 		sortGroup(GC);
 		sortGroup(GE);
@@ -217,7 +217,7 @@ void WorldCup::groupSort(int i) {
 		sortGroup(GD);
 		sortGroup(GF);
 		sortGroup(GH);
-	}*/
+	}
 }
 
 void WorldCup::printTeamInfo(Team& team) {
