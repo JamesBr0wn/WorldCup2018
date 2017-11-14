@@ -131,12 +131,12 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 
 void WorldCup::groupMatch() {
 	Range range;
-	for (int i = 0; i < 12; i++) {
+	for (int i = 1; i <= 12; i++) {
 		//Matches in the ith day
 		range = day_info.equal_range(i);
 		//Print day information
 		cout << "Hello everyone, it is " << MONTH  << " "<< i << ", ";
-		if (i == 11) {
+		if (i == 12) {
 			cout << "the last day of group match, tomorrow 32 promotion team will face curel knockout." << endl;
 		}
 		else {
@@ -149,9 +149,9 @@ void WorldCup::groupMatch() {
 		else {
 			cout << "matches of Group B, D, F and H, totally 4 matches." << endl;
 		}
-		CIT it;
-		int j;
-		for (it = range.first, j = 0; it != range.second; it++, j++) {
+		CIT it = range.first;
+		int j = 1;
+		for (; it != range.second; it++, j++) {
 			//The jth match in one day
 			string vsTeam = it->second;
 			string homeName = vsTeam.substr(0, vsTeam.find(" vs"));
@@ -222,6 +222,8 @@ void WorldCup::groupSort(int i) {
 void WorldCup::printTeamInfo(Team& team) {
 	cout << team.getCountry() << endl;
 	for (int i = 0; i < team.getPlayer().size(); i++) {
+		Player* temp = team.getPlayer()[i];
+		cout << temp->getID() << endl;
 		cout << team.getPlayer()[i]->getID() << ", " << team.getPlayer()[i]->getName() << ", " << team.getPlayer()[i]->getPosition() << endl;
 	}
 }
