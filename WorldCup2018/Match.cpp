@@ -131,7 +131,7 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 
 void WorldCup::groupMatch() {
 	Range range;
-	for (int i = 0; i < 12; i++) {
+	for (int i = 1; i <= 12; i++) {
 		//Matches in the ith day
 		range = day_info.equal_range(i);
 		//Print day information
