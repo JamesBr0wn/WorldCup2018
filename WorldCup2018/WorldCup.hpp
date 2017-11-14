@@ -18,6 +18,7 @@ struct Group
 	}
 };
 
+
 struct Shot {
 	unsigned int time;
 	bool goal;
@@ -32,30 +33,43 @@ class WorldCup
 public:
 	WorldCup();
 	void getTeamInfo();
+	void getPlaceInfo();
 	void showTeamInfo();
 	void showGroupInfo();
 	void showPotInfo();
 	void setPot();
-	void grouping();
-	std::vector<Shot> match(Team& home, Team& away, int type);
+	void grouping32();
+	void schedule32();
+	void showTeam16();
+	void grouping16();
+	void showTeam8();
+	vector<Shot> WorldCup::match(Team& home, Team& away, int type);
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i);
-	void helpSetPlot(vector<Team>& tempPot, int amount, int &i);
-	void helpGrouping(vector<Team>& tempPot,bool ok);
+	void helpSetPlot(vector<Team*>& tempPot, int amount, int &i);
+	void helpGrouping32(vector<Team*>& tempPot,int ok);
+	bool helpGrouping32_1(vector<Team*>&tempPot,int index, Group &tempGroup);
 	void setTeamAmount(int _CAF, int _CONMEBOL, int _AFC, int _OFC, int _CONCACAF, int _UEFA);
-	void helpPotShow(ofstream& out, vector<Team>& tempPot);
+	void helpPotShow(ofstream& out, vector<Team*>& tempPot);
+	void helpSchedule16(Group tempGroup,multimap<int,string>& day_info,const vector<string>&tempPlace,int _day, int match);
+	vector<string> helpGetMatchPlace();
+	void helpShowTeam16(Group tempGroup,int winner);
+	void helpGrouping16(Group tempGroup1, Group tempGroup2, vector<string>tempPlace);
+
 	int AFC;
 	int CAF;
 	int CONCACAF;
 	int OFC;
 	int CONMEBOL;
 	int UEFA;
-	vector<Team> totalTeams;
-	vector<Player> totalPlayers;
-	vector<Team> pot1;
-	vector<Team> pot2;
-	vector<Team> pot3;
-	vector<Team> pot4;
+	int day;
+	vector<Team> totalTeams;    //存放所有队伍
+	vector<Player> totalPlayers; //存放所有球员
+	vector<string> place;
+	vector<Team*> pot1;
+	vector<Team*> pot2;
+	vector<Team*> pot3;
+	vector<Team*> pot4;
 	Group GA;
 	Group GB;
 	Group GC;
