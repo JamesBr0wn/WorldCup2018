@@ -27,7 +27,7 @@ void WorldCup::getTeamInfo()
 	string _country,temp;
 	int _rank;
 	string _id, _name, _position,_continent;
-	double _teamAbility, _playerAbility;
+	int _teamAbility, _playerAbility;
 	int _AFC, _CAF, _CONCACAF, _OFC, _CONMEBOL, _UEFA;
 	in >> _CAF >> _CONMEBOL >> _AFC>>_OFC >> _CONCACAF >> _UEFA;
 	getline(in, temp);
