@@ -5,6 +5,7 @@
 #include <cstdlib>
 #include <ctime>
 #define GOALRATE 20
+#define MONTH  "七月\0"
 using namespace std;
 
 vector<Shot> WorldCup::match(Team& home, Team& away, int type){ 
@@ -13,7 +14,7 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 	int teamSection = home.getAbility() + away.getAbility();
 	for (int i = 0; i < 12; i++) {
 		result.push_back(Shot());
-		//Determine shot time
+		//Determine shot times
 		srand((unsigned int)time(NULL)+rand());
 		unsigned int currentTime = i * 10 + (rand() % 10);
 		result[i].time = currentTime;
@@ -122,4 +123,62 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 		away.setDraw(away.getDraw() + 1);
 	}
 	return result;
+}
+
+void WorldCup::groupMatch() {
+	typedef multimap<int, string> Schedule;
+	typedef Schedule::const_iterator CIT;
+	typedef pair<CIT, CIT> Range;
+	Range range;
+	for (int i = 0; i < 12; i++) {
+		//Matches in the ith day
+		range = day_info.equal_range(i);
+		//Print day information
+		cout << "观众朋友们早上好，今天是" << MONTH << i << "号，";
+		if (i == 11) {
+			cout << "小组赛的最后一天，明天开始我们将迎来残酷的淘汰赛，" << endl;
+		}
+		else {
+			cout << "小组赛的第" << i << "天";
+		}
+		cout << "今天我们要进行的是";
+		if (i & 1) {
+			cout << "A组、C组、E组和G组四个小组共四场的比赛" << endl;
+		}
+		else {
+			cout << "B组、D组、F组和H组四个小组共四场的比赛" << endl;
+		}
+		for (CIT it = range.first, int j = 0; it != range.second; it++, j++) {
+			//The jth match in one day
+			string vsTeam = it->second;
+			string homeName = vsTeam.substr(0, vsTeam.find(" vs");
+			string awayName = vsTeam.substr(awayName.find("vs") + 3, vsTeam.find(',') - vsTeam.find("vs") - 3);
+			//Print match information
+			cout << "接下来进行的是今天的第" << j << "场比赛"<< endl;
+			startMatch(homeName, awayName, j);
+		}
+
+	}
+}
+
+void WorldCup::knockout() {
+
+}
+
+void WorldCup::startMatch(string homeName, string awayName, int type) {
+	string homeNameCN = nameConversion(homeName);
+	string awayNameCN = nameConversion(awayName);
+	cout << homeNameCN << "对阵" << awayNameCN << endl;
+	Team& home = findTeam(homeName), away = findTeam(awayName);
+	vector<Shot> result = match(home, away, type);
+
+}
+
+Team& WorldCup::findTeam(string teamName) {
+	for (int i = 0; i < totalTeam.size(); i++) {
+		if (teamName == totalTeam[i].getName()) {
+			return totalTeam[i];
+		}
+	}
+	throw runtime_error("No team match");
 }
