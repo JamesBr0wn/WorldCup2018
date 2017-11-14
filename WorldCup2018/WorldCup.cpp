@@ -451,7 +451,7 @@ void WorldCup::helpShowTeam16(Group tempGroup, int winner)
 	if(winner==2)
 		cout << "Group " << tempGroup.groupName<<endl;
 	for (int i = 0; i < winner; i++) {
-		cout << '\t' << i + 1 << ". " << GA.group[i]->getCountry() << endl;
+		cout << '\t' << i + 1 << ". " << tempGroup.group[i]->getCountry() << endl;
 	}
 }
 
