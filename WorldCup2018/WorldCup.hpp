@@ -31,6 +31,14 @@ struct Shot {
 class WorldCup
 {
 public:
+
+
+
+	void groupMatch();
+	void knockout();
+
+
+
 	WorldCup();
 	void getTeamInfo();
 	void getPlaceInfo();
