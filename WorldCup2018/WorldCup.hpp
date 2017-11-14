@@ -55,7 +55,7 @@ private:
 	vector<string> helpGetMatchPlace();
 	void helpShowTeam16(Group tempGroup,int winner);
 	void helpGrouping16(Group tempGroup1, Group tempGroup2, vector<string>tempPlace);
-
+	//adsffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 	int AFC;
 	int CAF;
 	int CONCACAF;
