@@ -31,7 +31,6 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 			shotedTeam = &home;
 		}
 		result[i].teamName = shotTeam->getCountry();
-		cout << home.getCountry() << away.getCountry() << endl;
 		//Determine which player take this shot
 		int playerSection = 0;
 		vector<Player*> teamPlayer = shotTeam->getPlayer();
@@ -64,7 +63,7 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 			}
 			//Modify team data
 			shotTeam->setGoals_for(shotTeam->getGoals_for() + 1);
-			shotedTeam->setGoals_against(shotTeam->getGoals_against() + 1);
+			shotedTeam->setGoals_against(shotedTeam->getGoals_against() + 1);
 			//MOdify palyer data
 			shotPlayer->setGoal(shotPlayer->getGoal() + 1);
 		}
@@ -105,11 +104,11 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 		}
 		//Modify team data
 		shotTeam.setGoals_for(shotTeam.getGoals_for() + 1);
-		shotedTeam.setGoals_against(shotTeam.getGoals_against() + 1);
+		shotedTeam.setGoals_against(shotedTeam.getGoals_against() + 1);
 		//Modify palyer data
 		shotPlayer->setGoal(shotPlayer->getGoal() + 1);
 	}
-	//Modify team points, goals for and  goals against
+	//Modify team points
 	if (homeGoal > awayGoal) {
 		home.setWon(home.getWon() + 1);
 		away.setLost(away.getLost() + 1);
@@ -122,6 +121,5 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 		home.setDraw(home.getDraw() + 1);
 		away.setDraw(away.getDraw() + 1);
 	}
-	cout << type << endl;
 	return result;
 }
