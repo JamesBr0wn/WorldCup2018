@@ -204,18 +204,18 @@ void WorldCup::liveBroadcast(string homeName, string awayName, vector<Shot> resu
 }
 
 void WorldCup::groupSort(int i) {
-	bool compare(Team* a, Team* b);
+	bool compareTeam(Team* a, Team* b);
 	if (i & 1) {
-		sort(GB.group.begin(), GB.group.end(), compare);
-		sort(GD.group.begin(), GB.group.end(), compare);
-		sort(GF.group.begin(), GB.group.end(), compare);
-		sort(GH.group.begin(), GB.group.end(), compare);
+		sort(GB.group.begin(), GB.group.end(), compareTeam);
+		sort(GD.group.begin(), GB.group.end(), compareTeam);
+		sort(GF.group.begin(), GB.group.end(), compareTeam);
+		sort(GH.group.begin(), GB.group.end(), compareTeam);
 	}
 	else {
-		sort(GA.group.begin(), GB.group.end(), compare);
-		sort(GC.group.begin(), GB.group.end(), compare);
-		sort(GE.group.begin(), GB.group.end(), compare);
-		sort(GG.group.begin(), GB.group.end(), compare);
+		sort(GA.group.begin(), GB.group.end(), compareTeam);
+		sort(GC.group.begin(), GB.group.end(), compareTeam);
+		sort(GE.group.begin(), GB.group.end(), compareTeam);
+		sort(GG.group.begin(), GB.group.end(), compareTeam);
 	}
 }
 
@@ -242,6 +242,6 @@ Team& WorldCup::findTeam(string teamName) {
 	throw runtime_error("No team match");
 }
 
-bool compare(Team* a, Team* b) {
+bool compareTeam(Team* a, Team* b) {
 	return a->getPoints() > b->getPoints() || (a->getPoints() == b->getPoints() && a->getgGoals_diffence() > b->getgGoals_diffence()) || (a->getPoints() == b->getPoints() && a->getgGoals_diffence() == b->getgGoals_diffence() && a->getCountry() < b->getCountry());
 }
