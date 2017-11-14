@@ -55,15 +55,18 @@ private:
 	vector<string> helpGetMatchPlace();
 	void helpShowTeam16(Group tempGroup,int winner);
 	void helpGrouping16(Group tempGroup1, Group tempGroup2, vector<string>tempPlace);
+
 	int AFC;
 	int CAF;
 	int CONCACAF;
 	int OFC;
 	int CONMEBOL;
 	int UEFA;
-	int day;
-	vector<Team> totalTeams;    //存放所有队伍
-	vector<Player> totalPlayers; //存放所有球员
+	int day;     //表示当前日期
+	multimap<int, string> day_info; //存放比赛时间表
+	vector<Team*> matchTeam;         //存放比赛的队伍
+	vector<Team> totalTeams;        //存放所有队伍
+	vector<Player> totalPlayers;    //存放所有球员
 	vector<string> place;
 	vector<Team*> pot1;
 	vector<Team*> pot2;

@@ -179,7 +179,7 @@ void WorldCup::grouping32()
 void WorldCup::schedule32()
 {
 	srand((unsigned)time(NULL));
-	multimap<int, string> day_info;
+	day_info.clear();
 	vector<string>savePlace = helpGetMatchPlace();
 	cout << "Matches by squads" << endl;
 	int tempDay = day;
@@ -225,6 +225,7 @@ void WorldCup::showTeam16()
 
 void WorldCup::grouping16()
 {
+	day_info.clear();
 	srand((unsigned)time(NULL));
 	day++;
 	vector<string>savePlace;
@@ -430,6 +431,10 @@ void WorldCup::helpGrouping16(Group tempGroup1, Group tempGroup2,vector<string> 
 {
 	cout << '\t' << tempGroup1.group[0]->getCountry() << " vs " << tempGroup2.group[1]->getCountry();
 	cout << " at " << tempPlace[0];
+	day_info.insert(pair<int, string>(day, tempGroup1.group[0]->getCountry()
+		+" vs "+ tempGroup2.group[1]->getCountry()+","+ tempPlace[0]));
+	matchTeam.push_back(tempGroup1.group[0]);
+	matchTeam.push_back(tempGroup2.group[1]);
 	tempPlace.erase(tempPlace.begin());
 }
 
