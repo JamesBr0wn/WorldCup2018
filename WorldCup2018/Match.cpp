@@ -5,7 +5,7 @@
 #include <cstdlib>
 #include <ctime>
 #define GOALRATE 20
-#define MONTH  "七月\0"
+#define MONTH  "July\0"
 using namespace std;
 
 vector<Shot> WorldCup::match(Team& home, Team& away, int type){ 
@@ -134,30 +134,30 @@ void WorldCup::groupMatch() {
 		//Matches in the ith day
 		range = day_info.equal_range(i);
 		//Print day information
-		cout << "观众朋友们早上好，今天是" << MONTH << i << "号，";
+		cout << "Hello everyone, it is " << MONTH  << " "<< i << ", ";
 		if (i == 11) {
-			cout << "小组赛的最后一天，明天开始我们将迎来残酷的淘汰赛，" << endl;
+			cout << "the last day of group match, tomorrow 32 promotion team will face curel knockout." << endl;
 		}
 		else {
-			cout << "小组赛的第" << i << "天";
+			cout << "the " << i << "th day of group match." << endl;
 		}
-		cout << "今天我们要进行的是";
+		cout << "Today we will have ";
 		if (i & 1) {
-			cout << "A组、C组、E组和G组四个小组共四场的比赛" << endl;
+			cout << "matches of Group A, C, E and G, totally 4 matches." << endl;
 		}
 		else {
-			cout << "B组、D组、F组和H组四个小组共四场的比赛" << endl;
+			cout << "matches of Group B, D, F and H, totally 4 matches." << endl;
 		}
 		for (CIT it = range.first, int j = 0; it != range.second; it++, j++) {
 			//The jth match in one day
 			string vsTeam = it->second;
-			string homeName = vsTeam.substr(0, vsTeam.find(" vs");
+			string homeName = vsTeam.substr(0, vsTeam.find(" vs"));
 			string awayName = vsTeam.substr(awayName.find("vs") + 3, vsTeam.find(',') - vsTeam.find("vs") - 3);
 			//Print match information
-			cout << "接下来进行的是今天的第" << j << "场比赛"<< endl;
+			cout << "Next we will have today's " << j << "th match:"<< endl;
 			startMatch(homeName, awayName, j);
 		}
-
+		groupSort(i);
 	}
 }
 
@@ -166,9 +166,7 @@ void WorldCup::knockout() {
 }
 
 void WorldCup::startMatch(string homeName, string awayName, int type) {
-	string homeNameCN = nameConversion(homeName);
-	string awayNameCN = nameConversion(awayName);
-	cout << homeNameCN << "对阵" << awayNameCN << endl;
+	cout << homeName << "vs" << awayName << endl;
 	Team& home = findTeam(homeName), away = findTeam(awayName);
 	vector<Shot> result = match(home, away, type);
 	liveBroadcast(result);
@@ -179,16 +177,21 @@ void WorldCup::liveBroadcast(vector<Shot> result) {
 
 }
 
+void WorldCup::groupSort(int i) {
+
+}
+
 string WorldCup::voicePool(Shot shot) {
 
 }
 
 
 Team& WorldCup::findTeam(string teamName) {
-	for (int i = 0; i < totalTeam.size(); i++) {
-		if (teamName == totalTeam[i].getName()) {
-			return totalTeam[i];
+	for (int i = 0; i < totalTeams.size(); i++) {
+		if (teamName == totalTeams[i].getCountry()) {
+			return totalTeams[i];
 		}
 	}
 	throw runtime_error("No team match");
 }
+

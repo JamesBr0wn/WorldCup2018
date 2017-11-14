@@ -31,14 +31,6 @@ struct Shot {
 class WorldCup
 {
 public:
-
-
-
-	void groupMatch();
-	void knockout();
-
-
-
 	WorldCup();
 	void getTeamInfo();
 	void getPlaceInfo();
@@ -56,6 +48,13 @@ public:
 	void grouping4();
 	void showTeam2();
 	void grouping2();
+	void groupMatch();
+	void knockout();
+	void startMatch(string homeName, string awayName, int type);
+	void liveBroadcast(vector<Shot> result);
+	void groupSort(int i);
+	string voicePool(Shot shot);
+	Team& findTeam(string teamName);
 	vector<Shot> match(Team& home, Team& away, int type);
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i);
