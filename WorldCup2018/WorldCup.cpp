@@ -54,14 +54,16 @@ void WorldCup::getTeamInfo()
 			tempPlayer.setAbility(_playerAbility);
 			totalPlayers.push_back(tempPlayer);
 		}
-		for (int i = 0; i < teamMember; i++) 
-			tempTeam.setPlayer(&totalPlayers[i]);
 		tempTeam.setContinent(_continent);
 		tempTeam.setRank(_rank);
 		tempTeam.setAbility(_teamAbility);
 		tempTeam.setCountry(_country);
 		totalTeams.push_back(tempTeam);
 	}
+	int i = 0;
+	for (int j = 0; j < 32; j++)
+		for(int k=0;k<teamMember;k++,i++)
+			totalTeams[j].setPlayer(&totalPlayers[i]);
 	in.close();
 }
 
