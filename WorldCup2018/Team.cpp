@@ -1,11 +1,25 @@
 #include "Team.hpp"
 
+Team::Team(string _country, string _continent, vector<Player*> _myPlayer, int _rank, int _ability, int _won, int _draw, int _lost, int _goals_for, int _goals_against)
+{
+	setCountry(_country);
+	myPlayer = _myPlayer;
+	setRank(_rank);
+	setAbility(_ability);
+	setContinent(_continent);
+	setWon(_won);
+	setDraw(_draw);
+	setLost(_lost);
+	setGoals_for(_goals_for);
+	setGoals_against(_goals_against);
+}
+
 void Team::setCountry(string countryName)
 {
 	country = countryName;
 }
 
-void Team::setPlayer(const Player &tempPlayer)
+void Team::setPlayer(Player* tempPlayer)
 {
 	myPlayer.push_back(tempPlayer);
 }
@@ -50,10 +64,6 @@ void Team::setGoals_against(int _goals_against)
 	goals_against = _goals_against;
 }
 
-void Team::setPoints(int _points)
-{
-	points = _points;
-}
 
 int Team::getWon()
 {
@@ -87,7 +97,7 @@ int Team::getgGoals_diffence()
 
 int Team::getPoints()
 {
-	return points;
+	return 3*getWon()+getDraw();
 }
 
 int Team::getAbility()
@@ -110,7 +120,7 @@ string Team::getContinent()
 	return continent;
 }
 
-vector<Player>& Team::getPlayer()
+vector<Player*> Team::getPlayer()
 {
 	return myPlayer;
 }

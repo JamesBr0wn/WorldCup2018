@@ -1,5 +1,15 @@
 #include "Player.hpp"
 
+Player::Player(string _name, string _country, string _id, string _position, int _ability, int _goal)
+{
+	setName(_name);
+	setCountry(_country);
+	setID(_id);
+	setPosition(_position);
+	setAbility(_ability);
+	setGoal(_goal);
+}
+
 string Player::getName()
 {
 	return name;

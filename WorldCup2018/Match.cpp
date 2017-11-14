@@ -1,66 +1,74 @@
 #include "WorldCup.hpp"
+#include <iostream>
 #include <vector>
 #include <string>
 #include <cstdlib>
 #include <ctime>
+#define GOALRATE 20
 using namespace std;
 
-vector<Shot> WroldCup::match(Team& home, Team& away, int type){
+vector<Shot> WorldCup::match(Team& home, Team& away, int type){ 
 	vector<Shot> result;
 	int homeGoal = 0, awayGoal = 0;
 	int teamSection = home.getAbility() + away.getAbility();
 	for (int i = 0; i < 12; i++) {
 		result.push_back(Shot());
 		//Determine shot time
-		srand((unsigned int)time(NULL));
+		srand((unsigned int)time(NULL)+rand());
 		unsigned int currentTime = i * 10 + (rand() % 10);
 		result[i].time = currentTime;
 		//Determine whether the shot has goal in
-		bool goal = ((rand() % 10) <= 3);
+		srand((unsigned int)time(NULL) + rand());
+		bool goal = ((rand() % 100) <= GOALRATE);
 		result[i].goal = goal;
 		//Determine which team take this shot
+		srand((unsigned int)time(NULL) + rand());
 		int teamRandom = rand() % teamSection;
-		Team& shotTeam = home;
-		Team& shotedTeam = away;
-		if (teamRandom >= home.getAbility()) {
-			shotTeam = away;
-			shotedTeam = home;
+		Team* shotTeam = &home;
+		Team* shotedTeam = &away;
+		if (teamRandom > home.getAbility()) {
+			shotTeam = &away;
+			shotedTeam = &home;
 		}
-		result[i].teamName = shotTeam.getCountry();
+		result[i].teamName = shotTeam->getCountry();
+		cout << home.getCountry() << away.getCountry() << endl;
 		//Determine which player take this shot
 		int playerSection = 0;
-		vector<Player>& teamPlayer = shotTeam.getPlayer();
+		vector<Player*> teamPlayer = shotTeam->getPlayer();
 		for (int j = 0; j < teamPlayer.size(); j++){
-			playerSection += teamPlayer[j].getAbility();
+			playerSection += teamPlayer[j]->getAbility();
 		}
+		srand((unsigned int)time(NULL) + rand());
 		int playerRandom = rand() % playerSection;
-		int currentAbility;
-		Player& shotPlayer = teamPlayer[0];
+		int currentAbility = 0;
+		Player* shotPlayer = teamPlayer[0];
 		for (int j = 0; j < teamPlayer.size(); j++) {
-			currentAbility += teamPlayer[j].getAbility();
+			currentAbility += teamPlayer[j]->getAbility();
 			if (playerRandom < currentAbility) {
 				shotPlayer = teamPlayer[j];
 				break;
 			}
 		}
-		result[i].playerName = shotPlayer.getName();
-		result[i].playerID = shotPlayer.getID();
+
+		result[i].playerName = shotPlayer->getName();
+		result[i].playerID = shotPlayer->getID();
+		result[i].playerPosition = shotPlayer->getPosition();
 		//If the shot has goal in
 		if (goal) {
 			//Modify the score
-			if (shotTeam.getCountry() == home.getCountry()) {
+			if (shotTeam->getCountry() == home.getCountry()) {
 				homeGoal++;
 			}
 			else {
 				awayGoal++;
 			}
 			//Modify team data
-			shotTeam.setGoals_for(shotTeam.getGoals_for() + 1);
-			shotedTeam.setGoals_against(shotTeam.getGoals_against() + 1);
+			shotTeam->setGoals_for(shotTeam->getGoals_for() + 1);
+			shotedTeam->setGoals_against(shotTeam->getGoals_against() + 1);
 			//MOdify palyer data
-			shotPlayer.setGoal(shotPlayer.getGoal() + 1);
+			shotPlayer->setGoal(shotPlayer->getGoal() + 1);
 		}
-		if (i+1 == 9 && homeGoal != awayGoal) {
+		if (i+1 == 9 && (homeGoal != awayGoal || type == 0)) {
 			break;
 		}
 	}
@@ -74,6 +82,7 @@ vector<Shot> WroldCup::match(Team& home, Team& away, int type){
 		//Determine which team take this goal by dice
 		Team& shotTeam = home;
 		Team& shotedTeam = away;
+		srand((unsigned int)time(NULL) + rand());
 		int dice = rand() % 6;
 		if (dice < 3) {
 			shotTeam = away;
@@ -81,11 +90,12 @@ vector<Shot> WroldCup::match(Team& home, Team& away, int type){
 		}
 		result.back().teamName = shotTeam.getCountry();
 		//Determine which player take this shot randomly
-		int playerNum = rand() % 11;
-		Player& shotPlayer = shotTeam.getPlayer()[playerNum];
-		result.back().playerID = shotPlayer.getID();
-		result.back().playerName = shotPlayer.getName();
-		result.back().playerPosition = shotPlayer.getPosition();
+		srand((unsigned int)time(NULL) + rand());
+		int playerNum = rand() % shotTeam.getPlayer().size();
+		Player* shotPlayer = shotTeam.getPlayer()[playerNum];
+		result.back().playerID = shotPlayer->getID();
+		result.back().playerName = shotPlayer->getName();
+		result.back().playerPosition = shotPlayer->getPosition();
 		//Modify the score
 		if (shotTeam.getCountry() == home.getCountry()) {
 			homeGoal++;
@@ -97,23 +107,21 @@ vector<Shot> WroldCup::match(Team& home, Team& away, int type){
 		shotTeam.setGoals_for(shotTeam.getGoals_for() + 1);
 		shotedTeam.setGoals_against(shotTeam.getGoals_against() + 1);
 		//Modify palyer data
-		shotPlayer.setGoal(shotPlayer.getGoal() + 1);
+		shotPlayer->setGoal(shotPlayer->getGoal() + 1);
 	}
 	//Modify team points, goals for and  goals against
 	if (homeGoal > awayGoal) {
 		home.setWon(home.getWon() + 1);
 		away.setLost(away.getLost() + 1);
-		home.setPoints(home.getPoints() + 3);
 	}
 	else if (homeGoal < awayGoal) {
 		home.setLost(home.getLost() + 1);
 		away.setWon(away.getWon() + 1);
-		away.setPoints(away.getPoints() + 3);
 	}
 	else {
 		home.setDraw(home.getDraw() + 1);
 		away.setDraw(away.getDraw() + 1);
-		home.setPoints(home.getPoints() + 1);
-		away.setPoints(away.getPoints() + 1);
 	}
+	cout << type << endl;
+	return result;
 }

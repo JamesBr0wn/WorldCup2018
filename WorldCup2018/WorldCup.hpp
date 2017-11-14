@@ -5,7 +5,7 @@
 #include<map>
 struct Group
 {
-	vector<Team> group;
+	vector<Team*> group;
 	map<string,int> continent;
 	char groupName;
 	Group(char _name=' ') :groupName(_name) {
@@ -27,10 +27,10 @@ struct Shot {
 	string playerPosition;
 };
 
-class WroldCup
+class WorldCup
 {
 public:
-	WroldCup();
+	WorldCup();
 	void getTeamInfo();
 	void showTeamInfo();
 	void showGroupInfo();

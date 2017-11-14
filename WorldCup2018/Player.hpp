@@ -7,6 +7,7 @@ using namespace std;
 class Player
 {
 public:
+	Player(string _name = "", string _country = "", string _id = "", string _position = "", int _ability = 0, int _goal = 0);
 	string getName();
 	string getPosition();
 	string getCountry();

@@ -8,12 +8,12 @@ using namespace std;
 
 #define hostRank 0
 #define teamMember 11
-WroldCup::WroldCup()
+WorldCup::WorldCup()
 {
 
 }
 
-void WroldCup::getTeamInfo()
+void WorldCup::getTeamInfo()
 {
 	ifstream in("data.txt");
 	if (!in) {
@@ -24,7 +24,7 @@ void WroldCup::getTeamInfo()
 	string _country,temp;
 	int _rank;
 	string _id, _name, _position,_continent;
-	double _teamAbility, _playerAbility;
+	int _teamAbility, _playerAbility;
 	int _AFC, _CAF, _CONCACAF, _OFC, _CONMEBOL, _UEFA;
 	in >> _CAF >> _CONMEBOL >> _AFC>>_OFC >> _CONCACAF >> _UEFA;
 	getline(in, temp);
@@ -49,7 +49,7 @@ void WroldCup::getTeamInfo()
 			tempPlayer.setName(_name);
 			tempPlayer.setPosition(_position);
 			tempPlayer.setAbility(_playerAbility);
-			tempTeam.setPlayer(tempPlayer);
+			tempTeam.setPlayer(&tempPlayer);
 			totalPlayers.push_back(tempPlayer);
 		}
 		tempTeam.setContinent(_continent);
@@ -61,7 +61,7 @@ void WroldCup::getTeamInfo()
 	in.close();
 }
 
-void WroldCup::showTeamInfo()
+void WorldCup::showTeamInfo()
 {
 	ofstream out("team32.txt");
 	int i = 0;
@@ -116,7 +116,7 @@ void WroldCup::showTeamInfo()
 	out.close();
 }
 
-void WroldCup::showGroupInfo()
+void WorldCup::showGroupInfo()
 {
 	/*ofstream out;
 	out.open("finalDraw.txt", ios_base::app);
@@ -150,7 +150,7 @@ void WroldCup::showGroupInfo()
 	
 }
 
-void WroldCup::showPotInfo()
+void WorldCup::showPotInfo()
 {
 	ofstream out("finalDraw.txt");
 	out << "First stage :" << endl;
@@ -170,7 +170,7 @@ void WroldCup::showPotInfo()
 	out.close();
 }
 
-void WroldCup::setPot()
+void WorldCup::setPot()
 {
 	int i = 0;
 	helpSetPlot(pot2, CAF + CONMEBOL, i);
@@ -197,7 +197,7 @@ void WroldCup::setPot()
 	}*/
 }
 
-void WroldCup::grouping()
+void WorldCup::grouping()
 {
 	helpGrouping(pot1,true);
 	helpGrouping(pot2,false);
@@ -249,7 +249,7 @@ void WroldCup::grouping()
 	}*/
 }
 
-void WroldCup::helpTeamShow(ofstream &out,int number, int amount, int &i)
+void WorldCup::helpTeamShow(ofstream &out,int number, int amount, int &i)
 {
 	out << "(" << amount << ")" << endl;
 	cout << "(" << amount << ")" << endl;
@@ -259,7 +259,7 @@ void WroldCup::helpTeamShow(ofstream &out,int number, int amount, int &i)
 	}
 }
 
-void WroldCup::helpSetPlot(vector<Team>& tempPot,int amount,int &i)
+void WorldCup::helpSetPlot(vector<Team>& tempPot,int amount,int &i)
 {
 	for (; i < amount; i++) {
 		if (totalTeams[i].getRank() <= 7 || totalTeams[i].getRank() == hostRank)
@@ -269,7 +269,7 @@ void WroldCup::helpSetPlot(vector<Team>& tempPot,int amount,int &i)
 	}
 }
 
-void WroldCup::helpGrouping(vector<Team>& tempPot,bool ok)
+void WorldCup::helpGrouping(vector<Team>& tempPot,bool ok)
 {
 	srand((unsigned)time(NULL));
 	int indexNow=0;
@@ -277,34 +277,34 @@ void WroldCup::helpGrouping(vector<Team>& tempPot,bool ok)
 	while (tempPot.size()) {
 		int index = rand() % tempPot.size();
 		if (tempPot[index].getRank() == hostRank) {
-			GA.group.push_back(pot1[index]);
+			GA.group.push_back(&pot1[index]);
 			tempPot.erase(pot1.begin() + index);
 		}
 		else {
 			switch (indexNow) {
 			case 0:
-				GA.group.push_back(tempPot[index]);
+				GA.group.push_back(&tempPot[index]);
 				break;
 			case 1:
-				GB.group.push_back(tempPot[index]);
+				GB.group.push_back(&tempPot[index]);
 				break;
 			case 2:
-				GC.group.push_back(tempPot[index]);
+				GC.group.push_back(&tempPot[index]);
 				break;
 			case 3:
-				GD.group.push_back(tempPot[index]);
+				GD.group.push_back(&tempPot[index]);
 				break;
 			case 4:
-				GE.group.push_back(tempPot[index]);
+				GE.group.push_back(&tempPot[index]);
 				break;
 			case 5:
-				GF.group.push_back(tempPot[index]);
+				GF.group.push_back(&tempPot[index]);
 				break;
 			case 6:
-				GG.group.push_back(tempPot[index]);
+				GG.group.push_back(&tempPot[index]);
 				break;
 			case 7:
-				GH.group.push_back(tempPot[index]);
+				GH.group.push_back(&tempPot[index]);
 				break;
 			default:
 				break;
@@ -315,13 +315,13 @@ void WroldCup::helpGrouping(vector<Team>& tempPot,bool ok)
 	}
 }
 
-void WroldCup::setTeamAmount(int _CAF, int _CONMEBOL, int _AFC,int _OFC, int _CONCACAF, int _UEFA)
+void WorldCup::setTeamAmount(int _CAF, int _CONMEBOL, int _AFC,int _OFC, int _CONCACAF, int _UEFA)
 {
 	CAF = _CAF; CONMEBOL = _CONMEBOL; AFC = _AFC;
 	CONCACAF = _CONCACAF; UEFA = _UEFA; OFC = _OFC;
 }
 
-void WroldCup::helpPotShow(ofstream & out, vector<Team>& tempPot)
+void WorldCup::helpPotShow(ofstream & out, vector<Team>& tempPot)
 {
 	for (int i = 0; i < tempPot.size(); i++) {
 		out << '\t' << tempPot[i].getCountry() << endl;
