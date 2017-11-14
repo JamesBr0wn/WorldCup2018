@@ -51,7 +51,7 @@ public:
 	void showTeam16();
 	void grouping16();
 	void showTeam8();
-	vector<Shot> WorldCup::match(Team& home, Team& away, int type);
+	vector<Shot> match(Team& home, Team& away, int type);
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i);
 	void helpSetPlot(vector<Team*>& tempPot, int amount, int &i);
