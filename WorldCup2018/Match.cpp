@@ -171,8 +171,18 @@ void WorldCup::startMatch(string homeName, string awayName, int type) {
 	cout << homeNameCN << "¶ÔÕó" << awayNameCN << endl;
 	Team& home = findTeam(homeName), away = findTeam(awayName);
 	vector<Shot> result = match(home, away, type);
+	liveBroadcast(result);
 
 }
+
+void WorldCup::liveBroadcast(vector<Shot> result) {
+
+}
+
+string WorldCup::voicePool(Shot shot) {
+
+}
+
 
 Team& WorldCup::findTeam(string teamName) {
 	for (int i = 0; i < totalTeam.size(); i++) {
