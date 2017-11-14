@@ -236,26 +236,52 @@ void WorldCup::grouping16()
 		tempPlace.erase(tempPlace.begin() + index);
 	}
 	cout << "Schedule for round of 16:" << endl;
-	cout << "June " << day << endl;
 	day++;
+	cout << "June " << day << endl;
 	helpGrouping16(GA, GB, savePlace);
 	helpGrouping16(GC, GD, savePlace);
-	cout << "June " << day << endl;
 	day++;
+	cout << "June " << day << endl;
 	helpGrouping16(GE, GF, savePlace);
 	helpGrouping16(GG, GH, savePlace);
-	cout << "June " << day << endl;
 	day++;
+	cout << "June " << day << endl;
 	helpGrouping16(GB, GA, savePlace);
 	helpGrouping16(GD, GC, savePlace);
-	cout << "June " << day << endl;
 	day++;
+	cout << "June " << day << endl;
 	helpGrouping16(GF, GE, savePlace);
 	helpGrouping16(GG, GH, savePlace);
 }
 
 void WorldCup::showTeam8()
 {
+	helpShowTeam8_4_2(8);
+}
+
+void WorldCup::grouping8()
+{
+	helpGrouping8_4_2(8);
+}
+
+void WorldCup::showTeam4()
+{
+	helpShowTeam8_4_2(4);
+}
+
+void WorldCup::grouping4()
+{
+	helpGrouping8_4_2(4);
+}
+
+void WorldCup::showTeam2()
+{
+	helpShowTeam8_4_2(2);
+}
+
+void WorldCup::grouping2()
+{
+	helpGrouping8_4_2(2);
 }
 
 void WorldCup::helpTeamShow(ofstream &out,int number, int amount, int &i)
@@ -436,5 +462,33 @@ void WorldCup::helpGrouping16(Group tempGroup1, Group tempGroup2,vector<string> 
 	matchTeam.push_back(tempGroup1.group[0]);
 	matchTeam.push_back(tempGroup2.group[1]);
 	tempPlace.erase(tempPlace.begin());
+}
+
+void WorldCup::helpShowTeam8_4_2(int teamAmount)
+{
+	cout << "Qualified for round of :" << teamAmount << endl;
+	for (int i = 0; i < teamAmount; i++)
+		cout << '\t' << matchTeam[i] << endl;
+}
+
+void WorldCup::helpGrouping8_4_2(int teamAmount)
+{
+	day++;
+	day_info.clear();
+	srand((unsigned)time(NULL));
+	cout << "June " << day << endl;
+	vector<string>savePlace;
+	vector<string>tempPlace = place;
+	while (savePlace.size() != teamAmount/2) {
+		int index = rand() % tempPlace.size();
+		savePlace.push_back(tempPlace[index]);
+		tempPlace.erase(tempPlace.begin() + index);
+	}
+	cout << "Schedule for round of :" << teamAmount << endl;
+	for (int i = 0; i < teamAmount; i += 2) {
+		day++;
+		cout << matchTeam[i] << " vs " << matchTeam[i + 1] << "," << savePlace[0];
+		savePlace.erase(savePlace.begin());
+	}
 }
 

@@ -8,7 +8,7 @@ struct Group
 	vector<Team*> group;
 	map<string,int> continent;
 	char groupName;
-	Group(char _name=' ') :groupName(_name) {
+	Group(char _name=' ') :groupName(_name){
 		continent["AFC"] = 0;
 		continent["CAF"] = 0;
 		continent["CONCACAF"] = 0;
@@ -51,6 +51,11 @@ public:
 	void showTeam16();
 	void grouping16();
 	void showTeam8();
+	void grouping8();
+	void showTeam4();
+	void grouping4();
+	void showTeam2();
+	void grouping2();
 	vector<Shot> match(Team& home, Team& away, int type);
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i);
@@ -63,6 +68,8 @@ private:
 	vector<string> helpGetMatchPlace();
 	void helpShowTeam16(Group tempGroup,int winner);
 	void helpGrouping16(Group tempGroup1, Group tempGroup2, vector<string>tempPlace);
+	void helpShowTeam8_4_2(int teamAmount);
+	void helpGrouping8_4_2(int teamAmount);
 
 	int AFC;
 	int CAF;
