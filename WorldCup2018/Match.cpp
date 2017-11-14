@@ -181,6 +181,10 @@ void WorldCup::groupSort(int i) {
 
 }
 
+void WorldCup::printTeamInfo(Team& team) {
+
+}
+
 string WorldCup::voicePool(Shot shot) {
 
 }
