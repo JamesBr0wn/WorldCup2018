@@ -469,7 +469,7 @@ void WorldCup::helpShowTeam8_4_2(int teamAmount)
 {
 	cout << "Qualified for round of :" << teamAmount << endl;
 	for (int i = 0; i < teamAmount; i++)
-		cout << '\t' << matchTeam[i] << endl;
+		cout << '\t' << matchTeam[i]->getCountry() << endl;
 }
 
 void WorldCup::helpGrouping8_4_2(int teamAmount)
@@ -477,7 +477,6 @@ void WorldCup::helpGrouping8_4_2(int teamAmount)
 	day++;
 	day_info.clear();
 	srand((unsigned)time(NULL));
-	cout << "June " << day << endl;
 	vector<string>savePlace;
 	vector<string>tempPlace = place;
 	while (savePlace.size() != teamAmount/2) {
@@ -488,7 +487,9 @@ void WorldCup::helpGrouping8_4_2(int teamAmount)
 	cout << "Schedule for round of :" << teamAmount << endl;
 	for (int i = 0; i < teamAmount; i += 2) {
 		day++;
-		cout << matchTeam[i] << " vs " << matchTeam[i + 1] << "," << savePlace[0];
+		cout << "June " << day << endl;
+		cout << '\t' << matchTeam[i]->getCountry() << " vs " << matchTeam[i + 1]->getCountry() << ","
+			<< savePlace[0] << endl;
 		savePlace.erase(savePlace.begin());
 	}
 }

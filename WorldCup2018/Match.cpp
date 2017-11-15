@@ -67,12 +67,12 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 				awayGoal++;
 			}
 			//Modify team data
-			shotTeam->setGoals_for(shotTeam->getGoals_for() + 1);
-			shotedTeam->setGoals_against(shotedTeam->getGoals_against() + 1);
-			//MOdify palyer data
-			shotPlayer->setGoal(shotPlayer->getGoal() + 1);
+shotTeam->setGoals_for(shotTeam->getGoals_for() + 1);
+shotedTeam->setGoals_against(shotedTeam->getGoals_against() + 1);
+//MOdify palyer data
+shotPlayer->setGoal(shotPlayer->getGoal() + 1);
 		}
-		if (i+1 == 9 && (homeGoal != awayGoal || type == 0)) {
+		if (i + 1 == 9 && (homeGoal != awayGoal || type == 0)) {
 			break;
 		}
 	}
@@ -135,7 +135,7 @@ void WorldCup::groupMatch() {
 		//Matches in the ith day
 		range = day_info.equal_range(i);
 		//Print day information
-		cout << "Hello everyone, it is " << MONTH  << " "<< i << ", ";
+		cout << "Hello everyone, it is " << MONTH << " " << i << ", ";
 		if (i == 12) {
 			cout << "the last day of group match, tomorrow 32 promotion team will face curel knockout." << endl;
 		}
@@ -144,7 +144,7 @@ void WorldCup::groupMatch() {
 		}
 		cout << "Today we will have ";
 		if (i & 1) {
-cout << "matches of Group A, C, E and G, totally 4 matches." << endl;
+			cout << "matches of Group A, C, E and G, totally 4 matches." << endl;
 		}
 		else {
 			cout << "matches of Group B, D, F and H, totally 4 matches." << endl;
@@ -166,19 +166,27 @@ cout << "matches of Group A, C, E and G, totally 4 matches." << endl;
 }
 
 void WorldCup::knockout() {
-
+	//vector<Team*> matchTeam;
+	//vector<Team*> failTeam;
+	//Clear the infomation of failed team in the last round
+	failTeam.clear();
+	for (int i = 0; i < matchTeam.size()-1; i++) {
+		pair<int, int> score = startMatch(matchTeam[i]->getCountry(), matchTeam[i + 1]->getCountry(), 1);
+		failTeam.push_back(matchTeam[i + (score.first > score.second)]);
+		matchTeam.erase(matchTeam.begin()+ i + (score.first > score.second));
+	}
 }
 
-void WorldCup::startMatch(string homeName, string awayName, int type) {
-	cout << homeName << "vs" << awayName << endl;
+pair<int, int> WorldCup::startMatch(string homeName, string awayName, int type) {
+	//cout << homeName << " vs " << awayName << endl;
 	Team& home = findTeam(homeName), away = findTeam(awayName);
 	printTeamInfo(home);
 	printTeamInfo(away);
 	vector<Shot> result = match(home, away, type);
-	liveBroadcast(homeName, awayName, result);
+	return liveBroadcast(homeName, awayName, result);
 }
 
-void WorldCup::liveBroadcast(string homeName, string awayName, vector<Shot> result) {
+pair<int, int> WorldCup::liveBroadcast(string homeName, string awayName, vector<Shot> result) {
 	int homeGoal = 0, awayGoal = 0;
 	cout << "Playing..." << endl;
 	for (int i = 0; i < result.size(); i++) {
@@ -189,8 +197,8 @@ void WorldCup::liveBroadcast(string homeName, string awayName, vector<Shot> resu
 			else {
 				awayGoal++;
 			}
-			cout << result[i].teamName << " did a goal, and it was " << result[i].playerID << ", " << result[i].playerName << " did the goal" << endl;
-			cout << "Now it is " << homeGoal << ":" << awayGoal << endl;
+			//cout << result[i].teamName << " did a goal, and it was " << result[i].playerID << ", " << result[i].playerName << " did the goal" << endl;
+			//cout << "Now it is " << homeGoal << ":" << awayGoal << endl;
 		}
 	}
 	if (homeGoal > awayGoal) {
@@ -202,6 +210,7 @@ void WorldCup::liveBroadcast(string homeName, string awayName, vector<Shot> resu
 	else {
 		cout << "It is a draw with " << homeGoal << ":" << awayGoal << endl;
 	}
+	return pair<int, int>(homeGoal, awayGoal);
 }
 
 void WorldCup::groupSort(int i) {
@@ -221,12 +230,12 @@ void WorldCup::groupSort(int i) {
 }
 
 void WorldCup::printTeamInfo(Team& team) {
-	cout << team.getCountry() << endl;
+	/*cout << team.getCountry() << endl;
 	for (int i = 0; i < team.getPlayer().size(); i++) {
 		Player* temp = team.getPlayer()[i];
 		cout << temp->getID() << endl;
 		cout << team.getPlayer()[i]->getID() << ", " << team.getPlayer()[i]->getName() << ", " << team.getPlayer()[i]->getPosition() << endl;
-	}
+	}*/
 }
 
 string WorldCup::voicePool(Shot shot) {

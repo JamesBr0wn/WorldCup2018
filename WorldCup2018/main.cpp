@@ -17,5 +17,10 @@ int main()
 	mycup.groupMatch();
 	mycup.showTeam16();
 	mycup.grouping16();
+	mycup.knockout();
+	mycup.showTeam8();
+	mycup.grouping8();
+	mycup.knockout();
+	mycup.showTeam4();
 	getchar();
 }

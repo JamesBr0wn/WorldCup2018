@@ -50,8 +50,8 @@ public:
 	void grouping2();
 	void groupMatch();
 	void knockout();
-	void startMatch(string homeName, string awayName, int type);
-	void liveBroadcast(string homeName, string awayName, vector<Shot> result);
+	pair<int, int> startMatch(string homeName, string awayName, int type);
+	pair<int, int> liveBroadcast(string homeName, string awayName, vector<Shot> result);
 	void groupSort(int i);
 	void printTeamInfo(Team& team);
 	void sortGroup(Group group);
@@ -78,9 +78,10 @@ private:
 	int OFC;
 	int CONMEBOL;
 	int UEFA;
-	int day;     //表示当前日期
+	int day;						//表示当前日期
 	multimap<int, string> day_info; //存放比赛时间表
-	vector<Team*> matchTeam;         //存放比赛的队伍
+	vector<Team*> matchTeam;        //存放当轮淘汰赛中比赛的队伍
+	vector<Team*> failTeam;			//存放当轮淘汰赛中被淘汰的队伍
 	vector<Team> totalTeams;        //存放所有队伍
 	vector<Player> totalPlayers;    //存放所有球员
 	vector<string> place;
