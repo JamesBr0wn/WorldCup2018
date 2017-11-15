@@ -67,10 +67,10 @@ vector<Shot> WorldCup::match(Team& home, Team& away, int type){
 				awayGoal++;
 			}
 			//Modify team data
-shotTeam->setGoals_for(shotTeam->getGoals_for() + 1);
-shotedTeam->setGoals_against(shotedTeam->getGoals_against() + 1);
-//MOdify palyer data
-shotPlayer->setGoal(shotPlayer->getGoal() + 1);
+			shotTeam->setGoals_for(shotTeam->getGoals_for() + 1);
+			shotedTeam->setGoals_against(shotedTeam->getGoals_against() + 1);
+			//Modify palyer data
+			shotPlayer->setGoal(shotPlayer->getGoal() + 1);
 		}
 		if (i + 1 == 9 && (homeGoal != awayGoal || type == 0)) {
 			break;

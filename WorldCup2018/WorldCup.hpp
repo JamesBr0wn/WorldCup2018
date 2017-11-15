@@ -50,14 +50,6 @@ public:
 	void grouping2();
 	void groupMatch();
 	void knockout();
-	pair<int, int> startMatch(string homeName, string awayName, int type);
-	pair<int, int> liveBroadcast(string homeName, string awayName, vector<Shot> result);
-	void groupSort(int i);
-	void printTeamInfo(Team& team);
-	void sortGroup(Group group);
-	string voicePool(Shot shot);
-	Team& findTeam(string teamName);
-	vector<Shot> match(Team& home, Team& away, int type);
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i);
 	void helpSetPlot(vector<Team*>& tempPot, int amount, int &i);
@@ -66,11 +58,20 @@ private:
 	void setTeamAmount(int _CAF, int _CONMEBOL, int _AFC, int _OFC, int _CONCACAF, int _UEFA);
 	void helpPotShow(ofstream& out, vector<Team*>& tempPot);
 	void helpSchedule16(Group tempGroup,multimap<int,string>& day_info,const vector<string>&tempPlace,int _day, int match);
-	vector<string> helpGetMatchPlace();
 	void helpShowTeam16(Group tempGroup,int winner);
 	void helpGrouping16(Group tempGroup1, Group tempGroup2, vector<string>&tempPlace);
 	void helpShowTeam8_4_2(int teamAmount);
 	void helpGrouping8_4_2(int teamAmount);
+	vector<string> helpGetMatchPlace();
+
+	vector<Shot> match(Team& home, Team& away, int type);
+	pair<int, int> startMatch(string homeName, string awayName, int type);
+	pair<int, int> liveBroadcast(string homeName, string awayName, vector<Shot> result);
+	string voicePool(Shot shot);
+	Team& findTeam(string teamName);
+	void groupSort(int i);
+	void printTeamInfo(Team& team);
+	void sortGroup(Group group);
 
 	int AFC;
 	int CAF;
