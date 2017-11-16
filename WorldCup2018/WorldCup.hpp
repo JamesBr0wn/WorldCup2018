@@ -18,6 +18,28 @@ struct Group
 	}
 };
 
+struct Date
+{
+	int day;
+	string month;
+	int operator++(int) {
+		int old = day;
+		day++;
+		if (day == 31) {
+			day = 1;
+			month="July";
+		}
+		return old;
+	}
+	int operator+=(int _day) {
+		day+=_day;
+		if (day == 31) {
+			day -= 30;
+			month = "July";
+		}
+		return day;
+	}
+};
 
 struct Shot {
 	unsigned int time;
@@ -79,7 +101,7 @@ private:
 	int OFC;
 	int CONMEBOL;
 	int UEFA;
-	int day;						//表示当前日期
+	Date date;						//表示当前日期
 	multimap<int, string> day_info; //存放比赛时间表
 	vector<Team*> matchTeam;        //存放当轮淘汰赛中比赛的队伍
 	vector<Team*> failTeam;			//存放当轮淘汰赛中被淘汰的队伍

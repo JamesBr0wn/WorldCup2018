@@ -11,10 +11,12 @@ using namespace std;
 #define placeNum 8
 typedef multimap<int, string>::iterator IT;
 typedef pair<IT, IT> Range;
-WorldCup::WorldCup():day(1)
+WorldCup::WorldCup()
 {
 	GA = Group('A');GB = Group('B');GC = Group('C');GD = Group('D');
 	GE = Group('E');GF = Group('F');GG = Group('G');GH = Group('H');
+	date.day = 14;
+	date.month = "June";
 }
 
 void WorldCup::getTeamInfo()
@@ -184,29 +186,29 @@ void WorldCup::schedule32()
 	day_info.clear();
 	vector<string>savePlace = helpGetMatchPlace();
 	cout << "Matches by squads" << endl;
-	int tempDay = day;
-	int tempDay1 = day + 1;
+	int tempDay = date.day;
+	int tempDay1 = date.day + 1;
 	int i = 0;
 	helpSchedule16(GA, day_info, savePlace, 0,0);
-	day = tempDay1;
+	date.day = tempDay1;
 	helpSchedule16(GB, day_info, savePlace, 1,0);
-	day = tempDay;
+	date.day = tempDay;
 	helpSchedule16(GC, day_info, savePlace, 0,1);
-	day = tempDay1;
+	date.day = tempDay1;
 	helpSchedule16(GD, day_info, savePlace, 1,1);
-	day = tempDay;
+	date.day = tempDay;
 	helpSchedule16(GE, day_info, savePlace, 0,2);
-	day = tempDay1;
+	date.day = tempDay1;
 	helpSchedule16(GF, day_info, savePlace, 1,2);
-	day = tempDay;
+	date.day = tempDay;
 	helpSchedule16(GG, day_info, savePlace, 0,3);
-	day = tempDay1;
+	date.day = tempDay1;
 	helpSchedule16(GH, day_info, savePlace, 1,3);
-	day = tempDay;
+	date.day = tempDay;
 	cout << "\nMatches by date" << endl;
-	for (int i = 0; i < 12; i++, day++) {
-		cout << "June " << day << endl;
-		Range range = day_info.equal_range(day);
+	for (int i = 0; i < 12; i++, date.day++) {
+		cout << date.month << date.day << endl;
+		Range range = day_info.equal_range(date.day);
 		for (IT j = range.first; j != range.second; j++)
 			cout << '\t' << j->second << endl;
 	}
@@ -237,20 +239,20 @@ void WorldCup::grouping16()
 		tempPlace.erase(tempPlace.begin() + index);
 	}
 	cout << "Schedule for round of 16:" << endl;
-	day++;
-	cout << "June " << day << endl;
+	date++;
+	cout << date.month << date.day << endl;
 	helpGrouping16(GA, GB, savePlace);
 	helpGrouping16(GC, GD, savePlace);
-	day++;
-	cout << "June " << day << endl;
+	date++;
+	cout << date.month << date.day << endl;
 	helpGrouping16(GE, GF, savePlace);
 	helpGrouping16(GG, GH, savePlace);
-	day++;
-	cout << "June " << day << endl;
+	date++;
+	cout << date.month << date.day << endl;
 	helpGrouping16(GB, GA, savePlace);
 	helpGrouping16(GD, GC, savePlace);
-	day++;
-	cout << "June " << day << endl;
+	date++;
+	cout << date.month << date.day << endl;
 	helpGrouping16(GF, GE, savePlace);
 	helpGrouping16(GG, GH, savePlace);
 }
@@ -407,10 +409,10 @@ void WorldCup::helpSchedule16(Group tempGroup, multimap<int,string>& day_info, c
 	while (j != 4) {
 		ok = false;
 		cout << '\t' << tempGroup.group[0]->getCountry() << " vs " << tempGroup.group[j]->getCountry();
-		cout << "," << tempPlace[_day * 4 + match] << "," << "June " << day << endl;
-		day_info.insert(pair<int, string>(day, tempGroup.group[0]->getCountry()
+		cout << "," << tempPlace[_day * 4 + match] << "," << date.month << date.day << endl;
+		day_info.insert(pair<int, string>(date.day, tempGroup.group[0]->getCountry()
 			+ " vs " + tempGroup.group[j]->getCountry() + "," + tempPlace[_day * 4 + match]));
-		day+=2;
+		date +=2;
 		_day += 2;
 		for (unsigned int t = 0; t < tempGroup.group.size(); t++) {
 			if (!ok&&t != 0 && t != j) {
@@ -419,13 +421,13 @@ void WorldCup::helpSchedule16(Group tempGroup, multimap<int,string>& day_info, c
 				temp1 = t;
 			}
 			else if (ok&&t != 0 && t != j) {
-				cout << tempGroup.group[t]->getCountry() << "," << tempPlace[_day*4+match] << "," << "June " << day << endl;
+				cout << tempGroup.group[t]->getCountry() << "," << tempPlace[_day*4+match] << "," << date.month << date.day << endl;
 				temp2 = t;
 			}
 		}
-		day_info.insert(pair<int, string>(day, tempGroup.group[temp1]->getCountry()
+		day_info.insert(pair<int, string>(date.day, tempGroup.group[temp1]->getCountry()
 			+ " vs " + tempGroup.group[temp2]->getCountry() + "," + tempPlace[_day * 4 + match]));
-		day+=2;
+		date+=2;
 		_day += 2;
 		j++;
 	}
@@ -458,7 +460,7 @@ void WorldCup::helpGrouping16(Group tempGroup1, Group tempGroup2,vector<string>&
 {
 	cout << '\t' << tempGroup1.group[0]->getCountry() << " vs " << tempGroup2.group[1]->getCountry();
 	cout << " at " << tempPlace[0] << endl;
-	day_info.insert(pair<int, string>(day, tempGroup1.group[0]->getCountry()
+	day_info.insert(pair<int, string>(date.day, tempGroup1.group[0]->getCountry()
 		+" vs "+ tempGroup2.group[1]->getCountry()+","+ tempPlace[0]));
 	matchTeam.push_back(tempGroup1.group[0]);
 	matchTeam.push_back(tempGroup2.group[1]);
@@ -474,7 +476,7 @@ void WorldCup::helpShowTeam8_4_2(int teamAmount)
 
 void WorldCup::helpGrouping8_4_2(int teamAmount)
 {
-	day++;
+	date++;
 	day_info.clear();
 	srand((unsigned)time(NULL));
 	vector<string>savePlace;
@@ -486,8 +488,8 @@ void WorldCup::helpGrouping8_4_2(int teamAmount)
 	}
 	cout << "Schedule for round of :" << teamAmount << endl;
 	for (int i = 0; i < teamAmount; i += 2) {
-		day++;
-		cout << "June " << day << endl;
+		date++;
+		cout << date.month << date.day << endl;
 		cout << '\t' << matchTeam[i]->getCountry() << " vs " << matchTeam[i + 1]->getCountry() << ","
 			<< savePlace[0] << endl;
 		savePlace.erase(savePlace.begin());
