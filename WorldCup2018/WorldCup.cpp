@@ -21,7 +21,8 @@ WorldCup::WorldCup()
 
 void WorldCup::getTeamInfo()
 {
-	ifstream in("data.txt");
+	file = "data.txt";
+	ifstream in(file);
 	if (!in) {
 		cout << "No such file." << endl;
 		exit(0);
@@ -71,7 +72,8 @@ void WorldCup::getTeamInfo()
 
 void WorldCup::getPlaceInfo()
 {
-	ifstream in("dataPlace.txt");
+	file = "dataPlace.txt";
+	ifstream in(file);
 	if (!in) {
 		cout << "No such file." << endl;
 		getchar();
@@ -87,7 +89,8 @@ void WorldCup::getPlaceInfo()
 
 void WorldCup::showTeamInfo()
 {
-	ofstream out("team32.txt");
+	file = "team32.txt";
+	ofstream out(file);
 	int i = 0;
 	out << "CAF";
 	cout << "CAF";
@@ -112,8 +115,9 @@ void WorldCup::showTeamInfo()
 
 void WorldCup::showGroupInfo()
 {
+	file = "finalDraw.txt";
 	ofstream out;
-	out.open("finalDraw.txt", ios_base::app);
+	out.open(file, ios_base::app);
 	out << "The Final Draw:" << endl;
 	cout << "The Final Draw:" << endl;
 	out << "group A" << endl;
@@ -146,7 +150,8 @@ void WorldCup::showGroupInfo()
 
 void WorldCup::showPotInfo()
 {
-	ofstream out("finalDraw.txt");
+	file = "finalDraw.txt";
+	ofstream out(file);
 	out << "First stage :" << endl;
 	cout << "First stage :" << endl;
 	out << "pot1" << endl;
@@ -182,53 +187,67 @@ void WorldCup::grouping32()
 
 void WorldCup::schedule32()
 {
+	file = "schedule16.txt";
+	ofstream out(file);
 	srand((unsigned)time(NULL));
 	day_info.clear();
 	vector<string>savePlace = helpGetMatchPlace();
 	cout << "Matches by squads" << endl;
+	out << "Matches by squads" << endl;
 	int tempDay = date.day;
 	int tempDay1 = date.day + 1;
 	int i = 0;
-	helpSchedule16(GA, day_info, savePlace, 0,0);
+	helpSchedule16(out, GA, day_info, savePlace, 0,0);
 	date.day = tempDay1;
-	helpSchedule16(GB, day_info, savePlace, 1,0);
+	helpSchedule16(out, GB, day_info, savePlace, 1,0);
 	date.day = tempDay;
-	helpSchedule16(GC, day_info, savePlace, 0,1);
+	helpSchedule16(out, GC, day_info, savePlace, 0,1);
 	date.day = tempDay1;
-	helpSchedule16(GD, day_info, savePlace, 1,1);
+	helpSchedule16(out, GD, day_info, savePlace, 1,1);
 	date.day = tempDay;
-	helpSchedule16(GE, day_info, savePlace, 0,2);
+	helpSchedule16(out, GE, day_info, savePlace, 0,2);
 	date.day = tempDay1;
-	helpSchedule16(GF, day_info, savePlace, 1,2);
+	helpSchedule16(out, GF, day_info, savePlace, 1,2);
 	date.day = tempDay;
-	helpSchedule16(GG, day_info, savePlace, 0,3);
+	helpSchedule16(out, GG, day_info, savePlace, 0,3);
 	date.day = tempDay1;
-	helpSchedule16(GH, day_info, savePlace, 1,3);
+	helpSchedule16(out, GH, day_info, savePlace, 1,3);
 	date.day = tempDay;
 	cout << "\nMatches by date" << endl;
+	out << "\nMatches by date" << endl;
 	for (int i = 0; i < 12; i++, date.day++) {
-		cout << date.month << date.day << endl;
+		cout << date.month << " " << date.day << endl;
+		out << date.month << " " << date.day << endl;
 		Range range = day_info.equal_range(date.day);
-		for (IT j = range.first; j != range.second; j++)
+		for (IT j = range.first; j != range.second; j++) {
 			cout << '\t' << j->second << endl;
+			out << '\t' << j->second << endl;
+		}
 	}
+	out.close();
 }
 
 void WorldCup::showTeam16()
 {
+	file = "team16.txt";
+	ofstream out(file);
 	cout << "Qualified for round of 16:" << endl;
-	helpShowTeam16(GA, 2);
-	helpShowTeam16(GB, 2);
-	helpShowTeam16(GC, 2);
-	helpShowTeam16(GD, 2);
-	helpShowTeam16(GE, 2);
-	helpShowTeam16(GF, 2);
-	helpShowTeam16(GG, 2);
-	helpShowTeam16(GH, 2);
+	out << "Qualified for round of 16:" << endl;
+	helpShowTeam16(out, GA);
+	helpShowTeam16(out, GB);
+	helpShowTeam16(out, GC);
+	helpShowTeam16(out, GD);
+	helpShowTeam16(out, GE);
+	helpShowTeam16(out, GF);
+	helpShowTeam16(out, GG);
+	helpShowTeam16(out, GH);
+	out.close();
 }
 
 void WorldCup::grouping16()
 {
+	file = "schedule8.txt";
+	ofstream out(file);
 	day_info.clear();
 	srand((unsigned)time(NULL));
 	vector<string>savePlace;
@@ -239,52 +258,76 @@ void WorldCup::grouping16()
 		tempPlace.erase(tempPlace.begin() + index);
 	}
 	cout << "Schedule for round of 16:" << endl;
+	out << "Schedule for round of 16:" << endl;
 	date++;
-	cout << date.month << date.day << endl;
-	helpGrouping16(GA, GB, savePlace);
-	helpGrouping16(GC, GD, savePlace);
+	cout << date.month << " " << date.day << endl;
+	out << date.month << " " << date.day << endl;
+	helpGrouping16(out, GA, GB, savePlace);
+	helpGrouping16(out, GC, GD, savePlace);
 	date++;
-	cout << date.month << date.day << endl;
-	helpGrouping16(GE, GF, savePlace);
-	helpGrouping16(GG, GH, savePlace);
+	cout << date.month << " " << date.day << endl;
+	out << date.month << " " << date.day << endl;
+	helpGrouping16(out, GE, GF, savePlace);
+	helpGrouping16(out, GG, GH, savePlace);
 	date++;
-	cout << date.month << date.day << endl;
-	helpGrouping16(GB, GA, savePlace);
-	helpGrouping16(GD, GC, savePlace);
+	cout << date.month << " " << date.day << endl;
+	out << date.month << " " << date.day << endl;
+	helpGrouping16(out, GB, GA, savePlace);
+	helpGrouping16(out, GD, GC, savePlace);
 	date++;
-	cout << date.month << date.day << endl;
-	helpGrouping16(GF, GE, savePlace);
-	helpGrouping16(GG, GH, savePlace);
+	cout << date.month << " " << date.day << endl;
+	out << date.month << " " << date.day << endl;
+	helpGrouping16(out, GF, GE, savePlace);
+	helpGrouping16(out, GG, GH, savePlace);
+	out.close();
 }
 
 void WorldCup::showTeam8()
 {
-	helpShowTeam8_4_2(8);
+	file = "team8.txt";
+	ofstream out(file);
+	helpShowTeam8_4_2(out, 8);
+	out.close();
 }
 
 void WorldCup::grouping8()
 {
-	helpGrouping8_4_2(8);
+	file = "schedule4.txt";
+	ofstream out(file);
+	helpGrouping8_4_2(out, 8);
+	out.close();
 }
 
 void WorldCup::showTeam4()
 {
-	helpShowTeam8_4_2(4);
+	file = "team4.txt";
+	ofstream out(file);
+	helpShowTeam8_4_2(out, 4);
+	out.close();
 }
 
 void WorldCup::grouping4()
 {
-	helpGrouping8_4_2(4);
+	file = "schedule2.txt";
+	ofstream out(file);
+	helpGrouping8_4_2(out, 4);
+	out.close();
 }
 
 void WorldCup::showTeam2()
 {
-	helpShowTeam8_4_2(2);
+	file = "team2.txt";
+	ofstream out(file);
+	helpShowTeam8_4_2(out, 2);
+	out.close();
 }
 
 void WorldCup::grouping2()
 {
-	helpGrouping8_4_2(2);
+	file = "schedule1.txt";
+	ofstream out(file);
+	helpGrouping8_4_2(out, 2);
+	out.close();
 }
 
 void WorldCup::helpTeamShow(ofstream &out,int number, int amount, int &i)
@@ -402,14 +445,17 @@ void WorldCup::helpPotShow(ofstream & out, vector<Team*>& tempPot)
 	}
 }
 
-void WorldCup::helpSchedule16(Group tempGroup, multimap<int,string>& day_info, const vector<string>&tempPlace, int _day,int match)
+void WorldCup::helpSchedule16(ofstream &out, Group tempGroup, multimap<int,string>& day_info, const vector<string>&tempPlace, int _day,int match)
 {
 	cout << "Group " << tempGroup.groupName << endl;
+	out << "Group " << tempGroup.groupName << endl;
 	int j = 1,temp1,temp2; bool ok;
 	while (j != 4) {
 		ok = false;
 		cout << '\t' << tempGroup.group[0]->getCountry() << " vs " << tempGroup.group[j]->getCountry();
+		out << '\t' << tempGroup.group[0]->getCountry() << " vs " << tempGroup.group[j]->getCountry();
 		cout << "," << tempPlace[_day * 4 + match] << "," << date.month << date.day << endl;
+		out << "," << tempPlace[_day * 4 + match] << "," << date.month << date.day << endl;
 		day_info.insert(pair<int, string>(date.day, tempGroup.group[0]->getCountry()
 			+ " vs " + tempGroup.group[j]->getCountry() + "," + tempPlace[_day * 4 + match]));
 		date +=2;
@@ -417,11 +463,13 @@ void WorldCup::helpSchedule16(Group tempGroup, multimap<int,string>& day_info, c
 		for (unsigned int t = 0; t < tempGroup.group.size(); t++) {
 			if (!ok&&t != 0 && t != j) {
 				cout << '\t' << tempGroup.group[t]->getCountry() << " vs ";
+				out << '\t' << tempGroup.group[t]->getCountry() << " vs ";
 				ok = true;
 				temp1 = t;
 			}
 			else if (ok&&t != 0 && t != j) {
-				cout << tempGroup.group[t]->getCountry() << "," << tempPlace[_day*4+match] << "," << date.month << date.day << endl;
+				cout << tempGroup.group[t]->getCountry() << "," << tempPlace[_day * 4 + match] << "," << date.month << date.day << endl;
+				out << tempGroup.group[t]->getCountry() << "," << tempPlace[_day * 4 + match] << "," << date.month << date.day << endl;
 				temp2 = t;
 			}
 		}
@@ -447,19 +495,22 @@ vector<string> WorldCup::helpGetMatchPlace()
 	return savePlace;
 }
 
-void WorldCup::helpShowTeam16(Group tempGroup, int winner)
+void WorldCup::helpShowTeam16(ofstream &out, Group tempGroup)
 {
-	if(winner==2)
 		cout << "Group " << tempGroup.groupName<<endl;
-	for (int i = 0; i < winner; i++) {
+		out << "Group " << tempGroup.groupName << endl;
+	for (int i = 0; i < 2; i++) {
 		cout << '\t' << i + 1 << ". " << tempGroup.group[i]->getCountry() << endl;
+		out << '\t' << i + 1 << ". " << tempGroup.group[i]->getCountry() << endl;
 	}
 }
 
-void WorldCup::helpGrouping16(Group tempGroup1, Group tempGroup2,vector<string>& tempPlace)
+void WorldCup::helpGrouping16(ofstream &out, Group tempGroup1, Group tempGroup2,vector<string>& tempPlace)
 {
 	cout << '\t' << tempGroup1.group[0]->getCountry() << " vs " << tempGroup2.group[1]->getCountry();
+	out << '\t' << tempGroup1.group[0]->getCountry() << " vs " << tempGroup2.group[1]->getCountry();
 	cout << " at " << tempPlace[0] << endl;
+	out << " at " << tempPlace[0] << endl;
 	day_info.insert(pair<int, string>(date.day, tempGroup1.group[0]->getCountry()
 		+" vs "+ tempGroup2.group[1]->getCountry()+","+ tempPlace[0]));
 	matchTeam.push_back(tempGroup1.group[0]);
@@ -467,14 +518,17 @@ void WorldCup::helpGrouping16(Group tempGroup1, Group tempGroup2,vector<string>&
 	tempPlace.erase(tempPlace.begin());
 }
 
-void WorldCup::helpShowTeam8_4_2(int teamAmount)
+void WorldCup::helpShowTeam8_4_2(ofstream &out, int teamAmount)
 {
 	cout << "Qualified for round of :" << teamAmount << endl;
-	for (int i = 0; i < teamAmount; i++)
+	out << "Qualified for round of :" << teamAmount << endl;
+	for (int i = 0; i < teamAmount; i++) {
 		cout << '\t' << matchTeam[i]->getCountry() << endl;
+		out << '\t' << matchTeam[i]->getCountry() << endl;
+	}
 }
 
-void WorldCup::helpGrouping8_4_2(int teamAmount)
+void WorldCup::helpGrouping8_4_2(ofstream &out, int teamAmount)
 {
 	date++;
 	day_info.clear();
@@ -487,10 +541,14 @@ void WorldCup::helpGrouping8_4_2(int teamAmount)
 		tempPlace.erase(tempPlace.begin() + index);
 	}
 	cout << "Schedule for round of :" << teamAmount << endl;
+	out << "Schedule for round of :" << teamAmount << endl;
 	for (int i = 0; i < teamAmount; i += 2) {
 		date++;
-		cout << date.month << date.day << endl;
+		cout << date.month << " " << date.day << endl;
+		out << date.month << " " << date.day << endl;
 		cout << '\t' << matchTeam[i]->getCountry() << " vs " << matchTeam[i + 1]->getCountry() << ","
+			<< savePlace[0] << endl;
+		out << '\t' << matchTeam[i]->getCountry() << " vs " << matchTeam[i + 1]->getCountry() << ","
 			<< savePlace[0] << endl;
 		savePlace.erase(savePlace.begin());
 	}

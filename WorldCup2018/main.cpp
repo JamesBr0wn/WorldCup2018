@@ -22,5 +22,10 @@ int main()
 	mycup.grouping8();
 	mycup.knockout();
 	mycup.showTeam4();
+	mycup.grouping4();
+	mycup.knockout();
+	mycup.showTeam2();
+	mycup.grouping2();
+	mycup.knockout();
 	getchar();
 }

@@ -79,11 +79,11 @@ private:
 	bool helpGrouping32_1(vector<Team*>&tempPot,int index, Group &tempGroup);
 	void setTeamAmount(int _CAF, int _CONMEBOL, int _AFC, int _OFC, int _CONCACAF, int _UEFA);
 	void helpPotShow(ofstream& out, vector<Team*>& tempPot);
-	void helpSchedule16(Group tempGroup,multimap<int,string>& day_info,const vector<string>&tempPlace,int _day, int match);
-	void helpShowTeam16(Group tempGroup,int winner);
-	void helpGrouping16(Group tempGroup1, Group tempGroup2, vector<string>&tempPlace);
-	void helpShowTeam8_4_2(int teamAmount);
-	void helpGrouping8_4_2(int teamAmount);
+	void helpSchedule16(ofstream &out, Group tempGroup,multimap<int,string>& day_info,const vector<string>&tempPlace,int _day, int match);
+	void helpShowTeam16(ofstream &out, Group tempGroup);
+	void helpGrouping16(ofstream &out, Group tempGroup1, Group tempGroup2, vector<string>&tempPlace);
+	void helpShowTeam8_4_2(ofstream &out, int teamAmount);
+	void helpGrouping8_4_2(ofstream &out, int teamAmount);
 	vector<string> helpGetMatchPlace();
 
 	vector<Shot> match(Team& home, Team& away, int type);
@@ -101,6 +101,8 @@ private:
 	int OFC;
 	int CONMEBOL;
 	int UEFA;
+
+	string file;
 	Date date;						//表示当前日期
 	multimap<int, string> day_info; //存放比赛时间表
 	vector<Team*> matchTeam;        //存放当轮淘汰赛中比赛的队伍
