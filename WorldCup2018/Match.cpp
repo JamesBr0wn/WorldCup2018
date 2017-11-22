@@ -178,13 +178,24 @@ void WorldCup::groupMatch() {
 	showGroupMatchResult();
 }
 
+//void WorldCup::match16() {
+//	
+//}
+
 void WorldCup::knockout() {
+	ofstream out("simulationLog.txt", ios::app);
 	vector<Team*> tempFail;
 	vector<Team*> tempWin;
 	for (int i = 0; i < matchTeam.size(); i+=2) {
+		cout << "Today is" << matchDate.month << "," << matchDate.day << endl;
+		cout << "We will have the match between " << matchTeam[i]->getCountry() << " and " << matchTeam[i + 1]->getCountry() << endl;
+		out << "Today is" << matchDate.month << "," << matchDate.day << endl;
+		out << "We will have the match between " << matchTeam[i]->getCountry() << " and " << matchTeam[i + 1]->getCountry() << endl;
 		pair<int, int> score = startMatch(matchTeam[i]->getCountry(), matchTeam[i + 1]->getCountry(), 1);
 		tempWin.push_back(matchTeam[i + ((score.first > score.second) ? 0 : 1)]);
 		tempFail.push_back(matchTeam[i + ((score.first > score.second) ? 1 : 0)]);
+		matchDate++;
+		matchDate++;
 	}
 	matchTeam = tempWin;
 	failTeam = tempFail;
