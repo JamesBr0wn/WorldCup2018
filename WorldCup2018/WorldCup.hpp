@@ -70,6 +70,7 @@ public:
 	void grouping4();
 	void showTeam2();
 	void grouping2();
+	void showTeam1();
 	void groupMatch();
 	void knockout();
 	void showFinalStastics();

@@ -83,7 +83,7 @@ void WorldCup::getPlaceInfo()
 	}
 	string _place;
 	for (int i = 0; i < placeNum; i++) {
-		in >> _place;
+		getline(in,_place);
 		place.push_back(_place);
 	}
 	in.close();
@@ -333,7 +333,14 @@ void WorldCup::grouping2()
 	ofstream out(file);
 	helpGrouping8_4_2(out, 2);
 	out.close();
-	file = "result1.txt";
+}
+
+void WorldCup::showTeam1()
+{
+	file = "team1.txt";
+	ofstream out(file);
+	helpShowTeam8_4_2(out, 1);
+	out.close();
 }
 
 void WorldCup::helpTeamShow(ofstream &out,int number, int amount, int &i)
@@ -526,8 +533,14 @@ void WorldCup::helpGrouping16(ofstream &out, Group tempGroup1, Group tempGroup2,
 
 void WorldCup::helpShowTeam8_4_2(ofstream &out, int teamAmount)
 {
-	cout << "Qualified for round of :" << teamAmount << endl;
-	out << "Qualified for round of :" << teamAmount << endl;
+	if (teamAmount != 1) {
+		cout << "Qualified for round of :" << teamAmount << endl;
+		out << "Qualified for round of :" << teamAmount << endl;
+	}
+	else {
+		cout << "Champion is: ";
+		out << "Champion is: ";
+	}
 	for (int i = 0; i < teamAmount; i++) {
 		cout << '\t' << matchTeam[i]->getCountry() << endl;
 		out << '\t' << matchTeam[i]->getCountry() << endl;
