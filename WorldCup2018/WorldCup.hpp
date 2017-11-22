@@ -109,7 +109,7 @@ private:
 
 	string file;
 	Date date;						//表示当前日期
-	Date matchDate;
+	Date matchDate;					//存放比赛日期
 	multimap<int, string> day_info; //存放比赛时间表
 	vector<Team*> matchTeam;        //存放当轮淘汰赛中比赛的队伍
 	vector<Team*> failTeam;			//存放当轮淘汰赛中被淘汰的队伍
