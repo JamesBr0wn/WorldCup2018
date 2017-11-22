@@ -359,10 +359,17 @@ void WorldCup::showGroupMatchResult() {
 void WorldCup::showKnockoutResult() {
 	ofstream out(file);
 	cout << "Final result" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	out << "Final result" << endl;
+	cout << "Promotion Team(s):" << endl;
+	out << "Promotion Team(s):" << endl;
+	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(matchTeam, out);
+	cout << "Elimination Team(s):" << endl;
+	out << "Elimination Team(s):" << endl;
+	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	showTeamScore(failTeam, out);
 }
 
 void WorldCup::showFinalStastics() {
