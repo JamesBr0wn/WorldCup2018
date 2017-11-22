@@ -1,7 +1,8 @@
 Hello everyone, it is June 14, the 1th day of group match.
 Today we will have matches of Group A, C, E and G, totally 4 matches.
 Next we will have today's 1th match:
-CCCCCCCCCCC3 vs CCCCCCCCCCC7
+CCCCCCCCCCC3 vs CCCCCCCCCCC10
+Country:CCCCCCCCCCC3
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -13,6 +14,7 @@ CCCCCCCCCCC3 vs CCCCCCCCCCC7
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC10
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -25,15 +27,10 @@ CCCCCCCCCCC3 vs CCCCCCCCCCC7
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC7 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC7 did a goal, and it was #1, cc did the goal
-Now it is 0:2
-CCCCCCCCCCC3 did a goal, and it was #1, cc did the goal
-Now it is 1:2
-CCCCCCCCCCC3 fails CCCCCCCCCCC7 with the goals 1:2
+It is a draw with 0:0
 Next we will have today's 2th match:
-CCCCCCCCCCC2 vs CCCCCCCCCCC8
+CCCCCCCCCCC1 vs CCCCCCCCCCC5
+Country:CCCCCCCCCCC1
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -45,6 +42,7 @@ CCCCCCCCCCC2 vs CCCCCCCCCCC8
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC5
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -57,15 +55,16 @@ CCCCCCCCCCC2 vs CCCCCCCCCCC8
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC2 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC1 did a goal, and it was #1, cc did the goal
 Now it is 1:0
-CCCCCCCCCCC8 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC2 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC2 beats CCCCCCCCCCC8 with the goals 2:1
+CCCCCCCCCCC1 did a goal, and it was #1, cc did the goal
+Now it is 2:0
+CCCCCCCCCCC1 did a goal, and it was #1, cc did the goal
+Now it is 3:0
+CCCCCCCCCCC1 beats CCCCCCCCCCC5 with the goals 3:0
 Next we will have today's 3th match:
-CCCCCCCCCCC31 vs CCCCCCCCCCC11
+CCCCCCCCCCC32 vs CCCCCCCCCCC6
+Country:CCCCCCCCCCC32
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -77,6 +76,7 @@ CCCCCCCCCCC31 vs CCCCCCCCCCC11
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC6
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -89,15 +89,20 @@ CCCCCCCCCCC31 vs CCCCCCCCCCC11
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC11 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC6 did a goal, and it was #1, cc did the goal
 Now it is 0:1
-CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC32 did a goal, and it was #1, cc did the goal
 Now it is 1:1
-CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC31 beats CCCCCCCCCCC11 with the goals 2:1
+CCCCCCCCCCC6 did a goal, and it was #1, cc did the goal
+Now it is 1:2
+CCCCCCCCCCC32 did a goal, and it was #1, cc did the goal
+Now it is 2:2
+CCCCCCCCCCC6 did a goal, and it was #1, cc did the goal
+Now it is 2:3
+CCCCCCCCCCC32 fails CCCCCCCCCCC6 with the goals 2:3
 Next we will have today's 4th match:
-CCCCCCCCCCC1 vs CCCCCCCCCCC9
+CCCCCCCCCCC29 vs CCCCCCCCCCC8
+Country:CCCCCCCCCCC29
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -109,6 +114,7 @@ CCCCCCCCCCC1 vs CCCCCCCCCCC9
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC8
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -121,13 +127,14 @@ CCCCCCCCCCC1 vs CCCCCCCCCCC9
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC9 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC1 fails CCCCCCCCCCC9 with the goals 0:1
+CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC29 beats CCCCCCCCCCC8 with the goals 1:0
 Hello everyone, it is June 15, the 2th day of group match.
 Today we will have matches of Group B, D, F and H, totally 4 matches.
 Next we will have today's 1th match:
-CCCCCCCCCCC28 vs CCCCCCCCCCC5
+CCCCCCCCCCC31 vs CCCCCCCCCCC4
+Country:CCCCCCCCCCC31
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -139,6 +146,7 @@ CCCCCCCCCCC28 vs CCCCCCCCCCC5
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC4
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -151,11 +159,14 @@ CCCCCCCCCCC28 vs CCCCCCCCCCC5
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC5 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC4 did a goal, and it was #1, cc did the goal
 Now it is 0:1
-CCCCCCCCCCC28 fails CCCCCCCCCCC5 with the goals 0:1
+CCCCCCCCCCC4 did a goal, and it was #1, cc did the goal
+Now it is 0:2
+CCCCCCCCCCC31 fails CCCCCCCCCCC4 with the goals 0:2
 Next we will have today's 2th match:
-CCCCCCCCCCC29 vs CCCCCCCCCCC10
+CCCCCCCCCCC2 vs CCCCCCCCCCC11
+Country:CCCCCCCCCCC2
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -167,6 +178,7 @@ CCCCCCCCCCC29 vs CCCCCCCCCCC10
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC11
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -179,13 +191,14 @@ CCCCCCCCCCC29 vs CCCCCCCCCCC10
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC10 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-It is a draw with 1:1
+CCCCCCCCCCC2 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC2 did a goal, and it was #1, cc did the goal
+Now it is 2:0
+CCCCCCCCCCC2 beats CCCCCCCCCCC11 with the goals 2:0
 Next we will have today's 3th match:
-CCCCCCCCCCC32 vs CCCCCCCCCCC4
+CCCCCCCCCCC28 vs CCCCCCCCCCC7
+Country:CCCCCCCCCCC28
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -197,6 +210,7 @@ CCCCCCCCCCC32 vs CCCCCCCCCCC4
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC7
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -209,9 +223,14 @@ CCCCCCCCCCC32 vs CCCCCCCCCCC4
 #1, cc, GG
 #1, cc, GG
 Playing...
-It is a draw with 0:0
+CCCCCCCCCCC7 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC7 did a goal, and it was #1, cc did the goal
+Now it is 0:2
+CCCCCCCCCCC28 fails CCCCCCCCCCC7 with the goals 0:2
 Next we will have today's 4th match:
-CCCCCCCCCCC30 vs CCCCCCCCCCC6
+CCCCCCCCCCC30 vs CCCCCCCCCCC9
+Country:CCCCCCCCCCC30
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -223,6 +242,7 @@ CCCCCCCCCCC30 vs CCCCCCCCCCC6
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC9
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -239,15 +259,12 @@ CCCCCCCCCCC30 did a goal, and it was #1, cc did the goal
 Now it is 1:0
 CCCCCCCCCCC30 did a goal, and it was #1, cc did the goal
 Now it is 2:0
-CCCCCCCCCCC6 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC30 did a goal, and it was #1, cc did the goal
-Now it is 3:1
-CCCCCCCCCCC30 beats CCCCCCCCCCC6 with the goals 3:1
+CCCCCCCCCCC30 beats CCCCCCCCCCC9 with the goals 2:0
 Hello everyone, it is June 16, the 3th day of group match.
 Today we will have matches of Group A, C, E and G, totally 4 matches.
 Next we will have today's 1th match:
-CCCCCCCCCCC15 vs CCCCCCCCCCC23
+CCCCCCCCCCC18 vs CCCCCCCCCCC26
+Country:CCCCCCCCCCC18
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -259,6 +276,7 @@ CCCCCCCCCCC15 vs CCCCCCCCCCC23
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC26
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -271,15 +289,16 @@ CCCCCCCCCCC15 vs CCCCCCCCCCC23
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC23 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC26 did a goal, and it was #1, cc did the goal
 Now it is 0:1
-CCCCCCCCCCC23 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC26 did a goal, and it was #1, cc did the goal
 Now it is 0:2
-CCCCCCCCCCC15 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC18 did a goal, and it was #1, cc did the goal
 Now it is 1:2
-CCCCCCCCCCC15 fails CCCCCCCCCCC23 with the goals 1:2
+CCCCCCCCCCC18 fails CCCCCCCCCCC26 with the goals 1:2
 Next we will have today's 2th match:
-CCCCCCCCCCC16 vs CCCCCCCCCCC24
+CCCCCCCCCCC13 vs CCCCCCCCCCC21
+Country:CCCCCCCCCCC13
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -291,6 +310,7 @@ CCCCCCCCCCC16 vs CCCCCCCCCCC24
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC21
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -303,13 +323,12 @@ CCCCCCCCCCC16 vs CCCCCCCCCCC24
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC16 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-It is a draw with 1:1
+CCCCCCCCCCC13 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC13 beats CCCCCCCCCCC21 with the goals 1:0
 Next we will have today's 3th match:
-CCCCCCCCCCC19 vs CCCCCCCCCCC27
+CCCCCCCCCCC14 vs CCCCCCCCCCC22
+Country:CCCCCCCCCCC14
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -321,6 +340,7 @@ CCCCCCCCCCC19 vs CCCCCCCCCCC27
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC22
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -333,13 +353,16 @@ CCCCCCCCCCC19 vs CCCCCCCCCCC27
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC27 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-It is a draw with 1:1
+CCCCCCCCCCC22 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC22 did a goal, and it was #1, cc did the goal
+Now it is 0:2
+CCCCCCCCCCC14 did a goal, and it was #1, cc did the goal
+Now it is 1:2
+CCCCCCCCCCC14 fails CCCCCCCCCCC22 with the goals 1:2
 Next we will have today's 4th match:
-CCCCCCCCCCC17 vs CCCCCCCCCCC25
+CCCCCCCCCCC16 vs CCCCCCCCCCC24
+Country:CCCCCCCCCCC16
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -351,6 +374,7 @@ CCCCCCCCCCC17 vs CCCCCCCCCCC25
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC24
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -363,73 +387,14 @@ CCCCCCCCCCC17 vs CCCCCCCCCCC25
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC17 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC16 did a goal, and it was #1, cc did the goal
 Now it is 1:0
-CCCCCCCCCCC17 did a goal, and it was #1, cc did the goal
-Now it is 2:0
-CCCCCCCCCCC17 beats CCCCCCCCCCC25 with the goals 2:0
+CCCCCCCCCCC16 beats CCCCCCCCCCC24 with the goals 1:0
 Hello everyone, it is June 17, the 4th day of group match.
 Today we will have matches of Group B, D, F and H, totally 4 matches.
 Next we will have today's 1th match:
-CCCCCCCCCCC13 vs CCCCCCCCCCC21
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-It is a draw with 0:0
-Next we will have today's 2th match:
-CCCCCCCCCCC18 vs CCCCCCCCCCC26
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC18 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC18 did a goal, and it was #1, cc did the goal
-Now it is 2:0
-CCCCCCCCCCC26 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC18 beats CCCCCCCCCCC26 with the goals 2:1
-Next we will have today's 3th match:
 CCCCCCCCCCC12 vs CCCCCCCCCCC20
+Country:CCCCCCCCCCC12
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -441,6 +406,7 @@ CCCCCCCCCCC12 vs CCCCCCCCCCC20
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC20
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -460,8 +426,9 @@ Now it is 0:2
 CCCCCCCCCCC12 did a goal, and it was #1, cc did the goal
 Now it is 1:2
 CCCCCCCCCCC12 fails CCCCCCCCCCC20 with the goals 1:2
-Next we will have today's 4th match:
-CCCCCCCCCCC14 vs CCCCCCCCCCC22
+Next we will have today's 2th match:
+CCCCCCCCCCC19 vs CCCCCCCCCCC27
+Country:CCCCCCCCCCC19
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -473,6 +440,7 @@ CCCCCCCCCCC14 vs CCCCCCCCCCC22
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC27
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -485,11 +453,80 @@ CCCCCCCCCCC14 vs CCCCCCCCCCC22
 #1, cc, GG
 #1, cc, GG
 Playing...
-It is a draw with 0:0
+CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC27 did a goal, and it was #1, cc did the goal
+Now it is 1:1
+It is a draw with 1:1
+Next we will have today's 3th match:
+CCCCCCCCCCC15 vs CCCCCCCCCCC23
+Country:CCCCCCCCCCC15
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC23
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC23 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC15 did a goal, and it was #1, cc did the goal
+Now it is 1:1
+It is a draw with 1:1
+Next we will have today's 4th match:
+CCCCCCCCCCC17 vs CCCCCCCCCCC25
+Country:CCCCCCCCCCC17
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC25
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC17 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC25 did a goal, and it was #1, cc did the goal
+Now it is 1:1
+It is a draw with 1:1
 Hello everyone, it is June 18, the 5th day of group match.
 Today we will have matches of Group A, C, E and G, totally 4 matches.
 Next we will have today's 1th match:
-CCCCCCCCCCC3 vs CCCCCCCCCCC15
+CCCCCCCCCCC3 vs CCCCCCCCCCC18
+Country:CCCCCCCCCCC3
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -501,6 +538,7 @@ CCCCCCCCCCC3 vs CCCCCCCCCCC15
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC18
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -515,9 +553,12 @@ CCCCCCCCCCC3 vs CCCCCCCCCCC15
 Playing...
 CCCCCCCCCCC3 did a goal, and it was #1, cc did the goal
 Now it is 1:0
-CCCCCCCCCCC3 beats CCCCCCCCCCC15 with the goals 1:0
+CCCCCCCCCCC3 did a goal, and it was #1, cc did the goal
+Now it is 2:0
+CCCCCCCCCCC3 beats CCCCCCCCCCC18 with the goals 2:0
 Next we will have today's 2th match:
-CCCCCCCCCCC2 vs CCCCCCCCCCC16
+CCCCCCCCCCC1 vs CCCCCCCCCCC13
+Country:CCCCCCCCCCC1
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -529,6 +570,139 @@ CCCCCCCCCCC2 vs CCCCCCCCCCC16
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC13
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC1 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC13 did a goal, and it was #1, cc did the goal
+Now it is 1:1
+It is a draw with 1:1
+Next we will have today's 3th match:
+CCCCCCCCCCC32 vs CCCCCCCCCCC14
+Country:CCCCCCCCCCC32
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC14
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC32 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC32 beats CCCCCCCCCCC14 with the goals 1:0
+Next we will have today's 4th match:
+CCCCCCCCCCC29 vs CCCCCCCCCCC16
+Country:CCCCCCCCCCC29
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC16
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC16 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
+Now it is 1:1
+It is a draw with 1:1
+Hello everyone, it is June 19, the 6th day of group match.
+Today we will have matches of Group B, D, F and H, totally 4 matches.
+Next we will have today's 1th match:
+CCCCCCCCCCC31 vs CCCCCCCCCCC12
+Country:CCCCCCCCCCC31
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC12
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC12 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
+Now it is 1:1
+CCCCCCCCCCC12 did a goal, and it was #1, cc did the goal
+Now it is 1:2
+CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
+Now it is 2:2
+It is a draw with 2:2
+Next we will have today's 2th match:
+CCCCCCCCCCC2 vs CCCCCCCCCCC19
+Country:CCCCCCCCCCC2
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC19
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -543,37 +717,12 @@ CCCCCCCCCCC2 vs CCCCCCCCCCC16
 Playing...
 CCCCCCCCCCC2 did a goal, and it was #1, cc did the goal
 Now it is 1:0
-CCCCCCCCCCC2 beats CCCCCCCCCCC16 with the goals 1:0
-Next we will have today's 3th match:
-CCCCCCCCCCC31 vs CCCCCCCCCCC19
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
 CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC31 fails CCCCCCCCCCC19 with the goals 0:1
-Next we will have today's 4th match:
-CCCCCCCCCCC1 vs CCCCCCCCCCC17
+Now it is 1:1
+It is a draw with 1:1
+Next we will have today's 3th match:
+CCCCCCCCCCC28 vs CCCCCCCCCCC15
+Country:CCCCCCCCCCC28
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -585,6 +734,7 @@ CCCCCCCCCCC1 vs CCCCCCCCCCC17
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC15
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -597,13 +747,174 @@ CCCCCCCCCCC1 vs CCCCCCCCCCC17
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC1 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC15 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC28 fails CCCCCCCCCCC15 with the goals 0:1
+Next we will have today's 4th match:
+CCCCCCCCCCC30 vs CCCCCCCCCCC17
+Country:CCCCCCCCCCC30
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC17
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC17 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC30 fails CCCCCCCCCCC17 with the goals 0:1
+Hello everyone, it is June 20, the 7th day of group match.
+Today we will have matches of Group A, C, E and G, totally 4 matches.
+Next we will have today's 1th match:
+CCCCCCCCCCC10 vs CCCCCCCCCCC26
+Country:CCCCCCCCCCC10
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC26
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC10 did a goal, and it was #1, cc did the goal
 Now it is 1:0
-CCCCCCCCCCC1 beats CCCCCCCCCCC17 with the goals 1:0
-Hello everyone, it is June 19, the 6th day of group match.
+CCCCCCCCCCC10 did a goal, and it was #1, cc did the goal
+Now it is 2:0
+CCCCCCCCCCC10 did a goal, and it was #1, cc did the goal
+Now it is 3:0
+CCCCCCCCCCC10 beats CCCCCCCCCCC26 with the goals 3:0
+Next we will have today's 2th match:
+CCCCCCCCCCC5 vs CCCCCCCCCCC21
+Country:CCCCCCCCCCC5
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC21
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC21 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC5 fails CCCCCCCCCCC21 with the goals 0:1
+Next we will have today's 3th match:
+CCCCCCCCCCC6 vs CCCCCCCCCCC22
+Country:CCCCCCCCCCC6
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC22
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC6 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC6 did a goal, and it was #1, cc did the goal
+Now it is 2:0
+CCCCCCCCCCC6 beats CCCCCCCCCCC22 with the goals 2:0
+Next we will have today's 4th match:
+CCCCCCCCCCC8 vs CCCCCCCCCCC24
+Country:CCCCCCCCCCC8
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC24
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC8 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC8 did a goal, and it was #1, cc did the goal
+Now it is 2:0
+CCCCCCCCCCC8 beats CCCCCCCCCCC24 with the goals 2:0
+Hello everyone, it is June 21, the 8th day of group match.
 Today we will have matches of Group B, D, F and H, totally 4 matches.
 Next we will have today's 1th match:
-CCCCCCCCCCC28 vs CCCCCCCCCCC13
+CCCCCCCCCCC4 vs CCCCCCCCCCC20
+Country:CCCCCCCCCCC4
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -615,6 +926,71 @@ CCCCCCCCCCC28 vs CCCCCCCCCCC13
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC20
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC4 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC4 beats CCCCCCCCCCC20 with the goals 1:0
+Next we will have today's 2th match:
+CCCCCCCCCCC11 vs CCCCCCCCCCC27
+Country:CCCCCCCCCCC11
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC27
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC27 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC27 did a goal, and it was #1, cc did the goal
+Now it is 0:2
+CCCCCCCCCCC11 did a goal, and it was #1, cc did the goal
+Now it is 1:2
+CCCCCCCCCCC11 fails CCCCCCCCCCC27 with the goals 1:2
+Next we will have today's 3th match:
+CCCCCCCCCCC7 vs CCCCCCCCCCC23
+Country:CCCCCCCCCCC7
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC23
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -628,8 +1004,9 @@ CCCCCCCCCCC28 vs CCCCCCCCCCC13
 #1, cc, GG
 Playing...
 It is a draw with 0:0
-Next we will have today's 2th match:
-CCCCCCCCCCC29 vs CCCCCCCCCCC18
+Next we will have today's 4th match:
+CCCCCCCCCCC9 vs CCCCCCCCCCC25
+Country:CCCCCCCCCCC9
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -641,6 +1018,7 @@ CCCCCCCCCCC29 vs CCCCCCCCCCC18
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC25
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -653,11 +1031,78 @@ CCCCCCCCCCC29 vs CCCCCCCCCCC18
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC18 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC25 did a goal, and it was #1, cc did the goal
 Now it is 0:1
-CCCCCCCCCCC29 fails CCCCCCCCCCC18 with the goals 0:1
+CCCCCCCCCCC9 did a goal, and it was #1, cc did the goal
+Now it is 1:1
+CCCCCCCCCCC9 did a goal, and it was #1, cc did the goal
+Now it is 2:1
+CCCCCCCCCCC9 beats CCCCCCCCCCC25 with the goals 2:1
+Hello everyone, it is June 22, the 9th day of group match.
+Today we will have matches of Group A, C, E and G, totally 4 matches.
+Next we will have today's 1th match:
+CCCCCCCCCCC3 vs CCCCCCCCCCC26
+Country:CCCCCCCCCCC3
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC26
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC3 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC3 beats CCCCCCCCCCC26 with the goals 1:0
+Next we will have today's 2th match:
+CCCCCCCCCCC1 vs CCCCCCCCCCC21
+Country:CCCCCCCCCCC1
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC21
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC21 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC1 fails CCCCCCCCCCC21 with the goals 0:1
 Next we will have today's 3th match:
-CCCCCCCCCCC32 vs CCCCCCCCCCC12
+CCCCCCCCCCC32 vs CCCCCCCCCCC22
+Country:CCCCCCCCCCC32
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -669,6 +1114,7 @@ CCCCCCCCCCC32 vs CCCCCCCCCCC12
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC22
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -683,287 +1129,16 @@ CCCCCCCCCCC32 vs CCCCCCCCCCC12
 Playing...
 CCCCCCCCCCC32 did a goal, and it was #1, cc did the goal
 Now it is 1:0
-CCCCCCCCCCC12 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-It is a draw with 1:1
-Next we will have today's 4th match:
-CCCCCCCCCCC30 vs CCCCCCCCCCC14
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC30 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC30 beats CCCCCCCCCCC14 with the goals 1:0
-Hello everyone, it is June 20, the 7th day of group match.
-Today we will have matches of Group A, C, E and G, totally 4 matches.
-Next we will have today's 1th match:
-CCCCCCCCCCC7 vs CCCCCCCCCCC23
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-It is a draw with 0:0
-Next we will have today's 2th match:
-CCCCCCCCCCC8 vs CCCCCCCCCCC24
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC8 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-It is a draw with 1:1
-Next we will have today's 3th match:
-CCCCCCCCCCC11 vs CCCCCCCCCCC27
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC27 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC11 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC11 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC27 did a goal, and it was #1, cc did the goal
-Now it is 2:2
-It is a draw with 2:2
-Next we will have today's 4th match:
-CCCCCCCCCCC9 vs CCCCCCCCCCC25
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC9 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC9 did a goal, and it was #1, cc did the goal
-Now it is 2:0
-CCCCCCCCCCC9 beats CCCCCCCCCCC25 with the goals 2:0
-Hello everyone, it is June 21, the 8th day of group match.
-Today we will have matches of Group B, D, F and H, totally 4 matches.
-Next we will have today's 1th match:
-CCCCCCCCCCC5 vs CCCCCCCCCCC21
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC5 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC5 did a goal, and it was #1, cc did the goal
-Now it is 2:0
-CCCCCCCCCCC5 did a goal, and it was #1, cc did the goal
-Now it is 3:0
-CCCCCCCCCCC5 beats CCCCCCCCCCC21 with the goals 3:0
-Next we will have today's 2th match:
-CCCCCCCCCCC10 vs CCCCCCCCCCC26
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC26 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC10 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-It is a draw with 1:1
-Next we will have today's 3th match:
-CCCCCCCCCCC4 vs CCCCCCCCCCC20
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC20 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC4 fails CCCCCCCCCCC20 with the goals 0:1
-Next we will have today's 4th match:
-CCCCCCCCCCC6 vs CCCCCCCCCCC22
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC6 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC6 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC32 did a goal, and it was #1, cc did the goal
 Now it is 2:0
 CCCCCCCCCCC22 did a goal, and it was #1, cc did the goal
 Now it is 2:1
-CCCCCCCCCCC6 beats CCCCCCCCCCC22 with the goals 2:1
-Hello everyone, it is June 22, the 9th day of group match.
-Today we will have matches of Group A, C, E and G, totally 4 matches.
-Next we will have today's 1th match:
-CCCCCCCCCCC3 vs CCCCCCCCCCC23
+CCCCCCCCCCC22 did a goal, and it was #1, cc did the goal
+Now it is 2:2
+It is a draw with 2:2
+Next we will have today's 4th match:
+CCCCCCCCCCC29 vs CCCCCCCCCCC24
+Country:CCCCCCCCCCC29
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -975,32 +1150,7 @@ CCCCCCCCCCC3 vs CCCCCCCCCCC23
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-It is a draw with 0:0
-Next we will have today's 2th match:
-CCCCCCCCCCC2 vs CCCCCCCCCCC24
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
+Country:CCCCCCCCCCC24
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1015,9 +1165,12 @@ CCCCCCCCCCC2 vs CCCCCCCCCCC24
 Playing...
 CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
 Now it is 0:1
-CCCCCCCCCCC2 fails CCCCCCCCCCC24 with the goals 0:1
-Next we will have today's 3th match:
-CCCCCCCCCCC31 vs CCCCCCCCCCC27
+CCCCCCCCCCC29 fails CCCCCCCCCCC24 with the goals 0:1
+Hello everyone, it is June 23, the 10th day of group match.
+Today we will have matches of Group B, D, F and H, totally 4 matches.
+Next we will have today's 1th match:
+CCCCCCCCCCC31 vs CCCCCCCCCCC20
+Country:CCCCCCCCCCC31
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1029,6 +1182,7 @@ CCCCCCCCCCC31 vs CCCCCCCCCCC27
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC20
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1043,107 +1197,44 @@ CCCCCCCCCCC31 vs CCCCCCCCCCC27
 Playing...
 CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
 Now it is 1:0
+CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
+Now it is 2:0
+CCCCCCCCCCC31 beats CCCCCCCCCCC20 with the goals 2:0
+Next we will have today's 2th match:
+CCCCCCCCCCC2 vs CCCCCCCCCCC27
+Country:CCCCCCCCCCC2
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC27
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC2 did a goal, and it was #1, cc did the goal
+Now it is 1:0
 CCCCCCCCCCC27 did a goal, and it was #1, cc did the goal
 Now it is 1:1
 It is a draw with 1:1
-Next we will have today's 4th match:
-CCCCCCCCCCC1 vs CCCCCCCCCCC25
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC1 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC25 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC1 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC1 beats CCCCCCCCCCC25 with the goals 2:1
-Hello everyone, it is June 23, the 10th day of group match.
-Today we will have matches of Group B, D, F and H, totally 4 matches.
-Next we will have today's 1th match:
-CCCCCCCCCCC28 vs CCCCCCCCCCC21
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC28 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC21 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC28 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC28 beats CCCCCCCCCCC21 with the goals 2:1
-Next we will have today's 2th match:
-CCCCCCCCCCC29 vs CCCCCCCCCCC26
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
-Now it is 2:0
-CCCCCCCCCCC29 beats CCCCCCCCCCC26 with the goals 2:0
 Next we will have today's 3th match:
-CCCCCCCCCCC32 vs CCCCCCCCCCC20
+CCCCCCCCCCC28 vs CCCCCCCCCCC23
+Country:CCCCCCCCCCC28
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1155,6 +1246,7 @@ CCCCCCCCCCC32 vs CCCCCCCCCCC20
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC23
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1167,15 +1259,14 @@ CCCCCCCCCCC32 vs CCCCCCCCCCC20
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC32 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC28 did a goal, and it was #1, cc did the goal
 Now it is 1:0
-CCCCCCCCCCC32 did a goal, and it was #1, cc did the goal
+CCCCCCCCCCC28 did a goal, and it was #1, cc did the goal
 Now it is 2:0
-CCCCCCCCCCC32 did a goal, and it was #1, cc did the goal
-Now it is 3:0
-CCCCCCCCCCC32 beats CCCCCCCCCCC20 with the goals 3:0
+CCCCCCCCCCC28 beats CCCCCCCCCCC23 with the goals 2:0
 Next we will have today's 4th match:
-CCCCCCCCCCC30 vs CCCCCCCCCCC22
+CCCCCCCCCCC30 vs CCCCCCCCCCC25
+Country:CCCCCCCCCCC30
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1187,6 +1278,7 @@ CCCCCCCCCCC30 vs CCCCCCCCCCC22
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC25
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1199,13 +1291,14 @@ CCCCCCCCCCC30 vs CCCCCCCCCCC22
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC30 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC30 beats CCCCCCCCCCC22 with the goals 1:0
+CCCCCCCCCCC25 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC30 fails CCCCCCCCCCC25 with the goals 0:1
 Hello everyone, it is June 24, the 11th day of group match.
 Today we will have matches of Group A, C, E and G, totally 4 matches.
 Next we will have today's 1th match:
-CCCCCCCCCCC7 vs CCCCCCCCCCC15
+CCCCCCCCCCC10 vs CCCCCCCCCCC18
+Country:CCCCCCCCCCC10
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1217,6 +1310,7 @@ CCCCCCCCCCC7 vs CCCCCCCCCCC15
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC18
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1229,9 +1323,76 @@ CCCCCCCCCCC7 vs CCCCCCCCCCC15
 #1, cc, GG
 #1, cc, GG
 Playing...
-It is a draw with 0:0
+CCCCCCCCCCC18 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC18 did a goal, and it was #1, cc did the goal
+Now it is 0:2
+CCCCCCCCCCC10 fails CCCCCCCCCCC18 with the goals 0:2
 Next we will have today's 2th match:
+CCCCCCCCCCC5 vs CCCCCCCCCCC13
+Country:CCCCCCCCCCC5
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC13
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC5 did a goal, and it was #1, cc did the goal
+Now it is 1:0
+CCCCCCCCCCC13 did a goal, and it was #1, cc did the goal
+Now it is 1:1
+It is a draw with 1:1
+Next we will have today's 3th match:
+CCCCCCCCCCC6 vs CCCCCCCCCCC14
+Country:CCCCCCCCCCC6
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC14
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC14 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC6 fails CCCCCCCCCCC14 with the goals 0:1
+Next we will have today's 4th match:
 CCCCCCCCCCC8 vs CCCCCCCCCCC16
+Country:CCCCCCCCCCC8
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1243,6 +1404,7 @@ CCCCCCCCCCC8 vs CCCCCCCCCCC16
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC16
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1259,133 +1421,18 @@ CCCCCCCCCCC8 did a goal, and it was #1, cc did the goal
 Now it is 1:0
 CCCCCCCCCCC16 did a goal, and it was #1, cc did the goal
 Now it is 1:1
-It is a draw with 1:1
-Next we will have today's 3th match:
-CCCCCCCCCCC11 vs CCCCCCCCCCC19
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
-Now it is 0:2
-CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
-Now it is 0:3
-CCCCCCCCCCC11 fails CCCCCCCCCCC19 with the goals 0:3
-Next we will have today's 4th match:
-CCCCCCCCCCC9 vs CCCCCCCCCCC17
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC17 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC17 did a goal, and it was #1, cc did the goal
-Now it is 0:2
-CCCCCCCCCCC9 fails CCCCCCCCCCC17 with the goals 0:2
+CCCCCCCCCCC8 did a goal, and it was #1, cc did the goal
+Now it is 2:1
+CCCCCCCCCCC16 did a goal, and it was #1, cc did the goal
+Now it is 2:2
+CCCCCCCCCCC8 did a goal, and it was #1, cc did the goal
+Now it is 3:2
+CCCCCCCCCCC8 beats CCCCCCCCCCC16 with the goals 3:2
 Hello everyone, it is June 25, the last day of group match, tomorrow 32 promotion team will face curel knockout.
 Today we will have matches of Group B, D, F and H, totally 4 matches.
 Next we will have today's 1th match:
-CCCCCCCCCCC5 vs CCCCCCCCCCC13
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC13 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC5 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-It is a draw with 1:1
-Next we will have today's 2th match:
-CCCCCCCCCCC10 vs CCCCCCCCCCC18
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC10 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC18 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-It is a draw with 1:1
-Next we will have today's 3th match:
 CCCCCCCCCCC4 vs CCCCCCCCCCC12
+Country:CCCCCCCCCCC4
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1397,6 +1444,7 @@ CCCCCCCCCCC4 vs CCCCCCCCCCC12
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC12
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1411,11 +1459,10 @@ CCCCCCCCCCC4 vs CCCCCCCCCCC12
 Playing...
 CCCCCCCCCCC4 did a goal, and it was #1, cc did the goal
 Now it is 1:0
-CCCCCCCCCCC4 did a goal, and it was #1, cc did the goal
-Now it is 2:0
-CCCCCCCCCCC4 beats CCCCCCCCCCC12 with the goals 2:0
-Next we will have today's 4th match:
-CCCCCCCCCCC6 vs CCCCCCCCCCC14
+CCCCCCCCCCC4 beats CCCCCCCCCCC12 with the goals 1:0
+Next we will have today's 2th match:
+CCCCCCCCCCC11 vs CCCCCCCCCCC19
+Country:CCCCCCCCCCC11
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1427,6 +1474,37 @@ CCCCCCCCCCC6 vs CCCCCCCCCCC14
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
+Country:CCCCCCCCCCC19
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Playing...
+CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
+Now it is 0:1
+CCCCCCCCCCC11 fails CCCCCCCCCCC19 with the goals 0:1
+Next we will have today's 3th match:
+CCCCCCCCCCC7 vs CCCCCCCCCCC15
+Country:CCCCCCCCCCC7
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+#1, cc, GG
+Country:CCCCCCCCCCC15
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1440,7 +1518,9 @@ CCCCCCCCCCC6 vs CCCCCCCCCCC14
 #1, cc, GG
 Playing...
 It is a draw with 0:0
-CCCCCCCCCCC23 vs CCCCCCCCCCC28
+Next we will have today's 4th match:
+CCCCCCCCCCC9 vs CCCCCCCCCCC17
+Country:CCCCCCCCCCC9
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1452,37 +1532,7 @@ CCCCCCCCCCC23 vs CCCCCCCCCCC28
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC28 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC28 did a goal, and it was #1, cc did the goal
-Now it is 0:2
-CCCCCCCCCCC23 did a goal, and it was #1, cc did the goal
-Now it is 1:2
-CCCCCCCCCCC23 fails CCCCCCCCCCC28 with the goals 1:2
-CCCCCCCCCCC2 vs CCCCCCCCCCC29
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
+Country:CCCCCCCCCCC17
 #1, cc, GG
 #1, cc, GG
 #1, cc, GG
@@ -1495,403 +1545,4 @@ CCCCCCCCCCC2 vs CCCCCCCCCCC29
 #1, cc, GG
 #1, cc, GG
 Playing...
-CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC2 fails CCCCCCCCCCC29 with the goals 0:1
-CCCCCCCCCCC19 vs CCCCCCCCCCC32
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC19 beats CCCCCCCCCCC32 with the goals 1:0
-CCCCCCCCCCC17 vs CCCCCCCCCCC6
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC6 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC17 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC17 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC17 did a goal, and it was #1, cc did the goal
-Now it is 3:1
-CCCCCCCCCCC17 beats CCCCCCCCCCC6 with the goals 3:1
-CCCCCCCCCCC5 vs CCCCCCCCCCC7
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC5 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC5 did a goal, and it was #1, cc did the goal
-Now it is 2:0
-CCCCCCCCCCC5 beats CCCCCCCCCCC7 with the goals 2:0
-CCCCCCCCCCC18 vs CCCCCCCCCCC24
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
-Now it is 0:2
-CCCCCCCCCCC18 fails CCCCCCCCCCC24 with the goals 0:2
-CCCCCCCCCCC20 vs CCCCCCCCCCC31
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC20 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
-Now it is 1:2
-CCCCCCCCCCC20 fails CCCCCCCCCCC31 with the goals 1:2
-CCCCCCCCCCC30 vs CCCCCCCCCCC1
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC1 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC30 fails CCCCCCCCCCC1 with the goals 0:1
-CCCCCCCCCCC28 vs CCCCCCCCCCC29
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC28 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
-Now it is 1:2
-CCCCCCCCCCC28 did a goal, and it was #1, cc did the goal
-Now it is 2:2
-CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
-Now it is 2:3
-CCCCCCCCCCC28 fails CCCCCCCCCCC29 with the goals 2:3
-CCCCCCCCCCC19 vs CCCCCCCCCCC17
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC17 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC19 beats CCCCCCCCCCC17 with the goals 2:1
-CCCCCCCCCCC5 vs CCCCCCCCCCC24
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC5 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
-Now it is 1:2
-CCCCCCCCCCC5 fails CCCCCCCCCCC24 with the goals 1:2
-CCCCCCCCCCC31 vs CCCCCCCCCCC1
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC1 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC31 beats CCCCCCCCCCC1 with the goals 2:1
-CCCCCCCCCCC29 vs CCCCCCCCCCC19
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
-Now it is 2:0
-CCCCCCCCCCC19 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC29 beats CCCCCCCCCCC19 with the goals 2:1
-CCCCCCCCCCC24 vs CCCCCCCCCCC31
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
-Now it is 1:0
-CCCCCCCCCCC31 did a goal, and it was #1, cc did the goal
-Now it is 1:1
-CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
-Now it is 2:1
-CCCCCCCCCCC24 beats CCCCCCCCCCC31 with the goals 2:1
-CCCCCCCCCCC29 vs CCCCCCCCCCC24
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-#1, cc, GG
-Playing...
-CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
-Now it is 0:1
-CCCCCCCCCCC24 did a goal, and it was #1, cc did the goal
-Now it is 0:2
-CCCCCCCCCCC29 did a goal, and it was #1, cc did the goal
-Now it is 1:2
-CCCCCCCCCCC29 fails CCCCCCCCCCC24 with the goals 1:2
+It is a draw with 0:0

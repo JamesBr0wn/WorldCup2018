@@ -187,9 +187,20 @@ void WorldCup::knockout() {
 	vector<Team*> tempFail;
 	vector<Team*> tempWin;
 	for (int i = 0; i < matchTeam.size(); i+=2) {
-		cout << "Today is" << matchDate.month << "," << matchDate.day << endl;
-		cout << "We will have the match between " << matchTeam[i]->getCountry() << " and " << matchTeam[i + 1]->getCountry() << endl;
+		srand(i);
+		int randNum = rand() % 2;
+		cout << "Today is" << matchDate.month << "," << matchDate.day << ", ";
 		out << "Today is" << matchDate.month << "," << matchDate.day << endl;
+		if (randNum == 1) {
+			cout << "a warm sunny day, nice for matches" << endl;
+			out << "a warm sunny day, nice for matches" << endl;
+		}
+		else {
+			cout << "the weather is a little bit cold" << endl;
+			out << "the weather is a little bit cold" << endl;
+
+		}
+		cout << "We will have the match between " << matchTeam[i]->getCountry() << " and " << matchTeam[i + 1]->getCountry() << endl;
 		out << "We will have the match between " << matchTeam[i]->getCountry() << " and " << matchTeam[i + 1]->getCountry() << endl;
 		pair<int, int> score = startMatch(matchTeam[i]->getCountry(), matchTeam[i + 1]->getCountry(), 1);
 		tempWin.push_back(matchTeam[i + ((score.first > score.second) ? 0 : 1)]);
@@ -262,6 +273,8 @@ void WorldCup::groupSort() {
 
 void WorldCup::printTeamInfo(Team& team) {
 	ofstream out("simulationLog.txt", ios::app);
+	cout << "Country:" << team.getCountry() << endl;
+	out << "Country:" << team.getCountry() << endl;
 	for (int i = 0; i < team.getPlayer().size(); i++) {
 		Player* temp = team.getPlayer()[i];
 		cout << team.getPlayer()[i]->getID() << ", " << team.getPlayer()[i]->getName() << ", " << team.getPlayer()[i]->getPosition() << endl;
