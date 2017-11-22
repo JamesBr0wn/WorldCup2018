@@ -190,8 +190,8 @@ void WorldCup::knockout() {
 	for (int i = 0; i < matchTeam.size(); i+=2) {
 		srand(i);
 		int randNum = rand() % 2;
-		cout << "Today is" << matchDate.month << "," << matchDate.day << ", ";
-		out << "Today is" << matchDate.month << "," << matchDate.day << endl;
+		cout << "Today is " << matchDate.month << "," << matchDate.day << ", ";
+		out << "Today is " << matchDate.month << "," << matchDate.day << endl;
 		if (randNum == 1) {
 			cout << "a warm sunny day, nice for matches" << endl;
 			out << "a warm sunny day, nice for matches" << endl;
