@@ -1,5 +1,6 @@
 ﻿#include "WorldCup.hpp"
 #include <iostream>
+#include <iomanip>
 #include <vector>
 #include <string>
 #include <cstdlib>
@@ -315,44 +316,44 @@ void WorldCup::showGroupMatchResult() {
 	file = "result16.txt";
 	ofstream out(file);
 	cout << endl << "Final result for group A" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	cout << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	out << endl << "Final result for group A" << endl;
-	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(GA.group, out);
 	cout << endl << "Final result for group B" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	cout << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	out << endl << "Final result for group B" << endl;
-	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(GB.group, out);
 	cout << endl << "Final result for group C" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	cout << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	out << endl << "Final result for group C" << endl;
-	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(GC.group, out);
 	cout << endl << "Final result for group D" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	cout << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	out << endl << "Final result for group D" << endl;
-	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(GD.group, out);
 	cout << endl << "Final result for group E" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	cout << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	out << endl << "Final result for group E" << endl;
-	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(GE.group, out);
 	cout << endl << "Final result for group F" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	cout << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	out << endl << "Final result for group F" << endl;
-	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(GF.group, out);
 	cout << endl << "Final result for group G" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	cout << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	out << endl << "Final result for group G" << endl;
-	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(GG.group, out);
 	cout << endl << "Final result for group H" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	cout << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	out << endl << "Final result for group H" << endl;
-	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(GH.group, out);
 }
 
@@ -362,13 +363,13 @@ void WorldCup::showKnockoutResult() {
 	out << "Final result" << endl;
 	cout << "Promotion Team(s):" << endl;
 	out << "Promotion Team(s):" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
-	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	cout << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(matchTeam, out);
 	cout << "Elimination Team(s):" << endl;
 	out << "Elimination Team(s):" << endl;
-	cout << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
-	out << "Team\t\tW\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	cout << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
+	out << setw(15) << "Team\t" << "W\tD\tL\tGF\tGA\tGD\tPts" << endl;
 	showTeamScore(failTeam, out);
 }
 
@@ -402,8 +403,8 @@ void WorldCup::showFinalStastics() {
 	for (int i = 0; i < tempPlayers.size(); i++) {
 		if (currentGoal != tempPlayers[i]->getGoal()) {
 			currentGoal = tempPlayers[i]->getGoal();
-			cout << currentGoal << "Goals" << endl;
-			out << currentGoal << "Goals" << endl;
+			cout << currentGoal << "Goal(s)" << endl;
+			out << currentGoal << "Goal(s)" << endl;
 		}
 		cout << tempPlayers[i]->getName() << " ," << tempPlayers[i]->getID() << " ," << tempPlayers[i]->getCountry() << endl;
 		out << tempPlayers[i]->getName() << " ," << tempPlayers[i]->getID() << " ," << tempPlayers[i]->getCountry() << endl;
@@ -412,8 +413,8 @@ void WorldCup::showFinalStastics() {
 
 void WorldCup::showTeamScore(vector<Team*>& group, ofstream& out) {
 	for (int i = 0; i < group.size(); i++) {
-		cout << group[i]->getCountry() << "\t" << group[i]->getWon() << "\t" << group[i]->getDraw() << "\t" << group[i]->getLost() << "\t" << group[i]->getGoals_for() << "\t" << group[i]->getGoals_against() << "\t" << group[i]->getGoals_difference() << "\t" << group[i]->getPoints() << endl;
-		out << group[i]->getCountry() << "\t" << group[i]->getWon() << "\t" << group[i]->getDraw() << "\t" << group[i]->getLost() << "\t" << group[i]->getGoals_for() << "\t" << group[i]->getGoals_against() << "\t" << group[i]->getGoals_difference() << "\t" << group[i]->getPoints() << endl;
+		cout << setw(15) << group[i]->getCountry() << "\t"<< group[i]->getWon() << "\t" << group[i]->getDraw() << "\t" << group[i]->getLost() << "\t" << group[i]->getGoals_for() << "\t" << group[i]->getGoals_against() << "\t" << group[i]->getGoals_difference() << "\t" << group[i]->getPoints() << endl;
+		out << setw(15) << group[i]->getCountry() << "\t" << group[i]->getWon() << "\t" << group[i]->getDraw() << "\t" << group[i]->getLost() << "\t" << group[i]->getGoals_for() << "\t" << group[i]->getGoals_against() << "\t" << group[i]->getGoals_difference() << "\t" << group[i]->getPoints() << endl;
 	}
 }
 
