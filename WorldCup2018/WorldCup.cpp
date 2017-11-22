@@ -15,6 +15,8 @@ WorldCup::WorldCup()
 {
 	GA = Group('A');GB = Group('B');GC = Group('C');GD = Group('D');
 	GE = Group('E');GF = Group('F');GG = Group('G');GH = Group('H');
+	matchDate.day = 14;
+	matchDate.month = "June";
 	date.day = 14;
 	date.month = "June";
 }
@@ -278,8 +280,9 @@ void WorldCup::grouping16()
 	cout << date.month << " " << date.day << endl;
 	out << date.month << " " << date.day << endl;
 	helpGrouping16(out, GF, GE, savePlace);
-	helpGrouping16(out, GG, GH, savePlace);
+	helpGrouping16(out, GH, GG, savePlace);
 	out.close();
+	file = "result8.txt";
 }
 
 void WorldCup::showTeam8()
@@ -296,6 +299,7 @@ void WorldCup::grouping8()
 	ofstream out(file);
 	helpGrouping8_4_2(out, 8);
 	out.close();
+	file = "result4.txt";
 }
 
 void WorldCup::showTeam4()
@@ -312,6 +316,7 @@ void WorldCup::grouping4()
 	ofstream out(file);
 	helpGrouping8_4_2(out, 4);
 	out.close();
+	file = "result2.txt";
 }
 
 void WorldCup::showTeam2()
@@ -328,6 +333,7 @@ void WorldCup::grouping2()
 	ofstream out(file);
 	helpGrouping8_4_2(out, 2);
 	out.close();
+	file = "result1.txt";
 }
 
 void WorldCup::helpTeamShow(ofstream &out,int number, int amount, int &i)

@@ -72,6 +72,7 @@ public:
 	void grouping2();
 	void groupMatch();
 	void knockout();
+	void showFinalStastics();
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i);
 	void helpSetPlot(vector<Team*>& tempPot, int amount, int &i);
@@ -84,6 +85,9 @@ private:
 	void helpGrouping16(ofstream &out, Group tempGroup1, Group tempGroup2, vector<string>&tempPlace);
 	void helpShowTeam8_4_2(ofstream &out, int teamAmount);
 	void helpGrouping8_4_2(ofstream &out, int teamAmount);
+	void showGroupMatchResult();
+	void showKnockoutResult();
+	void showTeamScore(vector<Team*>& group, ofstream& out);
 	vector<string> helpGetMatchPlace();
 
 	vector<Shot> match(Team& home, Team& away, int type);
@@ -91,9 +95,9 @@ private:
 	pair<int, int> liveBroadcast(string homeName, string awayName, vector<Shot> result);
 	string voicePool(Shot shot);
 	Team& findTeam(string teamName);
-	void groupSort(int i);
+	void groupSort();
 	void printTeamInfo(Team& team);
-	void sortGroup(Group group);
+	void sortGroup(Group& group);
 
 	int AFC;
 	int CAF;
@@ -104,6 +108,7 @@ private:
 
 	string file;
 	Date date;						//表示当前日期
+	Date matchDate;
 	multimap<int, string> day_info; //存放比赛时间表
 	vector<Team*> matchTeam;        //存放当轮淘汰赛中比赛的队伍
 	vector<Team*> failTeam;			//存放当轮淘汰赛中被淘汰的队伍
