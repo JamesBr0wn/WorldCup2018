@@ -6,7 +6,7 @@
 #include <ctime>  
 using namespace std;
 
-#define hostRank 0
+#define hostRank 65
 #define teamMember 11
 #define placeNum 8
 typedef multimap<int, string>::iterator IT;
