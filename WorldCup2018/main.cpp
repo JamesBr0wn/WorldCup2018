@@ -27,5 +27,6 @@ int main()
 	mycup.showTeam2();
 	mycup.grouping2();
 	mycup.knockout();
+	mycup.showFinalStastics();
 	getchar();
 }
