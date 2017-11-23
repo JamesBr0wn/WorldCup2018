@@ -1,4 +1,9 @@
 Final result
-Team		W	D	L	GF	GA	GD	Pts
-CCCCCCCCCCC3	5	1	0	6	0	6	16
-CCCCCCCCCCC9	4	1	1	7	3	4	13
+Promotion Team(s):
+          Team	W	D	L	GF	GA	GD	Pts
+         Poland	4	1	1	8	5	3	13
+    Switzerland	5	0	1	11	2	9	15
+Elimination Team(s):
+          Team	W	D	L	GF	GA	GD	Pts
+       Portugal	3	2	1	7	5	2	11
+       Colombia	2	3	1	8	6	2	9

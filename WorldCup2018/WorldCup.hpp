@@ -64,15 +64,19 @@ public:
 	void schedule32();
 	void showTeam16();
 	void grouping16();
+	void match16();
 	void showTeam8();
 	void grouping8();
+	void match8();
 	void showTeam4();
 	void grouping4();
+	void semiFinals();
+	void final();
 	void showTeam2();
 	void grouping2();
 	void showTeam1();
 	void groupMatch();
-	void knockout();
+	void knockout(int n);
 	void showFinalStastics();
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i);
