@@ -1,25 +1,25 @@
 Qualified for round of 16:
 Group A
-	1. CCCCCCCCCCC25
-	2. CCCCCCCCCCC3
+	1. Morocco
+	2. Iran
 Group B
-	1. CCCCCCCCCCC30
-	2. CCCCCCCCCCC7
+	1. Uruguay
+	2. Poland
 Group C
-	1. CCCCCCCCCCC28
-	2. CCCCCCCCCCC6
+	1. Tunisia
+	2. Brazil
 Group D
-	1. CCCCCCCCCCC26
-	2. CCCCCCCCCCC10
+	1. Peru
+	2. Mexico
 Group E
-	1. CCCCCCCCCCC2
-	2. CCCCCCCCCCC5
+	1. Costa Rica
+	2. Swden
 Group F
-	1. CCCCCCCCCCC32
-	2. CCCCCCCCCCC19
+	1. Senegal
+	2. Belgium
 Group G
-	1. CCCCCCCCCCC4
-	2. CCCCCCCCCCC12
+	1. Argentina
+	2. Nigeria
 Group H
-	1. CCCCCCCCCCC29
-	2. CCCCCCCCCCC8
+	1. Egypt
+	2. Germany

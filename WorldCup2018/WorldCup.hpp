@@ -54,17 +54,17 @@ class WorldCup
 {
 public:
 	WorldCup();
-	void getTeamInfo();
-	void getPlaceInfo();
-	void showTeamInfo();
-	void showGroupInfo();
-	void showPotInfo();
-	void setPot();
-	void grouping32();
-	void schedule32();
-	void showTeam16();
-	void grouping16();
-	void showTeam8();
+	void getTeamInfo();		//获得队伍信息
+	void getPlaceInfo();	//获得比赛场地信息
+	void showTeamInfo();	//显示参赛队伍
+	void setPot();			//把队伍放进pot中
+	void showPotInfo();		//显示pot信息
+	void grouping32();		//小组赛分组
+	void showGroupInfo();	//显示分组信息
+	void schedule32();		//小组赛比赛安排
+	void showTeam16();		//显示16强队伍
+	void grouping16();		//16强比赛安排
+	void showTeam8();		
 	void grouping8();
 	void showTeam4();
 	void grouping4();
@@ -115,7 +115,7 @@ private:
 	vector<Team*> failTeam;			//存放当轮淘汰赛中被淘汰的队伍
 	vector<Team> totalTeams;        //存放所有队伍
 	vector<Player> totalPlayers;    //存放所有球员
-	vector<string> place;
+	vector<string> place;			//存放比赛场地
 	vector<Team*> pot1;
 	vector<Team*> pot2;
 	vector<Team*> pot3;

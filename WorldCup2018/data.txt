@@ -1,1537 +1,1537 @@
-5 6 3 1 4 13
-CCCCCCCCCCC1
-AFICA
-1
-20
+5 5 4 1 3 14
+Tunisia
+AFRICA
+28
+70
 #1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC2
-AFICA
-2
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC3
-AFICA
+Farouk Ben Mustapha
+GK
 0
-20
+#2
+Syam Ben Youssef
+DF
+10
+#4
+Yassine Meriah
+DF
+10
+#3
+Aymen Trabelsi
+MF
+30
+#10
+Wahbi Khazri
+MF
+30
+#13
+Ferjani Sassi
+MF
+30
+#14
+Mohamed Ben Amor
+MF
+30
+#7
+Youssef Msakni
+FW
+60
+#8
+Fakhreddine Ben Youssef
+FW
+60
+#9
+Yoann Touzghar
+FW
+60
+#11
+Taha Khenissi
+FW
+60
+Nigeria
+AFRICA
+41
+50
+#16
+Ikechukwu Ezenwa
+GK
+0
+#4
+Kenneth Omeruo
+DF
+10
+#12
+Shehu Abdullahi
+DF
+10
+#10
+John Obi Mikel
+MF
+30
+#19
+John Ogu
+MF
+30
+#13
+Wilfred Ndidi
+MF
+30
+#8
+Etebo Oghenekaro
+MF
+30
+#7
+Ahmed Musa
+FW
+60
+#22
+Moses Simon
+FW
+60
+#14
+Odion Ighalo
+FW
+60
+#18
+Kelechi Iheanacho
+FW
+60
+Morocco
+AFRICA
+48
+50
+#12
+Munir Mohamedi
+GK
+0
+#5
+Medhi Benatia
+DF
+10
+#17
+Nabil Dirar
+DF
+10
+#14
+Mbark Boussoufa
+MF
+30
+#8
+Karim El Ahmadi
+MF
+30
+#10
+Younes Belhanda
+MF
+30
+#16
+Nordin Amrabat
+MF
+30
+#19
+Sofyan Amrabat
+MF
+30
+#23
+Rachid Alioui
+FW
+60
+#13
+Khalid Boutaib
+FW
+60
+#21
+Achraf Bencharki
+FW
+60
+Senegal
+AFRICA
+32
+60
+#16
+Khadim Ndiaye
+GK
+0
+#2
+Kara Mbodji
+DF
+10
+#21
+Lamine Gassama
+DF
+10
+#5
+Idrissa Gana Gueye
+MF
+30
+#17
+Cheikhou Kouyate
+MF
+30
+#8
+Cheikh Ndoye
+MF
+30
+#11
+Papa Alioune Ndiaye
+MF
+30
+#7
+Moussa Sow
+FW
+60
+#14
+Moussa Konate
+FW
+60
+#6
+Diafra Sakho
+FW
+60
+#10
+Opa Nguette
+FW
+60
+Egypt
+AFRICA
+30
+70
 #1
-cc
-GG
+Mohamed Awad
+GK
+0
+#2
+Ali Gabr
+DF
+10
+#3
+Ahmed Elmohamady
+DF
+10
+#6
+Sam Morsy
+MF
+30
+#8
+Tarek Hamed
+MF
+30
+#12
+Shikabala
+MF
+30
+#10
+Moamen Zakaria
+MF
+30
+#9
+Kouka
+FW
+60
+#18
+Kahraba
+FW
+60
+#11
+Amr Marey
+FW
+60
+#13
+Amr Gamal
+FW
+60
+Brazil
+SOUTH AMERICA
+2
+100
+#1
+Alisson
+GK
+0
+#2
+Dani Alves
+DF
+10
+#3
+Miranda
+DF
+10
+#5
+Casemiro
+MF
+30
+#8
+Renato Augusto
+MF
+30
+#11
+Philippe Coutinho
+MF
+30
+#15
+Paulinho
+MF
+30
+#7
+Douglas Costa
+FW
+60
+#9
+Gabriel Jesus
+FW
+60
+#10
+Neymar
+FW
+60
+#21
+Roberto Firmino
+FW
+60
+Uruguay
+SOUTH AMERICA
+17
+90
+#23
+Martin Silva
+GK
+0
+#3
+Diego Godin
+DF
+10
+#2
+Jose Maria Gimenez
+DF
+10
+#7
+Alvaro Gonzalez
+MF
+30
+#20
+Nicolas Lodeiro
+MF
+30
+#15
+Carlos Sanchez
+MF
+30
+#5
+Matias Vecino
+MF
+30
+#21
+Edinson Cavani
+FW
+60
+#17
+Cristhian Stuani
+FW
+60
+#18
+Jonathan Urretaviscaya
+FW
+60
+#9
+Gaston Pereiro
+FW
+60
+Argentina
+SOUTH AMERICA
+4
+100
+#1
+Sergio Romero
+GK
+0
+#2
+Emanuel Mammana
+DF
+10
+#3
+Federico Fazio
+DF
+10
+#5
+Leandro Paredes
+MF
+30
+#16
+Diego Perotti
+MF
+30
+#18
+Eduardo Salvio
+MF
+30
+#20
+Giovani Lo Celso
+MF
+30
+#10
+Lionel Messi
+FW
+60
+#7
+Paulo Dybala
+FW
+60
+#21
+Dario Benedetto
+FW
+60
+#26
+Cristian Pavon
+FW
+60
+Colombia
+SOUTH AMERICA
+13
+80
+#1
+Leandro Castellanos
+GK
+0
+#18
+Frank Fabra
+DF
+10
+#4
+Stefan Medina
+DF
+10
+#6
+Carlos Sanchez
+MF
+30
+#5
+Abel Aguilar
+MF
+30
+#14
+Edwin Cardona
+MF
+30
+#22
+Giovanni Moreno
+MF
+30
+#7
+Carlos Bacca
+FW
+60
+#2
+Miguel Borja
+FW
+60
+#17
+Duvan Zapata
+FW
+60
+#26
+Felipe Pardo
+FW
+60
+Peru
+SOUTH AMERICA
+10
+90
+#1
+Pedro Gallese
+GK
+0
+#2
+Alberto Rodriguez
+DF
+10
+#3
+Aldo Corzo
+DF
+10
+#7
+Paolo Hurtado
+MF
+30
+#19
+Christian Cueva
+MF
+30
+#20
+Renato Tapia
+MF
+30
+#23
+Andy Polo
+MF
+30
+#9
+Yordy Reyna
+FW
+60
+#10
+Jefferson Farfan
+FW
+60
+#11
+Raul Ruidiaz
+FW
+60
+#18
+Andre Carrillo
+FW
+60
+Japan
+ASIA
+44
+50
+#1
+Eiji Kawashima
+GK
+0
+#3
+Gen Shoji
+DF
+10
+#4
+Shintaro Kurumaya
+DF
+10
+#2
+Yosuke Ideguchi
+MF
+30
+#14
+Wataru Endo
+MF
+30
+#16
+Shu Kurata
+MF
+30
+#17
+Makoto Hasebe
+MF
+30
+#8
+Genki Haraguchi
+FW
+60
+#9
+Kenyu Sugimoto
+FW
+60
+#10
+Takashi Inui
+FW
+60
+#11
+Yuya Kubo
+FW
+60
+Saudi Arabia
+ASIA
+63
+30
+#1
+Waleed Abdullah
+GK
+0
+#2
+Osama Hawsawi
+DF
+10
+#3
+Hassan Muath
+DF
+10
+#4
+Taisir Al-Jassim
+MF
+30
+#5
+Yahya Al-Shehri
+MF
+30
+#6
+Salman Al-Faraj
+MF
+30
+#7
+Ahmed Al-Fraidi
+MF
+30
+#8
+Ahm Al-Fraidi 
+MF
+30
+#9
+Muhannad Assiri
+FW
+30
+#10
+Mukhtar Fallatah
+FW
+60
+#11
+Hazaa Al-Hazaa
+FW
+60
+Iran
+ASIA
+34
 60
 #1
-cc
-GG
+Alireza Beiranvand
+GK
+0
+#2
+Vouria Ghafouri
+DF
+10
+#4
+Jalal Hosseini
+DF
+10
+#5
+Milad Mohammadi
+DF
+10
+#8
+Morteza Pouraliganji
+DF
+10
+#3
+Ehsan Hajsafi
+MF
+30
+#6
+Saeid Ezatolahi
+MF
+30
+#7
+Saman Ghoddos
+MF
+30
+#9
+Omid Ebrahimi
+MF
+30
+#10
+Karim Ansarifard
+FW
 60
+#16
+Reza Ghoochannejhad
+FW
+60
+South Korea
+ASIA
+62
+30
 #1
-cc
-GG
+Kim Seung-gyu
+GK
+0
+#2
+Jang Hyun-soo
+DF
+10
+#3
+Kim Jin-su
+DF
+10
+#4
+Kim Min-woo
+DF
+10
+#5
+Go Yo-han
+DF
+10
+#6
+Yeom Ki-hun
+MF
+30
+#7
+Lee Jae-sung
+MF
+30
+#8
+Jung Woo-young	
+MF
+30
+#9
+Lee Myung-joo
+MF
+30
+#10
+Lee Keun-ho
+FW
 60
+#11
+Kim Shin-wook
+FW
+60
+Australia
+OCEANIA
+43
+50
 #1
-cc
-GG
+Mathew Ryan
+GK
+0
+#2
+Milos Degenek
+DF
+10
+#3
+Alex Gersbach
+DF
+10
+#6
+Matthew Jurman
+DF
+10
+#8
+Bailey Wright
+DF
+10
+#5
+Mark Milligan
+MF
+30
+#15
+Craig Goodwin
+MF
+30
+#11
+Aaron Mooy
+MF
+30
+#13
+James Troisi
+MF
+30
+#4
+Tim Cahill
+FW
 60
+#7
+Mathew Leckie
+FW
+60
+Panama
+NORTH AMERICA
+49
+50
 #1
-cc
-GG
+Jaime Penedo
+GK
+0
+#23
+Felipe Baloy
+DF
+10
+#15
+Erick Davis
+DF
+10
+#17
+Luis Ovalle
+DF
+10
+#13
+Roberto Chen
+DF
+10
+#11
+Armando Cooper
+MF
+30
+#8
+Marcos S¨¢nchez
+MF
+30
+#19
+Ricardo Buitrago
+MF
+30
+#6
+Josiel Nunez
+MF
+30
+#7
+Blas Perez
+FW
 60
-#1
-cc
-GG
+#9
+Gabriel Torres
+FW
 60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC4
-AFICA
+Costa Rica
+NORTH AMERICA
 22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC5
-AFICA
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC6
-SOUTH AMERICAN
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC7
-SOUTH AMERICAN
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC8
-SOUTH AMERICAN
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC9
-SOUTH AMERICAN
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC10
-SOUTH AMERICAN
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC11
-SOUTH AMERICAN
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC12
-ASCIA
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC13
-ASCIA
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC14
-ASCIA
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC15
-DA YANG ZHOU
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC16
-NORTH AMERICAN
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC17
-NORTH AMERICAN
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC18
-NORTH AMERICAN
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC19
-NORTH AMERICAN
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC20
+70
+#1
+Patrick Pemberton
+GK
+0
+#2
+Giancarlo Gonz¨¢lez
+DF
+10
+#3
+Cristian Gamboa
+DF
+10
+#4
+Bryan Oviedo
+DF
+10
+#5
+Jos¨¦ Salvatierra
+DF
+10
+#6
+Celso Borges
+MF
+30
+#7
+Christian Bola?os
+MF
+30
+#8
+Yeltsin Tejeda
+MF
+30
+#9
+David Guzm¨¢n
+MF
+30
+#10
+Marco Ure?a
+FW
+60
+#11
+Johan Venegas
+FW
+60
+Mexico
+NORTH AMERICA
+16
+80
+#1
+Guillermo Ochoa
+GK
+0
+#2
+H¨¦ctor Moreno
+DF
+10
+#3
+Miguel Lay¨²n
+DF
+10
+#4
+Diego Reyes
+DF
+10
+#5
+Hugo Ayala
+DF
+10
+#6
+Andr¨¦s Guardado
+MF
+30
+#7
+Javier Aquino
+MF
+30
+#8
+Jonathan dos Santos
+MF
+30
+#9
+J¨¹rgen Damm
+MF
+30
+#10
+Carlos Vela
+FW
+60
+#11
+Oribe Peralta
+FW
+60
+Russia(host)
 EUROPE
-22
-20
+65
+30
 #1
-cc
-GG
+Igor Akinfeev
+GK
+0
+#28
+Igor Smolnikov
+DF
+30
+#30
+Fyodor Kudryashov
+DF
+10
+#18
+Yuri Zhirkov
+MF
+30
+#8
+Denis Glushakov
+MF
+30
+#17
+Alan Dzagoev
+MF
+30
+#24
+Aleksandr Golovin
+MF
+30
+#9
+Aleksandr Kokorin
+FW
 60
+#10
+Fyodor Smolov
+FW
+60
+#7
+Dmitry Poloz
+FW
+60
+#11
+Anton Zabolotny
+FW
+60
+Belgium
+EPROPE
+5
+100
 #1
-cc
-GG
+Thibaut Courtois
+GK
+0
+#5
+Jan Vertonghen
+DF
+10
+#3
+Thomas Vermaelen
+DF
+10
+#6
+Axel Witsel
+MF
+30
+#19
+Mousa Demb¨¦l¨¦
+MF
+30
+#7
+Kevin De Bruyne
+MF
+30
+#16
+Steven Defour
+MF
+30
+#10
+Eden Hazard
+FW
 60
-#1
-cc
-GG
+#9
+Romelu Lukaku
+FW
 60
-#1
-cc
-GG
+#14
+Dries Mertens
+FW
 60
-#1
-cc
-GG
+#11
+Kevin Mirallas
+FW
 60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC21
+Germany
 EUROPE
-22
-20
+1
+100
 #1
-cc
-GG
+Kevin Trapp
+GK
+0
+#2
+Niklas S¨¹le
+DF
+10
+#3
+Marvin Plattenhardt
+DF
+10
+#6
+Sami Khedira
+MF
+30
+#7
+Julian Draxler
+MF
+30
+#8
+Toni Kroos
+MF
+30
+#10
+Mesut ?zil
+MF
+30
+#24
+Leroy San¨¦
+MF
+30
+#9
+Sandro Wagner
+FW
 60
-#1
-cc
-GG
+#11
+Timo Werner
+FW
 60
-#1
-cc
-GG
+#13
+Lars Stindl
+FW
 60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC22
+England
 EUROPE
-22
-20
-#1
-cc
-GG
+12
+80
+#13
+Jordan Pickford
+GK
+0
+#12
+Kieran Trippier
+DF
+10
+#14
+Danny Rose
+DF
+10
+#7
+Jake Livermore
+MF
+30
+#8
+Eric Dier
+MF
+30
+#10
+Ruben Loftus-Cheek
+MF
+30
+#17
+Jack Cork
+MF
+30
+#9
+Jamie Vardy
+FW
 60
-#1
-cc
-GG
+#21
+Tammy Abraham
+FW
 60
-#1
-cc
-GG
+#11
+Marcus Rashford
+FW
 60
-#1
-cc
-GG
+#22
+Dominic Solanke
+FW
 60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC23
+Spain
 EUROPE
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC24
-EUROPE
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC25
-EUROPE
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC26
-EUROPE
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC27
-EUROPE
-22
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC28
-EUROPE
-7
-20
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC29
+8
+90
+#1
+David de Gea
+GK
+0
+#2
+¨¢lvaro Odriozola
+DF
+10
+#3
+Gerard Piqu¨¦
+DF
+10
+#5
+Sergio Busquets
+MF
+30
+#6
+Andr¨¦s Iniesta
+MF
+30
+#8
+Sa¨²l ?¨ªguez
+MF
+30
+#10
+Thiago Alcantara
+MF
+30
+#7
+¨¢lvaro Morata
+FW
+60
+#9
+Jos¨¦ Callej¨®n
+FW
+60
+#11
+Vitolo
+FW
+60
+#17
+Iago Aspas
+FW
+60
+Poland
 EUROPE
 6
-20
-#1
-cc
-GG
+90
+#22
+?ukasz Fabia¨½ski
+GK
+0
+#13
+Maciej Rybus
+DF
+10
+#3
+Artur J?drzejczyk
+DF
+10
+#16
+Jakub B?aszczykowski
+MF
+30
+#5
+Krzysztof M?czy¨½ski
+MF
+30
+#19
+Piotr Zieli¨½ski
+MF
+30
+#8
+Karol Linetty
+MF
+30
+#26
+Przemys?aw Frankowski
+MF
+30
+#29
+Mariusz St?pi¨½ski
+FW
 60
-#1
-cc
-GG
+#23
+Kamil Wilczek
+FW
 60
-#1
-cc
-GG
+#28
+Jakub ?wierczok
+FW
 60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC30
+Iceland
 EUROPE
-5
-20
+21
+70
 #1
-cc
-GG
+Hannes Halld¨®rsson
+GK
+0
+#2
+Diego J¨®hannesson
+DF
+10
+#3
+J¨®n Gueni Fj¨®luson
+DF
+10
+#7
+J¨®hann Berg Guemundsson
+MF
+30
+#8
+Birkir Bjarnason
+MF
+30
+#10
+Gylfi Siguresson
+MF
+30
+#15
+R¨²nar M¨¢r Sigurj¨®nsson
+MF
+30
+#9
+Viear Kjartansson
+FW
 60
-#1
-cc
-GG
+#11
+Alfree Finnbogason
+FW
 60
-#1
-cc
-GG
+#26
+Kjartan Finnbogason
+FW
 60
-#1
-cc
-GG
+#27
+Kristj¨¢n Fl¨®ki Finnbogason
+FW
 60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC31
+Serbia
 EUROPE
-4
-20
-#1
-cc
-GG
+38
 60
 #1
-cc
-GG
+Vladimir Stojkovi?
+GK
+0
+#6
+Branislav Ivanovi?
+DF
+10
+#2
+Antonio Rukavina
+DF
+10
+#22
+Adem Ljaji?
+MF
+30
+#4
+Nemanja Gudelj
+MF
+30
+#19
+Andrija ?ivkovi?
+MF
+30
+#14
+Mijat Ga?inovi?
+MF
+30
+#21
+Nemanja Radonji?
+MF
+30
+#9
+Aleksandar Mitrovi?
+FW
 60
-#1
-cc
-GG
+#8
+Aleksandar Prijovi?
+FW
 60
-#1
-cc
-GG
+#10
+?or?e Ivanovi?
+FW
 60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-#1
-cc
-GG
-60
-CCCCCCCCCCC32
+Portugal
 EUROPE
 3
-20
+100
 #1
-cc
-GG
+Jos¨¦ S¨¢
+GK
+0
+#2
+N¨¦lson Semedo
+DF
+10
+#3
+Pepe
+DF
+10
+#6
+R¨²ben Neves
+MF
+30
+#8
+Bruno Fernandes
+MF
+30
+#10
+Jo?o M¨¢rio
+MF
+30
+#11
+Bernardo Silva
+MF
+30
+#7
+Gon?alo Guedes
+FW
 60
-#1
-cc
-GG
+#9
+Andr¨¦ Silva
+FW
 60
-#1
-cc
-GG
+#16
+Rony Lopes
+FW
 60
-#1
-cc
-GG
+#17
+Bruma
+FW
 60
+France
+EUROPE
+7
+90
 #1
-cc
-GG
+Alphonse Areola
+GK
+0
+#2
+Christophe Jallet
+DF
+10
+#3
+Layvin Kurzawa
+DF
+10
+#6
+Corentin Tolisso
+MF
+30
+#14
+Blaise Matuidi
+MF
+30
+#15
+Adrien Rabiot
+MF
+30
+#18
+Moussa Sissoko
+MF
+30
+#7
+Antoine Griezmann
+FW
 60
-#1
-cc
-GG
+#8
+Nabil Fekir
+FW
 60
-#1
-cc
-GG
+#10
+Alexandre Lacazette
+FW
 60
-#1
-cc
-GG
+#11
+Kingsley Coman
+FW
 60
+Switzerland
+EUROPE
+11
+80
 #1
-cc
-GG
+Yann Sommer
+GK
+0
+#2
+Stephan Lichtsteiner
+DF
+10
+#3
+L¨¦o Lacroix
+DF
+10
+#8
+Fabian Frei
+MF
+30
+#10
+Granit Xhaka
+MF
+30
+#11
+Valon Behrami
+MF
+30
+#14
+Denis Zakaria
+MF
+30
+#7
+Breel Embolo
+FW
 60
-#1
-cc
-GG
+#9
+Haris Seferovi?
+FW
 60
+#18
+Admir Mehmedi
+FW
+18
+#19
+Mario Gavranovi?
+FW
+60
+Croatia
+EUROPE
+18
+80
 #1
-cc
-GG
+Dominik Livakovi?
+GK
+0
+#2
+?ime Vrsaljko
+DF
+10
+#3
+Ivan Strini?
+DF
+10
+#5
+Matej Mitrovi?
+DF
+10
+#6
+Dejan Lovren
+DF
+10
+#4
+Ivan Peri?i?
+MF
+30
+#7
+Ivan Rakiti?
+MF
+30
+#10
+Luka Modri?
+MF
+30
+#11
+Marcelo Brozovi?
+MF
+30
+#8
+Ante Rebi?
+FW
+60
+#9
+Andrej Kramari?
+FW
+60
+Swden
+EUROPE
+25
+70
+#1
+Robin Olsen
+GK
+0
+#2
+Mikael Lustig
+DF
+10
+#3
+Victor Lindel?f
+DF
+10
+#4
+Andreas Granqvist
+DF
+10
+#5
+Martin Olsson
+DF
+10
+#7
+Sebastian Larsson
+MF
+30
+#10
+Emil Forsberg
+MF
+30
+#13
+Jakob Johansson
+MF
+30
+#15
+Gustav Svensson
+MF
+30
+#8
+Isaac Kiese Thelin
+FW
+60
+#9
+Marcus Berg
+FW
+60
+Denmark
+EUROPE
+19
+80
+#1
+Kasper Schmeichel
+GK
+0
+#3
+Jannik Vestergaard
+DF
+10
+#4
+Simon Kj?r
+DF
+10
+#5
+Jonas Knudsen
+DF
+10
+#6
+Andreas Christensen
+DF
+10
+#2
+Mike Jensen
+MF
+30
+#7
+William Kvist
+MF
+30
+#8
+Thomas Delaney
+MF
+30
+#10
+Christian Eriksen
+MF
+30
+#15
+Viktor Fischer
+FW
+60
+#11
+Nicklas Bendtner
+FW
 60

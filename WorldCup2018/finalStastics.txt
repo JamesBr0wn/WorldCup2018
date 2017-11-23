@@ -1,122 +1,87 @@
 Top Teams
-CCCCCCCCCCC24	5	2	0	11	5	6	17
-CCCCCCCCCCC19	4	1	1	9	4	5	13
-CCCCCCCCCCC29	4	1	2	10	7	3	13
-CCCCCCCCCCC31	3	1	2	8	7	1	10
-CCCCCCCCCCC17	3	0	2	8	4	4	9
-CCCCCCCCCCC1	3	0	1	4	2	2	9
-CCCCCCCCCCC24	2	2	1	6	4	2	8
-CCCCCCCCCCC29	2	1	2	6	5	1	7
-CCCCCCCCCCC18	2	1	1	4	4	0	7
-CCCCCCCCCCC9	2	0	1	3	2	1	6
+        Senegal	6	0	0	10	2	8	18
+         Poland	5	1	1	9	3	6	16
+        Senegal	5	0	2	10	5	5	15
+      Argentina	4	0	1	7	4	3	12
+     Costa Rica	3	2	1	6	4	2	11
+          Egypt	3	1	1	5	2	3	10
+           Peru	3	0	1	4	1	3	9
+        Tunisia	2	2	1	4	3	1	8
+        Uruguay	2	1	1	5	3	2	7
+         Brazil	2	1	2	4	4	0	7
 
 Goalscorers
-3Goals
-cc ,#1 ,CCCCCCCCCCC24
-2Goals
-cc ,#1 ,CCCCCCCCCCC17
-cc ,#1 ,CCCCCCCCCCC19
-cc ,#1 ,CCCCCCCCCCC8
-cc ,#1 ,CCCCCCCCCCC5
-cc ,#1 ,CCCCCCCCCCC6
-cc ,#1 ,CCCCCCCCCCC2
-cc ,#1 ,CCCCCCCCCCC19
-cc ,#1 ,CCCCCCCCCCC9
-cc ,#1 ,CCCCCCCCCCC19
-cc ,#1 ,CCCCCCCCCCC24
-cc ,#1 ,CCCCCCCCCCC24
-cc ,#1 ,CCCCCCCCCCC27
-cc ,#1 ,CCCCCCCCCCC28
-cc ,#1 ,CCCCCCCCCCC29
-cc ,#1 ,CCCCCCCCCCC29
-cc ,#1 ,CCCCCCCCCCC29
-cc ,#1 ,CCCCCCCCCCC32
-1Goals
-cc ,#1 ,CCCCCCCCCCC5
-cc ,#1 ,CCCCCCCCCCC5
-cc ,#1 ,CCCCCCCCCCC5
-cc ,#1 ,CCCCCCCCCCC5
-cc ,#1 ,CCCCCCCCCCC5
-cc ,#1 ,CCCCCCCCCCC5
-cc ,#1 ,CCCCCCCCCCC6
-cc ,#1 ,CCCCCCCCCCC6
-cc ,#1 ,CCCCCCCCCCC7
-cc ,#1 ,CCCCCCCCCCC7
-cc ,#1 ,CCCCCCCCCCC8
-cc ,#1 ,CCCCCCCCCCC9
-cc ,#1 ,CCCCCCCCCCC10
-cc ,#1 ,CCCCCCCCCCC10
-cc ,#1 ,CCCCCCCCCCC10
-cc ,#1 ,CCCCCCCCCCC11
-cc ,#1 ,CCCCCCCCCCC11
-cc ,#1 ,CCCCCCCCCCC11
-cc ,#1 ,CCCCCCCCCCC12
-cc ,#1 ,CCCCCCCCCCC12
-cc ,#1 ,CCCCCCCCCCC13
-cc ,#1 ,CCCCCCCCCCC15
-cc ,#1 ,CCCCCCCCCCC16
-cc ,#1 ,CCCCCCCCCCC16
-cc ,#1 ,CCCCCCCCCCC17
-cc ,#1 ,CCCCCCCCCCC17
-cc ,#1 ,CCCCCCCCCCC17
-cc ,#1 ,CCCCCCCCCCC17
-cc ,#1 ,CCCCCCCCCCC17
-cc ,#1 ,CCCCCCCCCCC17
-cc ,#1 ,CCCCCCCCCCC18
-cc ,#1 ,CCCCCCCCCCC18
-cc ,#1 ,CCCCCCCCCCC18
-cc ,#1 ,CCCCCCCCCCC18
-cc ,#1 ,CCCCCCCCCCC19
-cc ,#1 ,CCCCCCCCCCC19
-cc ,#1 ,CCCCCCCCCCC1
-cc ,#1 ,CCCCCCCCCCC19
-cc ,#1 ,CCCCCCCCCCC20
-cc ,#1 ,CCCCCCCCCCC20
-cc ,#1 ,CCCCCCCCCCC20
-cc ,#1 ,CCCCCCCCCCC20
-cc ,#1 ,CCCCCCCCCCC21
-cc ,#1 ,CCCCCCCCCCC22
-cc ,#1 ,CCCCCCCCCCC23
-cc ,#1 ,CCCCCCCCCCC23
-cc ,#1 ,CCCCCCCCCCC23
-cc ,#1 ,CCCCCCCCCCC1
-cc ,#1 ,CCCCCCCCCCC24
-cc ,#1 ,CCCCCCCCCCC24
-cc ,#1 ,CCCCCCCCCCC1
-cc ,#1 ,CCCCCCCCCCC24
-cc ,#1 ,CCCCCCCCCCC24
-cc ,#1 ,CCCCCCCCCCC1
-cc ,#1 ,CCCCCCCCCCC25
-cc ,#1 ,CCCCCCCCCCC26
-cc ,#1 ,CCCCCCCCCCC26
-cc ,#1 ,CCCCCCCCCCC27
-cc ,#1 ,CCCCCCCCCCC27
-cc ,#1 ,CCCCCCCCCCC1
-cc ,#1 ,CCCCCCCCCCC28
-cc ,#1 ,CCCCCCCCCCC28
-cc ,#1 ,CCCCCCCCCCC28
-cc ,#1 ,CCCCCCCCCCC2
-cc ,#1 ,CCCCCCCCCCC28
-cc ,#1 ,CCCCCCCCCCC29
-cc ,#1 ,CCCCCCCCCCC3
-cc ,#1 ,CCCCCCCCCCC29
-cc ,#1 ,CCCCCCCCCCC29
-cc ,#1 ,CCCCCCCCCCC3
-cc ,#1 ,CCCCCCCCCCC4
-cc ,#1 ,CCCCCCCCCCC29
-cc ,#1 ,CCCCCCCCCCC30
-cc ,#1 ,CCCCCCCCCCC30
-cc ,#1 ,CCCCCCCCCCC30
-cc ,#1 ,CCCCCCCCCCC30
-cc ,#1 ,CCCCCCCCCCC30
-cc ,#1 ,CCCCCCCCCCC31
-cc ,#1 ,CCCCCCCCCCC31
-cc ,#1 ,CCCCCCCCCCC31
-cc ,#1 ,CCCCCCCCCCC31
-cc ,#1 ,CCCCCCCCCCC31
-cc ,#1 ,CCCCCCCCCCC31
-cc ,#1 ,CCCCCCCCCCC31
-cc ,#1 ,CCCCCCCCCCC31
-cc ,#1 ,CCCCCCCCCCC4
-cc ,#1 ,CCCCCCCCCCC32
-cc ,#1 ,CCCCCCCCCCC32
+5Goal(s)
+Kamil Wilczek ,#23 ,Poland
+3Goal(s)
+Opa Nguette ,#10 ,Senegal
+Reza Ghoochannejhad ,#16 ,Iran
+Dario Benedetto ,#21 ,Argentina
+Ehsan Hajsafi ,#3 ,Iran
+2Goal(s)
+Cristian Pavon ,#26 ,Argentina
+Cheikh Ndoye ,#8 ,Senegal
+Moussa Konate ,#14 ,Senegal
+Diafra Sakho ,#6 ,Senegal
+Roberto Firmino ,#21 ,Brazil
+Tarek Hamed ,#8 ,Egypt
+Carlos Sanchez ,#6 ,Colombia
+Cristhian Stuani ,#17 ,Uruguay
+Celso Borges ,#6 ,Costa Rica
+Johan Venegas ,#11 ,Costa Rica
+Kevin Mirallas ,#11 ,Belgium
+Marcus Berg ,#9 ,Swden
+Vitolo ,#11 ,Spain
+Jakub B?aszczykowski ,#16 ,Poland
+1Goal(s)
+Sofyan Amrabat ,#19 ,Morocco
+Achraf Bencharki ,#21 ,Morocco
+Lamine Gassama ,#21 ,Senegal
+Idrissa Gana Gueye ,#5 ,Senegal
+Younes Belhanda ,#10 ,Morocco
+Moamen Zakaria ,#10 ,Egypt
+Kouka ,#9 ,Egypt
+Amr Gamal ,#13 ,Egypt
+Philippe Coutinho ,#11 ,Brazil
+Douglas Costa ,#7 ,Brazil
+Alvaro Gonzalez ,#7 ,Uruguay
+Edinson Cavani ,#21 ,Uruguay
+Leandro Paredes ,#5 ,Argentina
+Paulo Dybala ,#7 ,Argentina
+Paolo Hurtado ,#7 ,Peru
+Andy Polo ,#23 ,Peru
+Jonathan Urretaviscaya ,#18 ,Uruguay
+Andre Carrillo ,#18 ,Peru
+Kenyu Sugimoto ,#9 ,Japan
+Takashi Inui ,#10 ,Japan
+Youssef Msakni ,#7 ,Tunisia
+Saman Ghoddos ,#7 ,Iran
+Omid Ebrahimi ,#9 ,Iran
+Karim Ansarifard ,#10 ,Iran
+Jefferson Farfan ,#10 ,Peru
+Fakhreddine Ben Youssef ,#8 ,Tunisia
+David Guzm¨¢n ,#9 ,Costa Rica
+Marco Ure?a ,#10 ,Costa Rica
+Yoann Touzghar ,#9 ,Tunisia
+Oribe Peralta ,#11 ,Mexico
+Alan Dzagoev ,#17 ,Russia(host)
+Fyodor Smolov ,#10 ,Russia(host)
+Shehu Abdullahi ,#12 ,Nigeria
+Sami Khedira ,#6 ,Germany
+Kelechi Iheanacho ,#18 ,Nigeria
+Mesut ?zil ,#10 ,Germany
+Lars Stindl ,#13 ,Germany
+Jamie Vardy ,#9 ,England
+Marcus Rashford ,#11 ,England
+Medhi Benatia ,#5 ,Morocco
+Nabil Dirar ,#17 ,Morocco
+Krzysztof M?czy¨½ski ,#5 ,Poland
+Toni Kroos ,#8 ,Germany
+Ferjani Sassi ,#13 ,Tunisia
+Viear Kjartansson ,#9 ,Iceland
+Mijat Ga?inovi? ,#14 ,Serbia
+Aleksandar Mitrovi? ,#9 ,Serbia
+Rony Lopes ,#16 ,Portugal
+Mario Gavranovi? ,#19 ,Switzerland
+Isaac Kiese Thelin ,#8 ,Swden
+Mariusz St?pi¨½ski ,#29 ,Poland

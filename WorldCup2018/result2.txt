@@ -1,4 +1,9 @@
 Final result
-Team		W	D	L	GF	GA	GD	Pts
-CCCCCCCCCCC3	5	1	0	6	0	6	16
-CCCCCCCCCCC9	4	1	1	7	3	4	13
+Promotion Team(s):
+          Team	W	D	L	GF	GA	GD	Pts
+         Poland	4	1	1	7	2	5	13
+        Senegal	5	0	1	9	3	6	15
+Elimination Team(s):
+          Team	W	D	L	GF	GA	GD	Pts
+     Costa Rica	3	2	1	6	4	2	11
+        Senegal	6	0	0	10	2	8	18
