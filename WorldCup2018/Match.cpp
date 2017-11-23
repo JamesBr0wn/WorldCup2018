@@ -179,35 +179,67 @@ void WorldCup::groupMatch() {
 	showGroupMatchResult();
 }
 
-//void WorldCup::match16() {
-//	
-//}
+void WorldCup::match16() {
+	ofstream out("simulationLog.txt", ios::app);
+	matchDate.day = 27;
+	cout << "1 / 8 Finals:" << endl;
+	out << "1 / 8 Finals:" << endl;
+	knockout(2);
+}
 
-void WorldCup::knockout() {
+void WorldCup::match8() {
+	ofstream out("simulationLog.txt", ios::app);
+	matchDate.month = "July";
+	matchDate.day = 2;
+	cout << "1 / 4 Finals:" << endl;
+	out << "1 / 4 Finals:" << endl;
+	knockout(1);
+}
+
+void WorldCup::semiFinals() {
+	ofstream out("simulationLog.txt", ios::app);
+	matchDate.day = 7;
+	cout << "SemiFinals:" << endl;
+	out << "SemiFinals:" << endl;
+	knockout(1);
+}
+
+void WorldCup::final() {
+	ofstream out("simulationLog.txt", ios::app);
+	matchDate.day = 10;
+	cout << "Final:" << endl;
+	out << "Final:" << endl;
+	knockout(1);
+}
+
+void WorldCup::knockout(int n) {
 	ofstream out("simulationLog.txt", ios::app);
 	vector<Team*> tempFail;
 	vector<Team*> tempWin;
 	for (int i = 0; i < matchTeam.size(); i+=2) {
 		srand(i);
 		int randNum = rand() % 2;
-		cout << "Today is" << matchDate.month << "," << matchDate.day << ", ";
-		out << "Today is" << matchDate.month << "," << matchDate.day << endl;
-		if (randNum == 1) {
-			cout << "a warm sunny day, nice for matches" << endl;
-			out << "a warm sunny day, nice for matches" << endl;
-		}
-		else {
-			cout << "the weather is a little bit cold" << endl;
-			out << "the weather is a little bit cold" << endl;
+		if (n == 2 && i / 2 % 2 == 0 || n == 1) {
+			cout << "Today is " << matchDate.month << "," << matchDate.day << ", ";
+			out << "Today is " << matchDate.month << "," << matchDate.day << endl;
+			if (randNum == 1) {
+				cout << "a warm sunny day, nice for matches" << endl;
+				out << "a warm sunny day, nice for matches" << endl;
+			}
+			else {
+				cout << "the weather is a little bit cold" << endl;
+				out << "the weather is a little bit cold" << endl;
 
+			}
 		}
 		cout << "We will have the match between " << matchTeam[i]->getCountry() << " and " << matchTeam[i + 1]->getCountry() << endl;
 		out << "We will have the match between " << matchTeam[i]->getCountry() << " and " << matchTeam[i + 1]->getCountry() << endl;
 		pair<int, int> score = startMatch(matchTeam[i]->getCountry(), matchTeam[i + 1]->getCountry(), 1);
 		tempWin.push_back(matchTeam[i + ((score.first > score.second) ? 0 : 1)]);
 		tempFail.push_back(matchTeam[i + ((score.first > score.second) ? 1 : 0)]);
-		matchDate++;
-		matchDate++;
+		if (n == 2 && i / 2 % 2 == 1 || n == 1) {
+			matchDate++;
+		}
 	}
 	matchTeam = tempWin;
 	failTeam = tempFail;
@@ -246,16 +278,16 @@ pair<int, int> WorldCup::liveBroadcast(string homeName, string awayName, vector<
 		}
 	}
 	if (homeGoal > awayGoal) {
-		cout << homeName << " beats " << awayName << " with the goals " << homeGoal << ":" << awayGoal << endl;
-		out << homeName << " beats " << awayName << " with the goals " << homeGoal << ":" << awayGoal << endl;
+		cout << homeName << " beats " << awayName << " with the goals " << homeGoal << ":" << awayGoal << endl << endl;
+		out << homeName << " beats " << awayName << " with the goals " << homeGoal << ":" << awayGoal << endl << endl;
 	}
 	else if (homeGoal < awayGoal) {
-		cout << homeName << " fails " << awayName << " with the goals " << homeGoal << ":" << awayGoal << endl;
-		out << homeName << " fails " << awayName << " with the goals " << homeGoal << ":" << awayGoal << endl;
+		cout << homeName << " fails " << awayName << " with the goals " << homeGoal << ":" << awayGoal << endl << endl;
+		out << homeName << " fails " << awayName << " with the goals " << homeGoal << ":" << awayGoal << endl << endl;
 	}
 	else {
-		cout << "It is a draw with " << homeGoal << ":" << awayGoal << endl;
-		out << "It is a draw with " << homeGoal << ":" << awayGoal << endl;
+		cout << "It is a draw with " << homeGoal << ":" << awayGoal << endl << endl;
+		out << "It is a draw with " << homeGoal << ":" << awayGoal << endl << endl;
 	}
 	return pair<int, int>(homeGoal, awayGoal);
 }
@@ -278,8 +310,8 @@ void WorldCup::printTeamInfo(Team& team) {
 	out << "Country:" << team.getCountry() << endl;
 	for (int i = 0; i < team.getPlayer().size(); i++) {
 		Player* temp = team.getPlayer()[i];
-		cout << team.getPlayer()[i]->getID() << ", " << team.getPlayer()[i]->getName() << ", " << team.getPlayer()[i]->getPosition() << endl;
-		out << team.getPlayer()[i]->getID() << ", " << team.getPlayer()[i]->getName() << ", " << team.getPlayer()[i]->getPosition() << endl;
+		cout << "\t" << team.getPlayer()[i]->getID() << ", " << team.getPlayer()[i]->getName() << ", " << team.getPlayer()[i]->getPosition() << endl;
+		out << "\t" << team.getPlayer()[i]->getID() << ", " << team.getPlayer()[i]->getName() << ", " << team.getPlayer()[i]->getPosition() << endl;
 	}
 }
 
@@ -403,11 +435,15 @@ void WorldCup::showFinalStastics() {
 	for (int i = 0; i < tempPlayers.size(); i++) {
 		if (currentGoal != tempPlayers[i]->getGoal()) {
 			currentGoal = tempPlayers[i]->getGoal();
-			cout << currentGoal << "Goal(s)" << endl;
-			out << currentGoal << "Goal(s)" << endl;
+			cout << currentGoal << " Goal";
+			out << currentGoal << " Goal";
+			if (tempPlayers[i]->getGoal() != 1) {
+				cout << "s";
+			}
+			cout << endl;
 		}
-		cout << tempPlayers[i]->getName() << " ," << tempPlayers[i]->getID() << " ," << tempPlayers[i]->getCountry() << endl;
-		out << tempPlayers[i]->getName() << " ," << tempPlayers[i]->getID() << " ," << tempPlayers[i]->getCountry() << endl;
+		cout << "\t" << tempPlayers[i]->getName() << " ," << tempPlayers[i]->getID() << " ," << tempPlayers[i]->getCountry() << endl;
+		out << "\t" << tempPlayers[i]->getName() << " ," << tempPlayers[i]->getID() << " ," << tempPlayers[i]->getCountry() << endl;
 	}
 }
 
