@@ -64,6 +64,7 @@ public:
 	void schedule32();		//小组赛比赛安排
 	void showTeam16();		//显示16强队伍
 	void grouping16();		//16强比赛安排
+	void match16();
 	void showTeam8();		
 	void grouping8();
 	void match8();

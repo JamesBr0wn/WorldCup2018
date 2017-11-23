@@ -1,119 +1,119 @@
 Matches by squads
 Group A
-	Russia(host) vs Colombia,ASDSAD,June14
-	Costa Rica vs Swden,AAAAAAAA,June16
-	Russia(host) vs Costa Rica,QWEQ,June18
-	Colombia vs Swden,QWEQ,June20
-	Russia(host) vs Swden,EWWFWF,June22
-	Colombia vs Costa Rica,AAAAAAAA,June24
+	Russia(host) vs Tunisia,Kazan Central Stadium,June14
+	Japan vs England,Luzhniki Stadium,June16
+	Russia(host) vs Japan,The Fisht Olympic Stadium,June18
+	Tunisia vs England,The Fisht Olympic Stadium,June20
+	Russia(host) vs England,Yekaterinburg Central Stadium,June22
+	Tunisia vs Japan,Yekaterinburg Central Stadium,June24
 Group B
-	Portugal vs Peru,VVVVVVVV,June15
-	Mexico vs Denmark,AVIOWVWAW,June17
-	Portugal vs Mexico,ASDSAD,June19
-	Peru vs Denmark,XCV,June21
-	Portugal vs Denmark,XCV,June23
-	Peru vs Mexico,XCV,June25
+	Brazil vs Peru,Yekaterinburg Central Stadium,June15
+	Mexico vs Denmark,Spartak Stadium,June17
+	Brazil vs Mexico,Yekaterinburg Central Stadium,June19
+	Peru vs Denmark,Rostov Stadium,June21
+	Brazil vs Denmark,Luzhniki Stadium,June23
+	Peru vs Mexico,Kaliningrad Stadium,June25
 Group C
-	France vs Tunisia,XCV,June14
-	Japan vs England,JWAHFUI,June16
-	France vs Japan,EWWFWF,June18
-	Tunisia vs England,EWWFWF,June20
-	France vs England,AVIOWVWAW,June22
-	Tunisia vs Japan,ASDSAD,June24
+	France vs Morocco,Spartak Stadium,June14
+	Iran vs Iceland,Rostov Stadium,June16
+	France vs Iran,Kaliningrad Stadium,June18
+	Morocco vs Iceland,Luzhniki Stadium,June20
+	France vs Iceland,Kazan Central Stadium,June22
+	Morocco vs Iran,Luzhniki Stadium,June24
 Group D
-	Brazil vs Egypt,AVIOWVWAW,June15
-	Australia vs Switzerland,XCV,June17
-	Brazil vs Australia,AVIOWVWAW,June19
-	Egypt vs Switzerland,VVVVVVVV,June21
-	Brazil vs Switzerland,AAAAAAAA,June23
-	Egypt vs Australia,AVIOWVWAW,June25
+	Portugal vs Colombia,Luzhniki Stadium,June15
+	Costa Rica vs Swden,Kaliningrad Stadium,June17
+	Portugal vs Costa Rica,Luzhniki Stadium,June19
+	Colombia vs Swden,Nizhny Novgorod Stadium,June21
+	Portugal vs Swden,The Fisht Olympic Stadium,June23
+	Colombia vs Costa Rica,Rostov Stadium,June25
 Group E
-	Germany vs Morocco,AAAAAAAA,June14
-	Iran vs Iceland,EWWFWF,June16
-	Germany vs Iran,AAAAAAAA,June18
-	Morocco vs Iceland,JWAHFUI,June20
-	Germany vs Iceland,JWAHFUI,June22
-	Morocco vs Iran,QWEQ,June24
+	Belgium vs Senegal,Nizhny Novgorod Stadium,June14
+	South Korea vs Serbia,Kazan Central Stadium,June16
+	Belgium vs South Korea,Nizhny Novgorod Stadium,June18
+	Senegal vs Serbia,Spartak Stadium,June20
+	Belgium vs Serbia,Nizhny Novgorod Stadium,June22
+	Senegal vs South Korea,Spartak Stadium,June24
 Group F
-	Poland vs Uruguay,JWAHFUI,June15
-	Panama vs Croatia,VVVVVVVV,June17
-	Poland vs Panama,XCV,June19
-	Uruguay vs Croatia,AVIOWVWAW,June21
-	Poland vs Croatia,QWEQ,June23
-	Uruguay vs Panama,VVVVVVVV,June25
+	Germany vs Egypt,Kaliningrad Stadium,June15
+	Australia vs Switzerland,Nizhny Novgorod Stadium,June17
+	Germany vs Australia,Rostov Stadium,June19
+	Egypt vs Switzerland,Yekaterinburg Central Stadium,June21
+	Germany vs Switzerland,Kaliningrad Stadium,June23
+	Egypt vs Australia,Nizhny Novgorod Stadium,June25
 Group G
-	Argentina vs Nigeria,QWEQ,June14
-	Saudi Arabia vs Spain,QWEQ,June16
-	Argentina vs Saudi Arabia,VVVVVVVV,June18
-	Nigeria vs Spain,ASDSAD,June20
-	Argentina vs Spain,ASDSAD,June22
-	Nigeria vs Saudi Arabia,JWAHFUI,June24
+	Argentina vs Nigeria,The Fisht Olympic Stadium,June14
+	Saudi Arabia vs Spain,Yekaterinburg Central Stadium,June16
+	Argentina vs Saudi Arabia,Kazan Central Stadium,June18
+	Nigeria vs Spain,Kaliningrad Stadium,June20
+	Argentina vs Spain,Rostov Stadium,June22
+	Nigeria vs Saudi Arabia,Kazan Central Stadium,June24
 Group H
-	Belgium vs Senegal,EWWFWF,June15
-	South Korea vs Serbia,ASDSAD,June17
-	Belgium vs South Korea,JWAHFUI,June19
-	Senegal vs Serbia,AAAAAAAA,June21
-	Belgium vs Serbia,VVVVVVVV,June23
-	Senegal vs South Korea,EWWFWF,June25
+	Poland vs Uruguay,Rostov Stadium,June15
+	Panama vs Croatia,The Fisht Olympic Stadium,June17
+	Poland vs Panama,Spartak Stadium,June19
+	Uruguay vs Croatia,Kazan Central Stadium,June21
+	Poland vs Croatia,Spartak Stadium,June23
+	Uruguay vs Panama,The Fisht Olympic Stadium,June25
 
 Matches by date
 June 14
-	Russia(host) vs Colombia,ASDSAD
-	France vs Tunisia,XCV
-	Germany vs Morocco,AAAAAAAA
-	Argentina vs Nigeria,QWEQ
+	Russia(host) vs Tunisia,Kazan Central Stadium
+	France vs Morocco,Spartak Stadium
+	Belgium vs Senegal,Nizhny Novgorod Stadium
+	Argentina vs Nigeria,The Fisht Olympic Stadium
 June 15
-	Portugal vs Peru,VVVVVVVV
-	Brazil vs Egypt,AVIOWVWAW
-	Poland vs Uruguay,JWAHFUI
-	Belgium vs Senegal,EWWFWF
+	Brazil vs Peru,Yekaterinburg Central Stadium
+	Portugal vs Colombia,Luzhniki Stadium
+	Germany vs Egypt,Kaliningrad Stadium
+	Poland vs Uruguay,Rostov Stadium
 June 16
-	Costa Rica vs Swden,AAAAAAAA
-	Japan vs England,JWAHFUI
-	Iran vs Iceland,EWWFWF
-	Saudi Arabia vs Spain,QWEQ
+	Japan vs England,Luzhniki Stadium
+	Iran vs Iceland,Rostov Stadium
+	South Korea vs Serbia,Kazan Central Stadium
+	Saudi Arabia vs Spain,Yekaterinburg Central Stadium
 June 17
-	Mexico vs Denmark,AVIOWVWAW
-	Australia vs Switzerland,XCV
-	Panama vs Croatia,VVVVVVVV
-	South Korea vs Serbia,ASDSAD
+	Mexico vs Denmark,Spartak Stadium
+	Costa Rica vs Swden,Kaliningrad Stadium
+	Australia vs Switzerland,Nizhny Novgorod Stadium
+	Panama vs Croatia,The Fisht Olympic Stadium
 June 18
-	Russia(host) vs Costa Rica,QWEQ
-	France vs Japan,EWWFWF
-	Germany vs Iran,AAAAAAAA
-	Argentina vs Saudi Arabia,VVVVVVVV
+	Russia(host) vs Japan,The Fisht Olympic Stadium
+	France vs Iran,Kaliningrad Stadium
+	Belgium vs South Korea,Nizhny Novgorod Stadium
+	Argentina vs Saudi Arabia,Kazan Central Stadium
 June 19
-	Portugal vs Mexico,ASDSAD
-	Brazil vs Australia,AVIOWVWAW
-	Poland vs Panama,XCV
-	Belgium vs South Korea,JWAHFUI
+	Brazil vs Mexico,Yekaterinburg Central Stadium
+	Portugal vs Costa Rica,Luzhniki Stadium
+	Germany vs Australia,Rostov Stadium
+	Poland vs Panama,Spartak Stadium
 June 20
-	Colombia vs Swden,QWEQ
-	Tunisia vs England,EWWFWF
-	Morocco vs Iceland,JWAHFUI
-	Nigeria vs Spain,ASDSAD
+	Tunisia vs England,The Fisht Olympic Stadium
+	Morocco vs Iceland,Luzhniki Stadium
+	Senegal vs Serbia,Spartak Stadium
+	Nigeria vs Spain,Kaliningrad Stadium
 June 21
-	Peru vs Denmark,XCV
-	Egypt vs Switzerland,VVVVVVVV
-	Uruguay vs Croatia,AVIOWVWAW
-	Senegal vs Serbia,AAAAAAAA
+	Peru vs Denmark,Rostov Stadium
+	Colombia vs Swden,Nizhny Novgorod Stadium
+	Egypt vs Switzerland,Yekaterinburg Central Stadium
+	Uruguay vs Croatia,Kazan Central Stadium
 June 22
-	Russia(host) vs Swden,EWWFWF
-	France vs England,AVIOWVWAW
-	Germany vs Iceland,JWAHFUI
-	Argentina vs Spain,ASDSAD
+	Russia(host) vs England,Yekaterinburg Central Stadium
+	France vs Iceland,Kazan Central Stadium
+	Belgium vs Serbia,Nizhny Novgorod Stadium
+	Argentina vs Spain,Rostov Stadium
 June 23
-	Portugal vs Denmark,XCV
-	Brazil vs Switzerland,AAAAAAAA
-	Poland vs Croatia,QWEQ
-	Belgium vs Serbia,VVVVVVVV
+	Brazil vs Denmark,Luzhniki Stadium
+	Portugal vs Swden,The Fisht Olympic Stadium
+	Germany vs Switzerland,Kaliningrad Stadium
+	Poland vs Croatia,Spartak Stadium
 June 24
-	Colombia vs Costa Rica,AAAAAAAA
-	Tunisia vs Japan,ASDSAD
-	Morocco vs Iran,QWEQ
-	Nigeria vs Saudi Arabia,JWAHFUI
+	Tunisia vs Japan,Yekaterinburg Central Stadium
+	Morocco vs Iran,Luzhniki Stadium
+	Senegal vs South Korea,Spartak Stadium
+	Nigeria vs Saudi Arabia,Kazan Central Stadium
 June 25
-	Peru vs Mexico,XCV
-	Egypt vs Australia,AVIOWVWAW
-	Uruguay vs Panama,VVVVVVVV
-	Senegal vs South Korea,EWWFWF
+	Peru vs Mexico,Kaliningrad Stadium
+	Colombia vs Costa Rica,Rostov Stadium
+	Egypt vs Australia,Nizhny Novgorod Stadium
+	Uruguay vs Panama,The Fisht Olympic Stadium
