@@ -1,25 +1,25 @@
 Qualified for round of 16:
 Group A
-	1. Senegal
-	2. Russia(host)
+	1. Costa Rica
+	2. Swden
 Group B
-	1. Switzerland
-	2. Belgium
+	1. Mexico
+	2. Portugal
 Group C
-	1. Germany
-	2. Iceland
-Group D
-	1. Uruguay
-	2. Poland
-Group E
-	1. Portugal
-	2. Colombia
-Group F
-	1. Peru
-	2. Denmark
-Group G
-	1. Tunisia
+	1. France
 	2. England
+Group D
+	1. Egypt
+	2. Brazil
+Group E
+	1. Morocco
+	2. Germany
+Group F
+	1. Poland
+	2. Uruguay
+Group G
+	1. Saudi Arabia
+	2. Spain
 Group H
-	1. Argentina
-	2. Nigeria
+	1. Serbia
+	2. Belgium

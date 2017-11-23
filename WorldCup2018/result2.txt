@@ -1,9 +1,9 @@
 Final result
 Promotion Team(s):
           Team	W	D	L	GF	GA	GD	Pts
-         Poland	4	1	1	8	5	3	13
-    Switzerland	5	0	1	11	2	9	15
+         Brazil	4	1	1	10	5	5	13
+          Spain	2	2	1	8	5	3	8
 Elimination Team(s):
           Team	W	D	L	GF	GA	GD	Pts
-       Portugal	3	2	1	7	5	2	11
-       Colombia	2	3	1	8	6	2	9
+        Belgium	3	1	2	9	6	3	10
+          Swden	3	1	2	8	8	0	10

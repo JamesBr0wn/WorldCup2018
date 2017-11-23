@@ -1,118 +1,111 @@
 Top Teams
-    Switzerland	6	0	1	13	2	11	18
-         Poland	4	1	2	8	7	1	13
-        Tunisia	4	0	1	7	3	4	12
-       Portugal	3	2	1	7	5	2	11
-        Uruguay	3	1	1	6	3	3	10
-       Colombia	2	3	1	8	6	2	9
-        Germany	3	0	1	3	1	2	9
-        Belgium	3	0	2	8	9	-1	9
-      Argentina	2	1	1	7	5	2	7
-           Peru	2	1	1	4	3	1	7
+         Brazil	5	1	1	12	6	6	16
+          Spain	4	2	1	12	7	5	14
+          Egypt	4	0	1	9	3	6	12
+        Belgium	3	1	2	9	6	3	10
+          Swden	3	1	2	8	8	0	10
+         France	3	0	1	7	2	5	9
+         Mexico	3	0	1	4	2	2	9
+          Spain	2	2	1	8	5	3	8
+     Costa Rica	2	2	1	6	5	1	8
+        Uruguay	2	2	1	7	6	1	8
 
 Goalscorers
-3Goal	Carlos Bacca ,#7 ,Colombia
-	Duvan Zapata ,#17 ,Colombia
-	Cristhian Stuani ,#17 ,Uruguay
-	Romelu Lukaku ,#9 ,Belgium
-	Kevin Mirallas ,#11 ,Belgium
-	Breel Embolo ,#7 ,Switzerland
-2Goal	Lionel Messi ,#10 ,Argentina
-	Rachid Alioui ,#23 ,Morocco
-	Yeltsin Tejeda ,#8 ,Costa Rica
-	Moussa Konate ,#14 ,Senegal
-	Paolo Hurtado ,#7 ,Peru
-	Shikabala ,#12 ,Egypt
-	Cristian Pavon ,#26 ,Argentina
-	Jonathan Urretaviscaya ,#18 ,Uruguay
-	Raul Ruidiaz ,#11 ,Peru
-	Jamie Vardy ,#9 ,England
-	Karol Linetty ,#8 ,Poland
-	Mariusz St?pi¨½ski ,#29 ,Poland
-	Jakub ?wierczok ,#28 ,Poland
-	Fabian Frei ,#8 ,Switzerland
-	Rony Lopes ,#16 ,Portugal
-	Haris Seferovi? ,#9 ,Switzerland
-1Goal	Kelechi Iheanacho ,#18 ,Nigeria
-	Aymen Trabelsi ,#3 ,Tunisia
-	Cheikh Ndoye ,#8 ,Senegal
-	Papa Alioune Ndiaye ,#11 ,Senegal
-	Tarek Hamed ,#8 ,Egypt
+4 Goal	Douglas Costa ,#7 ,Brazil
 	Gabriel Jesus ,#9 ,Brazil
-	Gaston Pereiro ,#9 ,Uruguay
-	Diego Perotti ,#16 ,Argentina
-	Eduardo Salvio ,#18 ,Argentina
-	Giovani Lo Celso ,#20 ,Argentina
-	Idrissa Gana Gueye ,#5 ,Senegal
-	Carlos Sanchez ,#6 ,Colombia
-	Abel Aguilar ,#5 ,Colombia
-	Shu Kurata ,#16 ,Japan
-	Genki Haraguchi ,#8 ,Japan
-	Taisir Al-Jassim ,#4 ,Saudi Arabia
-	Muhannad Assiri ,#9 ,Saudi Arabia
-	Reza Ghoochannejhad ,#16 ,Iran
-	Lee Jae-sung ,#7 ,South Korea
-	Lee Keun-ho ,#10 ,South Korea
-	Mark Milligan ,#5 ,Australia
-	Armando Cooper ,#11 ,Panama
-	Blas Perez ,#7 ,Panama
-	Johan Venegas ,#11 ,Costa Rica
-	Jonathan dos Santos ,#8 ,Mexico
-	J¨¹rgen Damm ,#9 ,Mexico
-	Igor Smolnikov ,#28 ,Russia(host)
-	Yuri Zhirkov ,#18 ,Russia(host)
-	Alan Dzagoev ,#17 ,Russia(host)
-	Aleksandr Golovin ,#24 ,Russia(host)
+3 Goal	Roberto Firmino ,#21 ,Brazil
+	Kevin Mirallas ,#11 ,Belgium
+	Andr¨¦s Iniesta ,#6 ,Spain
+	Marcus Berg ,#9 ,Swden
+2 Goal	Vitolo ,#11 ,Spain
+	Kouka ,#9 ,Egypt
+	Hazaa Al-Hazaa ,#11 ,Saudi Arabia
+	Amr Marey ,#11 ,Egypt
+	Karim El Ahmadi ,#8 ,Morocco
+	Giancarlo Gonz¨¢lez ,#2 ,Costa Rica
+	Carlos Sanchez ,#15 ,Uruguay
+	Edinson Cavani ,#21 ,Uruguay
+	Jonathan Urretaviscaya ,#18 ,Uruguay
 	Fyodor Smolov ,#10 ,Russia(host)
-	Dmitry Poloz ,#7 ,Russia(host)
+	Lars Stindl ,#13 ,Germany
+	Sa¨²l ?¨ªguez ,#8 ,Spain
+	¨¢lvaro Morata ,#7 ,Spain
+	Jos¨¦ Callej¨®n ,#9 ,Spain
+	Kingsley Coman ,#11 ,France
+	Andrej Kramari? ,#9 ,Croatia
+	Sebastian Larsson ,#7 ,Swden
+	Gustav Svensson ,#15 ,Swden
+1 Goal	Paulinho ,#15 ,Brazil
+	Gaston Pereiro ,#9 ,Uruguay
+	Lionel Messi ,#10 ,Argentina
+	Dario Benedetto ,#21 ,Argentina
+	Carlos Sanchez ,#6 ,Colombia
+	Miguel Borja ,#2 ,Colombia
+	Kenyu Sugimoto ,#9 ,Japan
+	Taisir Al-Jassim ,#4 ,Saudi Arabia
+	Yahya Al-Shehri ,#5 ,Saudi Arabia
+	Milad Mohammadi ,#5 ,Iran
+	Saeid Ezatolahi ,#6 ,Iran
+	Karim Ansarifard ,#10 ,Iran
+	Lee Keun-ho ,#10 ,South Korea
+	Milos Degenek ,#2 ,Australia
+	Tim Cahill ,#4 ,Australia
+	Erick Davis ,#15 ,Panama
+	Gabriel Torres ,#9 ,Panama
+	Celso Borges ,#6 ,Costa Rica
+	Yeltsin Tejeda ,#8 ,Costa Rica
+	David Guzm¨¢n ,#9 ,Costa Rica
+	Johan Venegas ,#11 ,Costa Rica
+	Hugo Ayala ,#5 ,Mexico
+	Andr¨¦s Guardado ,#6 ,Mexico
+	J¨¹rgen Damm ,#9 ,Mexico
+	Oribe Peralta ,#11 ,Mexico
+	Shikabala ,#12 ,Egypt
+	Yuri Zhirkov ,#18 ,Russia(host)
+	Denis Glushakov ,#8 ,Russia(host)
+	Youssef Msakni ,#7 ,Tunisia
+	Thomas Vermaelen ,#3 ,Belgium
+	Axel Witsel ,#6 ,Belgium
+	Mousa Demb¨¦l¨¦ ,#19 ,Belgium
 	Steven Defour ,#16 ,Belgium
 	Eden Hazard ,#10 ,Belgium
-	Wahbi Khazri ,#10 ,Tunisia
-	Ferjani Sassi ,#13 ,Tunisia
+	Romelu Lukaku ,#9 ,Belgium
+	Wilfred Ndidi ,#13 ,Nigeria
 	Julian Draxler ,#7 ,Germany
 	Toni Kroos ,#8 ,Germany
+	Mesut ?zil ,#10 ,Germany
 	Sandro Wagner ,#9 ,Germany
-	Kieran Trippier ,#12 ,England
-	Mohamed Ben Amor ,#14 ,Tunisia
-	Tammy Abraham ,#21 ,England
-	Marcus Rashford ,#11 ,England
-	Dominic Solanke ,#22 ,England
-	Andr¨¦s Iniesta ,#6 ,Spain
-	Sa¨²l ?¨ªguez ,#8 ,Spain
-	Piotr Zieli¨½ski ,#19 ,Poland
-	Youssef Msakni ,#7 ,Tunisia
-	Fakhreddine Ben Youssef ,#8 ,Tunisia
-	Kamil Wilczek ,#23 ,Poland
-	Yoann Touzghar ,#9 ,Tunisia
-	J¨®hann Berg Guemundsson ,#7 ,Iceland
-	Gylfi Siguresson ,#10 ,Iceland
-	Viear Kjartansson ,#9 ,Iceland
-	Kjartan Finnbogason ,#26 ,Iceland
-	Kristj¨¢n Fl¨®ki Finnbogason ,#27 ,Iceland
-	Wilfred Ndidi ,#13 ,Nigeria
-	Aleksandar Mitrovi? ,#9 ,Serbia
-	?or?e Ivanovi? ,#10 ,Serbia
-	N¨¦lson Semedo ,#2 ,Portugal
-	R¨²ben Neves ,#6 ,Portugal
-	Jo?o M¨¢rio ,#10 ,Portugal
-	Bernardo Silva ,#11 ,Portugal
-	Ahmed Musa ,#7 ,Nigeria
-	Bruma ,#17 ,Portugal
-	Corentin Tolisso ,#6 ,France
-	Antoine Griezmann ,#7 ,France
-	Nabil Fekir ,#8 ,France
-	Stephan Lichtsteiner ,#2 ,Switzerland
-	Andrija ?ivkovi? ,#19 ,Serbia
-	Granit Xhaka ,#10 ,Switzerland
-	Valon Behrami ,#11 ,Switzerland
-	Denis Zakaria ,#14 ,Switzerland
-	Moses Simon ,#22 ,Nigeria
+	Timo Werner ,#11 ,Germany
 	Odion Ighalo ,#14 ,Nigeria
-	Admir Mehmedi ,#18 ,Switzerland
-	Mario Gavranovi? ,#19 ,Switzerland
+	Ruben Loftus-Cheek ,#10 ,England
+	Jack Cork ,#17 ,England
+	Mbark Boussoufa ,#14 ,Morocco
+	Younes Belhanda ,#10 ,Morocco
+	Thiago Alcantara ,#10 ,Spain
+	Khalid Boutaib ,#13 ,Morocco
+	Moussa Sow ,#7 ,Senegal
+	Opa Nguette ,#10 ,Senegal
+	Piotr Zieli¨½ski ,#19 ,Poland
+	Karol Linetty ,#8 ,Poland
+	Jakub ?wierczok ,#28 ,Poland
+	Viear Kjartansson ,#9 ,Iceland
+	Nemanja Gudelj ,#4 ,Serbia
+	Andrija ?ivkovi? ,#19 ,Serbia
+	Aleksandar Mitrovi? ,#9 ,Serbia
+	Aleksandar Prijovi? ,#8 ,Serbia
+	Jo?o M¨¢rio ,#10 ,Portugal
+	Rony Lopes ,#16 ,Portugal
+	Bruma ,#17 ,Portugal
+	Igor Smolnikov ,#28 ,Russia(host)
+	Adrien Rabiot ,#15 ,France
+	Moussa Sissoko ,#18 ,France
+	Antoine Griezmann ,#7 ,France
+	Alexandre Lacazette ,#10 ,France
+	Ali Gabr ,#2 ,Egypt
+	Breel Embolo ,#7 ,Switzerland
 	Ante Rebi? ,#8 ,Croatia
-	Isaac Kiese Thelin ,#8 ,Swden
-	Mike Jensen ,#2 ,Denmark
-	Thomas Delaney ,#8 ,Denmark
-	Christian Eriksen ,#10 ,Denmark
-	Nicklas Bendtner ,#11 ,Denmark
+	Sam Morsy ,#6 ,Egypt
+	Tarek Hamed ,#8 ,Egypt
+	Emil Forsberg ,#10 ,Swden
+	Kahraba ,#18 ,Egypt
+	Corentin Tolisso ,#6 ,France

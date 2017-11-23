@@ -333,6 +333,7 @@ void WorldCup::grouping2()
 	ofstream out(file);
 	helpGrouping8_4_2(out, 2);
 	out.close();
+	file = "result1.txt";
 }
 
 void WorldCup::showTeam1()
