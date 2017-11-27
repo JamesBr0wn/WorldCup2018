@@ -1,119 +1,119 @@
 Matches by squads
 Group A
-	Russia(host) vs Tunisia,Kazan Central Stadium,June14
-	Japan vs England,Luzhniki Stadium,June16
-	Russia(host) vs Japan,The Fisht Olympic Stadium,June18
-	Tunisia vs England,The Fisht Olympic Stadium,June20
-	Russia(host) vs England,Yekaterinburg Central Stadium,June22
-	Tunisia vs Japan,Yekaterinburg Central Stadium,June24
+	Russia(host) vs Colombia,Luzhniki Stadium,June14
+	Costa Rica vs Swden,Spartak Stadium,June16
+	Russia(host) vs Costa Rica,Spartak Stadium,June18
+	Colombia vs Swden,Yekaterinburg Central Stadium,June20
+	Russia(host) vs Swden,Luzhniki Stadium,June22
+	Colombia vs Costa Rica,The Fisht Olympic Stadium,June24
 Group B
-	Brazil vs Peru,Yekaterinburg Central Stadium,June15
-	Mexico vs Denmark,Spartak Stadium,June17
-	Brazil vs Mexico,Yekaterinburg Central Stadium,June19
-	Peru vs Denmark,Rostov Stadium,June21
-	Brazil vs Denmark,Luzhniki Stadium,June23
-	Peru vs Mexico,Kaliningrad Stadium,June25
-Group C
-	France vs Morocco,Spartak Stadium,June14
-	Iran vs Iceland,Rostov Stadium,June16
-	France vs Iran,Kaliningrad Stadium,June18
-	Morocco vs Iceland,Luzhniki Stadium,June20
-	France vs Iceland,Kazan Central Stadium,June22
-	Morocco vs Iran,Luzhniki Stadium,June24
-Group D
-	Portugal vs Colombia,Luzhniki Stadium,June15
-	Costa Rica vs Swden,Kaliningrad Stadium,June17
-	Portugal vs Costa Rica,Luzhniki Stadium,June19
-	Colombia vs Swden,Nizhny Novgorod Stadium,June21
-	Portugal vs Swden,The Fisht Olympic Stadium,June23
-	Colombia vs Costa Rica,Rostov Stadium,June25
-Group E
-	Belgium vs Senegal,Nizhny Novgorod Stadium,June14
-	South Korea vs Serbia,Kazan Central Stadium,June16
-	Belgium vs South Korea,Nizhny Novgorod Stadium,June18
-	Senegal vs Serbia,Spartak Stadium,June20
-	Belgium vs Serbia,Nizhny Novgorod Stadium,June22
-	Senegal vs South Korea,Spartak Stadium,June24
-Group F
-	Germany vs Egypt,Kaliningrad Stadium,June15
+	Portugal vs Egypt,Yekaterinburg Central Stadium,June15
 	Australia vs Switzerland,Nizhny Novgorod Stadium,June17
-	Germany vs Australia,Rostov Stadium,June19
-	Egypt vs Switzerland,Yekaterinburg Central Stadium,June21
-	Germany vs Switzerland,Kaliningrad Stadium,June23
+	Portugal vs Australia,Nizhny Novgorod Stadium,June19
+	Egypt vs Switzerland,Rostov Stadium,June21
+	Portugal vs Switzerland,Kazan Central Stadium,June23
 	Egypt vs Australia,Nizhny Novgorod Stadium,June25
+Group C
+	Germany vs Peru,Spartak Stadium,June14
+	Mexico vs Denmark,Luzhniki Stadium,June16
+	Germany vs Mexico,Yekaterinburg Central Stadium,June18
+	Peru vs Denmark,Kazan Central Stadium,June20
+	Germany vs Denmark,Nizhny Novgorod Stadium,June22
+	Peru vs Mexico,Yekaterinburg Central Stadium,June24
+Group D
+	France vs Nigeria,Kaliningrad Stadium,June15
+	Saudi Arabia vs Spain,Kazan Central Stadium,June17
+	France vs Saudi Arabia,Kaliningrad Stadium,June19
+	Nigeria vs Spain,Kaliningrad Stadium,June21
+	France vs Spain,Yekaterinburg Central Stadium,June23
+	Nigeria vs Saudi Arabia,Luzhniki Stadium,June25
+Group E
+	Argentina vs Morocco,Nizhny Novgorod Stadium,June14
+	Iran vs Iceland,Kaliningrad Stadium,June16
+	Argentina vs Iran,Rostov Stadium,June18
+	Morocco vs Iceland,Nizhny Novgorod Stadium,June20
+	Argentina vs Iceland,Rostov Stadium,June22
+	Morocco vs Iran,Spartak Stadium,June24
+Group F
+	Brazil vs Tunisia,The Fisht Olympic Stadium,June15
+	Japan vs England,Yekaterinburg Central Stadium,June17
+	Brazil vs Japan,Luzhniki Stadium,June19
+	Tunisia vs England,Spartak Stadium,June21
+	Brazil vs England,The Fisht Olympic Stadium,June23
+	Tunisia vs Japan,Kaliningrad Stadium,June25
 Group G
-	Argentina vs Nigeria,The Fisht Olympic Stadium,June14
-	Saudi Arabia vs Spain,Yekaterinburg Central Stadium,June16
-	Argentina vs Saudi Arabia,Kazan Central Stadium,June18
-	Nigeria vs Spain,Kaliningrad Stadium,June20
-	Argentina vs Spain,Rostov Stadium,June22
-	Nigeria vs Saudi Arabia,Kazan Central Stadium,June24
+	Poland vs Uruguay,Kazan Central Stadium,June14
+	Panama vs Croatia,Rostov Stadium,June16
+	Poland vs Panama,The Fisht Olympic Stadium,June18
+	Uruguay vs Croatia,The Fisht Olympic Stadium,June20
+	Poland vs Croatia,Kaliningrad Stadium,June22
+	Uruguay vs Panama,Rostov Stadium,June24
 Group H
-	Poland vs Uruguay,Rostov Stadium,June15
-	Panama vs Croatia,The Fisht Olympic Stadium,June17
-	Poland vs Panama,Spartak Stadium,June19
-	Uruguay vs Croatia,Kazan Central Stadium,June21
-	Poland vs Croatia,Spartak Stadium,June23
-	Uruguay vs Panama,The Fisht Olympic Stadium,June25
+	Belgium vs Senegal,Rostov Stadium,June15
+	South Korea vs Serbia,The Fisht Olympic Stadium,June17
+	Belgium vs South Korea,Kazan Central Stadium,June19
+	Senegal vs Serbia,Luzhniki Stadium,June21
+	Belgium vs Serbia,Spartak Stadium,June23
+	Senegal vs South Korea,Kazan Central Stadium,June25
 
 Matches by date
 June 14
-	Russia(host) vs Tunisia,Kazan Central Stadium
-	France vs Morocco,Spartak Stadium
-	Belgium vs Senegal,Nizhny Novgorod Stadium
-	Argentina vs Nigeria,The Fisht Olympic Stadium
+	Russia(host) vs Colombia,Luzhniki Stadium
+	Germany vs Peru,Spartak Stadium
+	Argentina vs Morocco,Nizhny Novgorod Stadium
+	Poland vs Uruguay,Kazan Central Stadium
 June 15
-	Brazil vs Peru,Yekaterinburg Central Stadium
-	Portugal vs Colombia,Luzhniki Stadium
-	Germany vs Egypt,Kaliningrad Stadium
-	Poland vs Uruguay,Rostov Stadium
+	Portugal vs Egypt,Yekaterinburg Central Stadium
+	France vs Nigeria,Kaliningrad Stadium
+	Brazil vs Tunisia,The Fisht Olympic Stadium
+	Belgium vs Senegal,Rostov Stadium
 June 16
-	Japan vs England,Luzhniki Stadium
-	Iran vs Iceland,Rostov Stadium
-	South Korea vs Serbia,Kazan Central Stadium
-	Saudi Arabia vs Spain,Yekaterinburg Central Stadium
+	Costa Rica vs Swden,Spartak Stadium
+	Mexico vs Denmark,Luzhniki Stadium
+	Iran vs Iceland,Kaliningrad Stadium
+	Panama vs Croatia,Rostov Stadium
 June 17
-	Mexico vs Denmark,Spartak Stadium
-	Costa Rica vs Swden,Kaliningrad Stadium
 	Australia vs Switzerland,Nizhny Novgorod Stadium
-	Panama vs Croatia,The Fisht Olympic Stadium
+	Saudi Arabia vs Spain,Kazan Central Stadium
+	Japan vs England,Yekaterinburg Central Stadium
+	South Korea vs Serbia,The Fisht Olympic Stadium
 June 18
-	Russia(host) vs Japan,The Fisht Olympic Stadium
-	France vs Iran,Kaliningrad Stadium
-	Belgium vs South Korea,Nizhny Novgorod Stadium
-	Argentina vs Saudi Arabia,Kazan Central Stadium
+	Russia(host) vs Costa Rica,Spartak Stadium
+	Germany vs Mexico,Yekaterinburg Central Stadium
+	Argentina vs Iran,Rostov Stadium
+	Poland vs Panama,The Fisht Olympic Stadium
 June 19
-	Brazil vs Mexico,Yekaterinburg Central Stadium
-	Portugal vs Costa Rica,Luzhniki Stadium
-	Germany vs Australia,Rostov Stadium
-	Poland vs Panama,Spartak Stadium
+	Portugal vs Australia,Nizhny Novgorod Stadium
+	France vs Saudi Arabia,Kaliningrad Stadium
+	Brazil vs Japan,Luzhniki Stadium
+	Belgium vs South Korea,Kazan Central Stadium
 June 20
-	Tunisia vs England,The Fisht Olympic Stadium
-	Morocco vs Iceland,Luzhniki Stadium
-	Senegal vs Serbia,Spartak Stadium
-	Nigeria vs Spain,Kaliningrad Stadium
+	Colombia vs Swden,Yekaterinburg Central Stadium
+	Peru vs Denmark,Kazan Central Stadium
+	Morocco vs Iceland,Nizhny Novgorod Stadium
+	Uruguay vs Croatia,The Fisht Olympic Stadium
 June 21
-	Peru vs Denmark,Rostov Stadium
-	Colombia vs Swden,Nizhny Novgorod Stadium
-	Egypt vs Switzerland,Yekaterinburg Central Stadium
-	Uruguay vs Croatia,Kazan Central Stadium
+	Egypt vs Switzerland,Rostov Stadium
+	Nigeria vs Spain,Kaliningrad Stadium
+	Tunisia vs England,Spartak Stadium
+	Senegal vs Serbia,Luzhniki Stadium
 June 22
-	Russia(host) vs England,Yekaterinburg Central Stadium
-	France vs Iceland,Kazan Central Stadium
-	Belgium vs Serbia,Nizhny Novgorod Stadium
-	Argentina vs Spain,Rostov Stadium
+	Russia(host) vs Swden,Luzhniki Stadium
+	Germany vs Denmark,Nizhny Novgorod Stadium
+	Argentina vs Iceland,Rostov Stadium
+	Poland vs Croatia,Kaliningrad Stadium
 June 23
-	Brazil vs Denmark,Luzhniki Stadium
-	Portugal vs Swden,The Fisht Olympic Stadium
-	Germany vs Switzerland,Kaliningrad Stadium
-	Poland vs Croatia,Spartak Stadium
+	Portugal vs Switzerland,Kazan Central Stadium
+	France vs Spain,Yekaterinburg Central Stadium
+	Brazil vs England,The Fisht Olympic Stadium
+	Belgium vs Serbia,Spartak Stadium
 June 24
-	Tunisia vs Japan,Yekaterinburg Central Stadium
-	Morocco vs Iran,Luzhniki Stadium
-	Senegal vs South Korea,Spartak Stadium
-	Nigeria vs Saudi Arabia,Kazan Central Stadium
+	Colombia vs Costa Rica,The Fisht Olympic Stadium
+	Peru vs Mexico,Yekaterinburg Central Stadium
+	Morocco vs Iran,Spartak Stadium
+	Uruguay vs Panama,Rostov Stadium
 June 25
-	Peru vs Mexico,Kaliningrad Stadium
-	Colombia vs Costa Rica,Rostov Stadium
 	Egypt vs Australia,Nizhny Novgorod Stadium
-	Uruguay vs Panama,The Fisht Olympic Stadium
+	Nigeria vs Saudi Arabia,Luzhniki Stadium
+	Tunisia vs Japan,Kaliningrad Stadium
+	Senegal vs South Korea,Kazan Central Stadium

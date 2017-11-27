@@ -1,25 +1,25 @@
 Qualified for round of 16:
 Group A
-	1. Tunisia
-	2. England
-Group B
-	1. Mexico
-	2. Denmark
-Group C
-	1. Iceland
-	2. France
-Group D
-	1. Colombia
+	1. Costa Rica
 	2. Swden
-Group E
-	1. Serbia
-	2. Belgium
-Group F
-	1. Australia
+Group B
+	1. Egypt
 	2. Switzerland
+Group C
+	1. Germany
+	2. Peru
+Group D
+	1. Spain
+	2. Saudi Arabia
+Group E
+	1. Iran
+	2. Iceland
+Group F
+	1. Brazil
+	2. Tunisia
 Group G
-	1. Saudi Arabia
-	2. Argentina
-Group H
-	1. Poland
+	1. Uruguay
 	2. Croatia
+Group H
+	1. Belgium
+	2. Senegal
