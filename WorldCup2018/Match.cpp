@@ -385,7 +385,9 @@ string WorldCup::helpVoice(Shot shot, string firTeamName, string secTeamName, in
 			if (firstGoal - secondGoal > 2)
 				cout << "Are " << secTeamName << "'s players just hanging out in the playground? "
 				<< firTeamName << "get one goal agian." << endl;
-			else 
+			else {
+				cout << "Though" << secTeamName << "has goaled in, the situation is still very grim for them. They are not likely to tie the score today." << endl;
+			}
 
 		}
 		else if (secondGoal - firstGoal > 1) {
