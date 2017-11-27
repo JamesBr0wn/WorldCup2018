@@ -1,13 +1,13 @@
 Final result
 Promotion Team(s):
           Team	W	D	L	GF	GA	GD	Pts
-          Swden	3	2	0	8	5	3	11
-        Croatia	1	2	1	6	6	0	5
-         France	4	1	0	9	3	6	13
-         Poland	3	1	1	8	6	2	10
+        Germany	5	0	0	11	2	9	15
+        Uruguay	4	0	1	6	2	4	12
+          Spain	3	0	2	7	4	3	9
+         Brazil	3	2	0	7	4	3	11
 Elimination Team(s):
           Team	W	D	L	GF	GA	GD	Pts
-        Denmark	2	2	1	5	4	1	8
-         Serbia	3	1	1	10	4	6	10
-         Mexico	3	0	2	6	3	3	9
-         Poland	4	1	0	9	5	4	13
+     Costa Rica	3	1	1	4	4	0	10
+        Tunisia	2	1	2	5	3	2	7
+          Spain	4	0	1	8	3	5	12
+        Belgium	2	2	1	6	4	2	8
