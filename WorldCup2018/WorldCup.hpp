@@ -85,7 +85,8 @@ private:
 	bool helpGrouping32_1(vector<Team*>&tempPot,int index, Group &tempGroup);
 	void setTeamAmount(int _CAF, int _CONMEBOL, int _AFC, int _OFC, int _CONCACAF, int _UEFA);
 	void helpPotShow(ofstream& out, vector<Team*>& tempPot);
-	void helpSchedule16(ofstream &out, Group tempGroup,multimap<int,string>& day_info,const vector<string>&tempPlace,int _day, int match);
+	void helpSchedule16(ofstream &out, Group tempGroup,multimap<int,string>& day_info
+						,const vector<string>&tempPlace,int _day, int match);
 	void helpShowTeam16(ofstream &out, Group tempGroup);
 	void helpGrouping16(ofstream &out, Group tempGroup1, Group tempGroup2, vector<string>&tempPlace);
 	void helpShowTeam8_4_2(ofstream &out, int teamAmount);
@@ -99,7 +100,8 @@ private:
 	void knockout(int n);																				//淘汰赛
 	pair<int, int> startMatch(string homeName, string awayName, int type);								//对应名称的球队进行比赛
 	pair<int, int> liveBroadcast(string homeName, string awayName, vector<Shot> result);				//比赛过程和结果播报
-	string WorldCup::voicePool(Shot shot, string homeName, string awayName, int homeGoal, int awayGoal);//解说语音池
+	string voicePool(Shot shot, string homeName, string awayName, int homeGoal, int awayGoal);//解说语音池
+	string helpVoice(Shot shot, string firTeamName, string secTeamName, int homeGoal, int awayGoal);
 	Team& findTeam(string teamName);																	//由队名找到球队
 	void groupSort();																					//小组赛队伍排序
 	void sortGroup(Group& group);																		//对某个小组按积分排序
@@ -137,19 +139,41 @@ private:
 
 
 /*
- "__				__	  _______	  ______   __          ______"
- "\ \	 	       / /   / ____  \   |  __  |  | |        |  ___ \"
- " \ \	   __     / /   / /	    \ \  | |__|_|  | |        | |   \ \"
- "  \ \	  /	 \	 / /   | |		 | | | | \ \   | |	      | |    | |"
- "   \ \_/ /\ \_/ /     \ \_____/ /  | |  \ \  | |______  | |___/ /"
- "    \___/	 \___/       \_______/	 |_|   \_\ |________| |______/"
+cout << "__				    __	  _______	  ______   __          ______" << endl;
+cout << "\ \	 	       / /   / ____  \   |  __  |  | |        |  ___ \" << endl;
+cout << " \ \	   __     / /   / /	    \ \  | |__|_|  | |        | |   \ \" << endl;
+cout << "  \ \	  /	 \	 / /   | |		 | | | | \ \   | |	      | |    | |" << endl;
+cout << "   \ \_/ / \ \_/ /     \ \_____/ /  | |  \ \  | |______  | |___/ /" << endl;
+cout << "    \___/	 \___/       \_______/	 |_|   \_\ |________| |______/" << endl;
 
 	  
-	  	   "_______	  _        _
-	  	  /  ______| | |	  |	|
-	  	  | |		 | |	  |	|
-	  	  | |		 | |	  |	|
-		  | |______	 | \______/	|
-		  \________|  \________/   
-*/
+cout << 	  			"  ________	  _       _    _____" << endl;
+cout << 	  			" /  ______| | |	 | |  / ___ \" << endl;
+cout << 	  			" | |		 | |	 | | | /   \ \" << endl;
+cout << 	  			" | |		 | |     | | | |___|_|" << endl;
+cout << 				" | |______	 | \_____/ | | |" << endl;
+cout << 				" \________|  \_______/  |_|" << endl;
+
+   ________   _________
+  |  ____  | |  _____  |
+  |_|    | | | |     | |
+   ______| | | |     | |		 
+  |  ______| | |     | |
+  | |        | |     | |
+  | |______  | |_____| |
+  |________| |_________|  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   */
 #endif

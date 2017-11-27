@@ -316,8 +316,56 @@ void WorldCup::printTeamInfo(Team& team) {
 	}
 }
 
-string WorldCup::voicePool(Shot shot, string homeName, string awayName, int homeGoal, int awayGoal) {
-	
+string WorldCup::voicePool(Shot shot, string homeName, string awayName, int homeGoal, int awayGoal) 
+{
+	if (shot.teamName == homeName) {
+		return helpVoice(shot, homeName, awayName, homeGoal, awayGoal);
+	}
+	else return helpVoice(shot, awayName, homeName, awayGoal, homeGoal);
+}
+
+string WorldCup::helpVoice(Shot shot, string firTeamName, string secTeamName, int firstGoal, int secondGoal)
+{
+	if (shot.time <= 30 && firstGoal == 0 && secondGoal == 0) {
+		//率先进一球
+	}
+	else if (shot.time > 30 && firstGoal == 0 && secondGoal == 0) {
+		if (shot.time > 70) {
+			//关键一球
+		}
+		else {
+			//打破僵局
+		}
+	}
+	if (shot.time < 70) {
+		if (firstGoal == secondGoal) {
+			//再次甩开
+		}
+		else if (secondGoal - firstGoal == 1) {
+			//再次追上
+		}
+		else if (firstGoal - secondGoal > 0) {
+			//远远甩开
+		}
+		else if (secondGoal - firstGoal > 1) {
+			//追上一球，还有机会追平
+		}
+	}
+	else {
+		if (firstGoal == secondGoal) {
+			//再次甩开(关键）
+		}
+		else if (secondGoal - firstGoal == 1) {
+			//再次追上(关键）
+		}
+		else if (firstGoal - secondGoal > 0) {
+			//远远甩开(关键）
+		}
+		else if (secondGoal - firstGoal > 1) {
+			//虽然追上一球，但是
+		}
+	}
+
 }
 
 
