@@ -264,6 +264,7 @@ pair<int, int> WorldCup::liveBroadcast(string homeName, string awayName, vector<
 	cout << "Playing..." << endl;
 	out << "Playing..." << endl;
 	for (int i = 0; i < result.size(); i++) {
+		voicePool(result[i], homeName, awayName, homeGoal, awayGoal);
 		if (result[i].goal) {
 			if (result[i].teamName == homeName) {
 				homeGoal++;
@@ -271,7 +272,6 @@ pair<int, int> WorldCup::liveBroadcast(string homeName, string awayName, vector<
 			else {
 				awayGoal++;
 			}
-			voicePool(result[i], homeName, awayName, homeGoal, awayGoal);
 			cout << result[i].teamName << " did a goal, and it was " << result[i].playerID << ", " << result[i].playerName << " did the goal" << endl;
 			cout << "Now it is " << homeGoal << ":" << awayGoal << endl;
 			out << result[i].teamName << " did a goal, and it was " << result[i].playerID << ", " << result[i].playerName << " did the goal" << endl;
