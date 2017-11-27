@@ -1,9 +1,9 @@
 Final result
 Promotion Team(s):
           Team	W	D	L	GF	GA	GD	Pts
-        Germany	6	0	0	14	2	12	18
-          Spain	4	0	2	9	4	5	12
+        Belgium	5	0	1	11	2	9	15
+        Denmark	4	1	1	5	2	3	13
 Elimination Team(s):
           Team	W	D	L	GF	GA	GD	Pts
-        Uruguay	4	0	2	6	5	1	12
-         Brazil	3	2	1	7	6	1	11
+        Belgium	6	0	0	12	1	11	18
+         Brazil	4	1	1	9	5	4	13

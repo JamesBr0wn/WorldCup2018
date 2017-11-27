@@ -54,6 +54,7 @@ class WorldCup
 {
 public:
 	WorldCup();
+	void printWelcomeInfo();
 	void getTeamInfo();			//获得队伍信息
 	void getPlaceInfo();		//获得比赛场地信息
 	void showTeamInfo();		//显示参赛队伍

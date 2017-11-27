@@ -38,39 +38,39 @@ pot4
 The Final Draw:
 group A
 	Russia(host)
-	Senegal
-	South Korea
-	Serbia
-group B
-	Belgium
-	Tunisia
-	Japan
-	England
-group C
-	Brazil
-	Uruguay
-	Panama
-	Croatia
-group D
-	Poland
 	Peru
 	Mexico
 	Denmark
-group E
+group B
 	France
 	Morocco
 	Iran
 	Iceland
-group F
-	Argentina
-	Nigeria
-	Saudi Arabia
-	Spain
-group G
+group C
 	Germany
 	Egypt
 	Australia
 	Switzerland
+group D
+	Poland
+	Uruguay
+	Panama
+	Croatia
+group E
+	Argentina
+	Nigeria
+	Saudi Arabia
+	Spain
+group F
+	Brazil
+	Tunisia
+	Japan
+	England
+group G
+	Belgium
+	Senegal
+	South Korea
+	Serbia
 group H
 	Portugal
 	Colombia
