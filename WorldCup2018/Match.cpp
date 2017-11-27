@@ -365,7 +365,7 @@ string WorldCup::helpVoice(Shot shot, string firTeamName, string secTeamName, in
 			//虽然追上一球，但是
 		}
 	}
-
+	return string();
 }
 
 
