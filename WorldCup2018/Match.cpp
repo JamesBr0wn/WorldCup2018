@@ -387,7 +387,7 @@ string WorldCup::helpVoice(Shot shot, string firTeamName, string secTeamName, in
 				return string("Nice! " + shot.playerName + " score a goal! Are" + secTeamName +
 					"'s players just hanging out on the football pitch?" + firTeamName + "get one goal agian.\n");
 			else {
-				return string(firTeamName + "'s player " + shot.playerName + "score a goal, they go further to victory!")
+				return string(firTeamName + "'s player " + shot.playerName + "score a goal, they go further to victory!");
 			}
 
 		}
