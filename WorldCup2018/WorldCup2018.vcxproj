@@ -122,6 +122,10 @@
     <ClInclude Include="Team.hpp" />
     <ClInclude Include="WorldCup.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="data.txt" />
+    <Text Include="dataPlace.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
