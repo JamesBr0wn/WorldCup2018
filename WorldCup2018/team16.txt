@@ -1,25 +1,25 @@
 Qualified for round of 16:
 Group A
-	1. Costa Rica
-	2. Swden
+	1. Tunisia
+	2. England
 Group B
 	1. Mexico
-	2. Portugal
+	2. Denmark
 Group C
-	1. France
-	2. England
+	1. Iceland
+	2. France
 Group D
-	1. Egypt
-	2. Brazil
+	1. Colombia
+	2. Swden
 Group E
-	1. Morocco
-	2. Germany
-Group F
-	1. Poland
-	2. Uruguay
-Group G
-	1. Saudi Arabia
-	2. Spain
-Group H
 	1. Serbia
 	2. Belgium
+Group F
+	1. Australia
+	2. Switzerland
+Group G
+	1. Saudi Arabia
+	2. Argentina
+Group H
+	1. Poland
+	2. Croatia

@@ -1,111 +1,109 @@
 Top Teams
-         Brazil	5	1	1	12	6	6	16
-          Spain	4	2	1	12	7	5	14
-          Egypt	4	0	1	9	3	6	12
-        Belgium	3	1	2	9	6	3	10
-          Swden	3	1	2	8	8	0	10
-         France	3	0	1	7	2	5	9
-         Mexico	3	0	1	4	2	2	9
-          Spain	2	2	1	8	5	3	8
-     Costa Rica	2	2	1	6	5	1	8
-        Uruguay	2	2	1	7	6	1	8
+         France	6	1	0	11	3	8	19
+        Croatia	4	2	1	10	6	4	14
+         Poland	4	1	1	9	6	3	13
+          Swden	3	2	1	8	7	1	11
+         Serbia	3	1	1	10	4	6	10
+         Poland	3	1	1	8	6	2	10
+         Mexico	3	0	2	6	3	3	9
+        Denmark	2	2	1	5	4	1	8
+        Iceland	2	1	1	6	3	3	7
+        Tunisia	2	1	1	5	4	1	7
 
 Goalscorers
-4 Goal	Douglas Costa ,#7 ,Brazil
-	Gabriel Jesus ,#9 ,Brazil
-3 Goal	Roberto Firmino ,#21 ,Brazil
-	Kevin Mirallas ,#11 ,Belgium
-	Andr¨¦s Iniesta ,#6 ,Spain
-	Marcus Berg ,#9 ,Swden
-2 Goal	Vitolo ,#11 ,Spain
-	Kouka ,#9 ,Egypt
-	Hazaa Al-Hazaa ,#11 ,Saudi Arabia
-	Amr Marey ,#11 ,Egypt
-	Karim El Ahmadi ,#8 ,Morocco
-	Giancarlo Gonz¨¢lez ,#2 ,Costa Rica
-	Carlos Sanchez ,#15 ,Uruguay
-	Edinson Cavani ,#21 ,Uruguay
-	Jonathan Urretaviscaya ,#18 ,Uruguay
-	Fyodor Smolov ,#10 ,Russia(host)
-	Lars Stindl ,#13 ,Germany
-	Sa¨²l ?¨ªguez ,#8 ,Spain
-	¨¢lvaro Morata ,#7 ,Spain
-	Jos¨¦ Callej¨®n ,#9 ,Spain
-	Kingsley Coman ,#11 ,France
+4 Goal	Alexandre Lacazette ,#10 ,France
+	Isaac Kiese Thelin ,#8 ,Swden
+3 Goal	Andrija ?ivkovi? ,#19 ,Serbia
+	Aleksandar Prijovi? ,#8 ,Serbia
 	Andrej Kramari? ,#9 ,Croatia
-	Sebastian Larsson ,#7 ,Swden
-	Gustav Svensson ,#15 ,Swden
-1 Goal	Paulinho ,#15 ,Brazil
-	Gaston Pereiro ,#9 ,Uruguay
-	Lionel Messi ,#10 ,Argentina
-	Dario Benedetto ,#21 ,Argentina
-	Carlos Sanchez ,#6 ,Colombia
-	Miguel Borja ,#2 ,Colombia
-	Kenyu Sugimoto ,#9 ,Japan
-	Taisir Al-Jassim ,#4 ,Saudi Arabia
-	Yahya Al-Shehri ,#5 ,Saudi Arabia
-	Milad Mohammadi ,#5 ,Iran
-	Saeid Ezatolahi ,#6 ,Iran
-	Karim Ansarifard ,#10 ,Iran
-	Lee Keun-ho ,#10 ,South Korea
-	Milos Degenek ,#2 ,Australia
-	Tim Cahill ,#4 ,Australia
-	Erick Davis ,#15 ,Panama
-	Gabriel Torres ,#9 ,Panama
-	Celso Borges ,#6 ,Costa Rica
-	Yeltsin Tejeda ,#8 ,Costa Rica
-	David Guzm¨¢n ,#9 ,Costa Rica
-	Johan Venegas ,#11 ,Costa Rica
-	Hugo Ayala ,#5 ,Mexico
-	Andr¨¦s Guardado ,#6 ,Mexico
-	J¨¹rgen Damm ,#9 ,Mexico
-	Oribe Peralta ,#11 ,Mexico
-	Shikabala ,#12 ,Egypt
-	Yuri Zhirkov ,#18 ,Russia(host)
-	Denis Glushakov ,#8 ,Russia(host)
+2 Goal	Wahbi Khazri ,#10 ,Tunisia
+	Felipe Pardo ,#26 ,Colombia
 	Youssef Msakni ,#7 ,Tunisia
-	Thomas Vermaelen ,#3 ,Belgium
-	Axel Witsel ,#6 ,Belgium
-	Mousa Demb¨¦l¨¦ ,#19 ,Belgium
-	Steven Defour ,#16 ,Belgium
+	Ahmed Al-Fraidi ,#7 ,Saudi Arabia
+	Mukhtar Fallatah ,#10 ,Saudi Arabia
 	Eden Hazard ,#10 ,Belgium
 	Romelu Lukaku ,#9 ,Belgium
-	Wilfred Ndidi ,#13 ,Nigeria
-	Julian Draxler ,#7 ,Germany
-	Toni Kroos ,#8 ,Germany
-	Mesut ?zil ,#10 ,Germany
-	Sandro Wagner ,#9 ,Germany
-	Timo Werner ,#11 ,Germany
-	Odion Ighalo ,#14 ,Nigeria
-	Ruben Loftus-Cheek ,#10 ,England
-	Jack Cork ,#17 ,England
-	Mbark Boussoufa ,#14 ,Morocco
-	Younes Belhanda ,#10 ,Morocco
-	Thiago Alcantara ,#10 ,Spain
-	Khalid Boutaib ,#13 ,Morocco
-	Moussa Sow ,#7 ,Senegal
-	Opa Nguette ,#10 ,Senegal
+	Kevin De Bruyne ,#7 ,Belgium
+	Edinson Cavani ,#21 ,Uruguay
+	Jamie Vardy ,#9 ,England
+	Jakub B?aszczykowski ,#16 ,Poland
 	Piotr Zieli¨½ski ,#19 ,Poland
-	Karol Linetty ,#8 ,Poland
 	Jakub ?wierczok ,#28 ,Poland
-	Viear Kjartansson ,#9 ,Iceland
-	Nemanja Gudelj ,#4 ,Serbia
-	Andrija ?ivkovi? ,#19 ,Serbia
 	Aleksandar Mitrovi? ,#9 ,Serbia
-	Aleksandar Prijovi? ,#8 ,Serbia
-	Jo?o M¨¢rio ,#10 ,Portugal
-	Rony Lopes ,#16 ,Portugal
+	Nabil Fekir ,#8 ,France
+	Ante Rebi? ,#8 ,Croatia
+1 Goal	Yordy Reyna ,#9 ,Peru
+	Jefferson Farfan ,#10 ,Peru
+	Gen Shoji ,#3 ,Japan
+	Shu Kurata ,#16 ,Japan
+	Takashi Inui ,#10 ,Japan
+	Saeid Ezatolahi ,#6 ,Iran
+	Lee Jae-sung ,#7 ,South Korea
+	Lee Keun-ho ,#10 ,South Korea
+	Bailey Wright ,#8 ,Australia
+	Tim Cahill ,#4 ,Australia
+	Mathew Leckie ,#7 ,Australia
+	Armando Cooper ,#11 ,Panama
+	Ricardo Buitrago ,#19 ,Panama
+	Cristian Gamboa ,#3 ,Costa Rica
+	Johan Venegas ,#11 ,Costa Rica
+	H¨¦ctor Moreno ,#2 ,Mexico
+	Diego Reyes ,#4 ,Mexico
+	Hugo Ayala ,#5 ,Mexico
+	Andr¨¦s Guardado ,#6 ,Mexico
+	Javier Aquino ,#7 ,Mexico
+	Jonathan dos Santos ,#8 ,Mexico
+	Denis Glushakov ,#8 ,Russia(host)
+	Aleksandr Kokorin ,#9 ,Russia(host)
+	Fyodor Smolov ,#10 ,Russia(host)
+	Mousa Demb¨¦l¨¦ ,#19 ,Belgium
+	Dries Mertens ,#14 ,Belgium
+	Toni Kroos ,#8 ,Germany
+	Eric Dier ,#8 ,England
+	Jack Cork ,#17 ,England
+	Mohamed Ben Amor ,#14 ,Tunisia
+	Wilfred Ndidi ,#13 ,Nigeria
+	Krzysztof M?czy¨½ski ,#5 ,Poland
+	Moses Simon ,#22 ,Nigeria
+	Karol Linetty ,#8 ,Poland
+	Przemys?aw Frankowski ,#26 ,Poland
+	Cheikhou Kouyate ,#17 ,Senegal
+	J¨®hann Berg Guemundsson ,#7 ,Iceland
+	Gylfi Siguresson ,#10 ,Iceland
+	R¨²nar M¨¢r Sigurj¨®nsson ,#15 ,Iceland
+	Viear Kjartansson ,#9 ,Iceland
+	Alfree Finnbogason ,#11 ,Iceland
+	Kjartan Finnbogason ,#26 ,Iceland
+	Adem Ljaji? ,#22 ,Serbia
+	Moussa Sow ,#7 ,Senegal
+	Gabriel Jesus ,#9 ,Brazil
+	Giovani Lo Celso ,#20 ,Argentina
+	?or?e Ivanovi? ,#10 ,Serbia
+	Andr¨¦ Silva ,#9 ,Portugal
 	Bruma ,#17 ,Portugal
-	Igor Smolnikov ,#28 ,Russia(host)
-	Adrien Rabiot ,#15 ,France
+	Christophe Jallet ,#2 ,France
+	Blaise Matuidi ,#14 ,France
 	Moussa Sissoko ,#18 ,France
 	Antoine Griezmann ,#7 ,France
-	Alexandre Lacazette ,#10 ,France
-	Ali Gabr ,#2 ,Egypt
-	Breel Embolo ,#7 ,Switzerland
-	Ante Rebi? ,#8 ,Croatia
-	Sam Morsy ,#6 ,Egypt
-	Tarek Hamed ,#8 ,Egypt
-	Emil Forsberg ,#10 ,Swden
-	Kahraba ,#18 ,Egypt
-	Corentin Tolisso ,#6 ,France
+	Lionel Messi ,#10 ,Argentina
+	Paulo Dybala ,#7 ,Argentina
+	Kingsley Coman ,#11 ,France
+	Fabian Frei ,#8 ,Switzerland
+	Valon Behrami ,#11 ,Switzerland
+	?ime Vrsaljko ,#2 ,Croatia
+	Dejan Lovren ,#6 ,Croatia
+	Ivan Peri?i? ,#4 ,Croatia
+	Luka Modri? ,#10 ,Croatia
+	Marcelo Brozovi? ,#11 ,Croatia
+	Abel Aguilar ,#5 ,Colombia
+	Carlos Bacca ,#7 ,Colombia
+	Mikael Lustig ,#2 ,Swden
+	Sebastian Larsson ,#7 ,Swden
+	Jakob Johansson ,#13 ,Swden
+	Gustav Svensson ,#15 ,Swden
+	Duvan Zapata ,#17 ,Colombia
+	Jannik Vestergaard ,#3 ,Denmark
+	Andreas Christensen ,#6 ,Denmark
+	Thomas Delaney ,#8 ,Denmark
+	Viktor Fischer ,#15 ,Denmark
+	Nicklas Bendtner ,#11 ,Denmark
