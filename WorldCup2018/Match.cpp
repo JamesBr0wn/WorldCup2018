@@ -321,81 +321,81 @@ string WorldCup::voicePool(Shot shot, string homeName, string awayName, int home
 		return helpVoice(shot, homeName, awayName, homeGoal, awayGoal);
 	}
 	else return helpVoice(shot, awayName, homeName, awayGoal, homeGoal);
-	cout << "Now, the scores " << homeGoal << " : " << awayGoal << " ." << endl;
 }
 
 string WorldCup::helpVoice(Shot shot, string firTeamName, string secTeamName, int firstGoal, int secondGoal)
 {
 	if (shot.time <= 30 && firstGoal == 0 && secondGoal == 0) {
 		//先进一球
-		cout << shot.playerName << " helps " << firTeamName << " take the first goal" << endl;
+		return string(shot.playerName + " helps " + firTeamName + " take the first goal");
 	}
 	else if (shot.time > 30 && firstGoal == 0 && secondGoal == 0) {
 		if (shot.time > 70) {
 			//关键一球
-			cout << "This is a key shot, " << shot.playerName << " helped " 
-				<< firTeamName << " break the deadlock!!!" << endl;
+			return string("This is a key shot, " + shot.playerName + " helped "
+				+ firTeamName + " break the deadlock!!!");
 		}
 		else {
 			//打破僵局
-			cout << shot.playerName << " helps " << firTeamName << " break the deadlock. " 
-				<<"The match is becoming interesting. " << endl;
+			return string(shot.playerName + " helps " + firTeamName + " break the deadlock. "
+				+ "The match is becoming interesting.\n");
 		}
 	}
 	if (shot.time < 70) {
 		if (firstGoal == secondGoal) {
 			//再次甩开
-			cout << shot.playerName << "'s subtle goal helps" << firTeamName << " take the lead." << endl;
+			return string(shot.playerName + "'s subtle goal helps" + firTeamName + " take the lead.\n");
 		}
 		else if (secondGoal - firstGoal == 1) {
 			//再次追上
-			cout << shot.playerName << " goals in, helps " << firTeamName << " ties the score." << endl;
+			return string(shot.playerName + " goals in, helps " + firTeamName + " ties the score.\n");
 		}
 		else if (firstGoal - secondGoal > 0) {
 			//远远甩开
-			cout << shot.playerName << " helps " << firTeamName << " get " << firstGoal - secondGoal
-				<< "goals ahead, the gap is too fast to catch up with.";
+			string temp;
+			temp = shot.playerName + " helps " + firTeamName + " get " + to_string(firstGoal - secondGoal)
+				+ "goals ahead, the gap is too fast to catch up with.";
 			if (firstGoal - secondGoal > 2)
-				cout << "It's crazy, can they get more goals?";
-			cout << endl;
+				temp += "It's crazy, can they get more goals?";
+			temp += "\n";
+			return temp;
 		}
 		else if (secondGoal - firstGoal > 1) {
 			//追上一球，还有机会追平
-			if(secondGoal - firstGoal>3)
-				cout << shot.playerName << " helps " << firTeamName << " catch up with one goal."
-				<< "Maybe...Uh...I mean that they still have little chance to win the match." << endl;
+			if (secondGoal - firstGoal > 3)
+				return string(shot.playerName + " helps " + firTeamName + " catch up with one goal."
+					+ "Maybe...Uh...I mean that they still have little chance to win the match.\n");
 			else
-				cout << shot.playerName << " helps " << firTeamName << " catch up with one goal."
-				<< "They still have chances." << endl;
+				return string(shot.playerName + " helps " + firTeamName + " catch up with one goal.\n"
+					+ "They still have chances.");
 		}
 	}
 	else {
 		if (firstGoal == secondGoal) {
 			//再次甩开(关键）
-			cout << "Oh, God. " << shot.playerName << "helps "
-				<< firTeamName << "get new goal! Will they won the match?" << endl;
+			return string("Oh, God. " + shot.playerName + "helps "
+				+ firTeamName + "get one new goal! Will they won the match?\n");
 		}
 		else if (secondGoal - firstGoal == 1) {
 			//再次追上(关键）
-			cout << firTeamName << " does it! " << shot.playerName << "'s achievement cannot be left unrecongized!" << endl;
+			return string(firTeamName + " does it! " + shot.playerName + "'s achievement cannot be left unrecongized!\n");
 		}
 		else if (firstGoal - secondGoal > 0) {
 			//远远甩开(关键）
-			if (firstGoal - secondGoal > 2)
-				cout << "Are " << secTeamName << "'s players just hanging out in the playground? "
-				<< firTeamName << "get one goal agian." << endl;
+			if (firstGoal - secondGoal >= 2)
+				return string("Nice! " + shot.playerName + " score a goal! Are" + secTeamName +
+					"'s players just hanging out on the football pitch?" + firTeamName + "get one goal agian.\n");
 			else {
-				cout << "Though" << secTeamName << "has goaled in, the situation is still very grim for them. They are not likely to tie the score today." << endl;
+				return string(firTeamName + "'s player " + shot.playerName + "score a goal, they go further to victory!");
 			}
 
 		}
 		else if (secondGoal - firstGoal > 1) {
-			//虽然追上一球，但是
-			cout << "Though " << shot.playerName << "helps" << firTeamName
-				<< " catch up with one goal, It's still difficult" << endl;
+			//虽然追上一球，但是仍然处境艰难
+			return string("Though" + firTeamName + "has goaled in by " + shot.playerName + ", the situation is still"
+				+ " very grim for them. They are not likely to tie the score today.\n");
 		}
 	}
-	return string();
 }
 
 
