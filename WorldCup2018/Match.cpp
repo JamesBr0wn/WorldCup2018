@@ -316,6 +316,7 @@ void WorldCup::printTeamInfo(Team& team) {
 }
 
 string WorldCup::voicePool(Shot shot) {
+
 	return string();
 }
 
