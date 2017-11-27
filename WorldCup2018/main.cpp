@@ -29,7 +29,7 @@ int main()
 	cout << "          | |______  | |_____| |   ___| |___  | \\____/ | " << endl;
 	cout << "          |________| |_________|  |_________|  \\______/  " << endl;
 
-	/*WorldCup mycup;
+	WorldCup mycup;
 	mycup.getTeamInfo();
 	mycup.getPlaceInfo();
 	mycup.showTeamInfo();
@@ -69,6 +69,6 @@ int main()
 	getchar();
 	mycup.showTeam1();
 	getchar();
-	mycup.showFinalStastics();*/
+	mycup.showFinalStastics();
 	getchar();
 }
