@@ -271,6 +271,7 @@ pair<int, int> WorldCup::liveBroadcast(string homeName, string awayName, vector<
 			else {
 				awayGoal++;
 			}
+			voicePool(result[i], homeName, awayName, homeGoal, awayGoal);
 			cout << result[i].teamName << " did a goal, and it was " << result[i].playerID << ", " << result[i].playerName << " did the goal" << endl;
 			cout << "Now it is " << homeGoal << ":" << awayGoal << endl;
 			out << result[i].teamName << " did a goal, and it was " << result[i].playerID << ", " << result[i].playerName << " did the goal" << endl;
@@ -315,8 +316,8 @@ void WorldCup::printTeamInfo(Team& team) {
 	}
 }
 
-string WorldCup::voicePool(Shot shot) {
-	return string();
+string WorldCup::voicePool(Shot shot, string homeName, string awayName, int homeGoal, int awayGoal) {
+	
 }
 
 

@@ -54,29 +54,30 @@ class WorldCup
 {
 public:
 	WorldCup();
-	void getTeamInfo();		//获得队伍信息
-	void getPlaceInfo();	//获得比赛场地信息
-	void showTeamInfo();	//显示参赛队伍
-	void setPot();			//把队伍放进pot中
-	void showPotInfo();		//显示pot信息
-	void grouping32();		//小组赛分组
-	void showGroupInfo();	//显示分组信息
-	void schedule32();		//小组赛比赛安排
-	void showTeam16();		//显示16强队伍
-	void grouping16();		//16强比赛安排
+	void getTeamInfo();			//获得队伍信息
+	void getPlaceInfo();		//获得比赛场地信息
+	void showTeamInfo();		//显示参赛队伍
+	void setPot();				//把队伍放进pot中
+	void showPotInfo();			//显示pot信息
+	void grouping32();			//小组赛分组
+	void showGroupInfo();		//显示分组信息
+	void schedule32();			//小组赛比赛安排
+	void showTeam16();			//显示16强队伍
+	void grouping16();			//16强比赛安排
 	void showTeam8();		
 	void grouping8();
-	void match8();
 	void showTeam4();
-	void grouping4();
-	void semiFinals();
-	void final();
+	void grouping4();		
 	void showTeam2();
 	void grouping2();
 	void showTeam1();
-	void groupMatch();
-	void knockout(int n);
-	void showFinalStastics();
+	void showFinalStastics();	//显示积分榜和射手榜
+
+	void groupMatch();			//小组赛
+	void match16();				//十六强赛
+	void match8();				//四分之一决赛
+	void semiFinals();			//半决赛
+	void final();				//决赛
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i);
 	void helpSetPlot(vector<Team*>& tempPot, int amount, int &i);
@@ -94,14 +95,15 @@ private:
 	void showTeamScore(vector<Team*>& group, ofstream& out);
 	vector<string> helpGetMatchPlace();
 
-	vector<Shot> match(Team& home, Team& away, int type);
-	pair<int, int> startMatch(string homeName, string awayName, int type);
-	pair<int, int> liveBroadcast(string homeName, string awayName, vector<Shot> result);
-	string voicePool(Shot shot);
-	Team& findTeam(string teamName);
-	void groupSort();
-	void printTeamInfo(Team& team);
-	void sortGroup(Group& group);
+	vector<Shot> match(Team& home, Team& away, int type);												//单场比赛
+	void knockout(int n);																				//淘汰赛
+	pair<int, int> startMatch(string homeName, string awayName, int type);								//对应名称的球队进行比赛
+	pair<int, int> liveBroadcast(string homeName, string awayName, vector<Shot> result);				//比赛过程和结果播报
+	string WorldCup::voicePool(Shot shot, string homeName, string awayName, int homeGoal, int awayGoal);//解说语音池
+	Team& findTeam(string teamName);																	//由队名找到球队
+	void groupSort();																					//小组赛队伍排序
+	void sortGroup(Group& group);																		//对某个小组按积分排序
+	void printTeamInfo(Team& team);																		//打印队伍信息							
 
 	int AFC;
 	int CAF;
