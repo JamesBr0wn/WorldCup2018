@@ -325,77 +325,80 @@ string WorldCup::voicePool(Shot shot, string homeName, string awayName, int home
 
 string WorldCup::helpVoice(Shot shot, string firTeamName, string secTeamName, int firstGoal, int secondGoal)
 {
-	if (shot.time <= 30 && firstGoal == 0 && secondGoal == 0) {
-		//先进一球
-		return string(shot.playerName + " helps " + firTeamName + " take the first goal");
-	}
-	else if (shot.time > 30 && firstGoal == 0 && secondGoal == 0) {
-		if (shot.time > 70) {
-			//关键一球
-			return string("This is a key shot, " + shot.playerName + " helped "
-				+ firTeamName + " break the deadlock!!!");
+	string temp = to_string(shot.time) + " minutes :\n\t";
+	if (firstGoal == 0 && secondGoal == 0) {
+		if (shot.time <= 30) {
+			//先进一球
+			temp += (shot.playerName + " helps " + firTeamName + " take the first goal.\n");
 		}
-		else {
-			//打破僵局
-			return string(shot.playerName + " helps " + firTeamName + " break the deadlock. "
-				+ "The match is becoming interesting.\n");
+		else if (shot.time > 30) {
+			if (shot.time > 70) {
+				//关键一球
+				temp += ("This is a key shot, " + shot.playerName + " helps "
+					+ firTeamName + " break the deadlock!!!\n");
+			}
+			else {
+				//打破僵局
+				temp += (shot.playerName + " helps " + firTeamName + " break the deadlock! "
+					+ "The match is becoming interesting.\n");
+			}
 		}
 	}
-	if (shot.time < 70) {
+	else if (shot.time < 70) {
 		if (firstGoal == secondGoal) {
 			//再次甩开
-			return string(shot.playerName + "'s subtle goal helps" + firTeamName + " take the lead.\n");
+			temp += (shot.playerName + "'s subtle goal helps " + firTeamName + " take the lead.\n");
 		}
 		else if (secondGoal - firstGoal == 1) {
 			//再次追上
-			return string(shot.playerName + " goals in, helps " + firTeamName + " ties the score.\n");
+			temp += (shot.playerName + " goals in, helping " + firTeamName + " ties the score.\n");
 		}
 		else if (firstGoal - secondGoal > 0) {
 			//远远甩开
-			string temp;
-			temp = shot.playerName + " helps " + firTeamName + " get " + to_string(firstGoal - secondGoal)
-				+ "goals ahead, the gap is too fast to catch up with.";
+			temp += shot.playerName + " helps " + firTeamName + " get " + to_string(firstGoal - secondGoal + 1)
+				+ " goals ahead.";
 			if (firstGoal - secondGoal > 2)
-				temp += "It's crazy, can they get more goals?";
+				temp += " The gap is too fast to catch up with. It's crazy, can they get more goals?";
 			temp += "\n";
-			return temp;
 		}
 		else if (secondGoal - firstGoal > 1) {
 			//追上一球，还有机会追平
 			if (secondGoal - firstGoal > 3)
-				return string(shot.playerName + " helps " + firTeamName + " catch up with one goal."
+				temp += (shot.playerName + " helps " + firTeamName + " catch up with one goal."
 					+ "Maybe...Uh...I mean that they still have little chance to win the match.\n");
 			else
-				return string(shot.playerName + " helps " + firTeamName + " catch up with one goal.\n"
-					+ "They still have chances.");
+				temp += (shot.playerName + " helps " + firTeamName + " catch up with one goal. "
+					+ "They still have chances.\n");
 		}
 	}
 	else {
 		if (firstGoal == secondGoal) {
 			//再次甩开(关键）
-			return string("Oh, God. " + shot.playerName + "helps "
+			temp += ("Wow~, " + shot.playerName + " helps "
 				+ firTeamName + "get one new goal! Will they won the match?\n");
 		}
 		else if (secondGoal - firstGoal == 1) {
 			//再次追上(关键）
-			return string(firTeamName + " does it! " + shot.playerName + "'s achievement cannot be left unrecongized!\n");
+			temp += ("Nice shoot! " + firTeamName + " ties the score in the critical moment! " 
+				+ shot.playerName + "'s achievement cannot be left unrecongized!\n");
 		}
 		else if (firstGoal - secondGoal > 0) {
 			//远远甩开(关键）
 			if (firstGoal - secondGoal >= 2)
-				return string("Nice! " + shot.playerName + " score a goal! Are" + secTeamName +
-					"'s players just hanging out on the football pitch?" + firTeamName + "get one goal agian.\n");
+				temp += ("Nice! " + shot.playerName + " score a goal! Are " + secTeamName +
+					"'s players just hanging out on the football pitch? " + firTeamName + " get one goal again.\n");
 			else {
-				return string(firTeamName + "'s player " + shot.playerName + "score a goal, they go further to victory!");
+				temp += (firTeamName + "'s player " + shot.playerName + " score a goal, they go further to victory!\n");
 			}
 
 		}
 		else if (secondGoal - firstGoal > 1) {
 			//虽然追上一球，但是仍然处境艰难
-			return string("Though" + firTeamName + "has goaled in by " + shot.playerName + ", the situation is still"
-				+ " very grim for them. They are not likely to tie the score today.\n");
+			temp += (firTeamName + "has goaled in by " + shot.playerName + "! But the situation is still"
+				+ " very grim for them. Uh...They are not likely to tie the score today.\n");
 		}
 	}
+	return temp;
 }
 
 

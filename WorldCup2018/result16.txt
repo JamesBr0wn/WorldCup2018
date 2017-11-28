@@ -1,56 +1,56 @@
 
 Final result for group A
           Team	W	D	L	GF	GA	GD	Pts
-         Mexico	2	1	0	4	0	4	7
-        Denmark	1	1	1	1	1	0	4
-           Peru	1	1	1	2	3	-1	4
-   Russia(host)	0	1	2	1	4	-3	1
+        Nigeria	2	1	0	8	3	5	7
+   Saudi Arabia	1	2	0	3	2	1	5
+          Spain	0	2	1	1	5	-4	2
+   Russia(host)	0	1	2	4	6	-2	1
 
 Final result for group B
           Team	W	D	L	GF	GA	GD	Pts
-        Iceland	3	0	0	5	1	4	9
-           Iran	1	1	1	2	2	0	4
-        Morocco	1	0	2	2	2	0	3
-         France	0	1	2	0	4	-4	1
+      Argentina	1	2	0	4	2	2	5
+          Egypt	1	2	0	3	2	1	5
+    Switzerland	1	1	1	2	2	0	4
+      Australia	0	1	2	1	4	-3	1
 
 Final result for group C
           Team	W	D	L	GF	GA	GD	Pts
-          Egypt	2	1	0	3	1	2	7
-    Switzerland	1	1	1	2	2	0	4
-      Australia	1	0	2	3	4	-1	3
-        Germany	1	0	2	3	4	-1	3
+        Germany	3	0	0	6	1	5	9
+        Senegal	2	0	1	3	4	-1	6
+         Serbia	1	0	2	5	4	1	3
+    South Korea	0	0	3	2	7	-5	0
 
 Final result for group D
           Team	W	D	L	GF	GA	GD	Pts
-        Uruguay	2	1	0	5	0	5	7
-        Croatia	2	0	1	4	3	1	6
-         Panama	1	1	1	3	3	0	4
-         Poland	0	0	3	1	7	-6	0
+        Belgium	2	1	0	5	0	5	7
+           Peru	1	2	0	3	1	2	5
+         Mexico	1	0	2	3	6	-3	3
+        Denmark	0	1	2	1	5	-4	1
 
 Final result for group E
           Team	W	D	L	GF	GA	GD	Pts
-        Nigeria	2	1	0	3	1	2	7
-          Spain	1	2	0	2	1	1	5
-      Argentina	1	1	1	2	2	0	4
-   Saudi Arabia	0	0	3	1	4	-3	0
+        Iceland	2	0	1	2	1	1	6
+         France	1	1	1	2	1	1	4
+           Iran	1	1	1	2	3	-1	4
+        Morocco	0	2	1	1	2	-1	2
 
 Final result for group F
           Team	W	D	L	GF	GA	GD	Pts
-         Brazil	2	1	0	6	3	3	7
-        Tunisia	0	3	0	1	1	0	3
-          Japan	0	2	1	3	4	-1	2
-        England	0	2	1	3	5	-2	2
+        Croatia	2	1	0	3	0	3	7
+         Panama	2	0	1	2	2	0	6
+        Uruguay	1	0	2	2	3	-1	3
+         Poland	0	1	2	1	3	-2	1
 
 Final result for group G
           Team	W	D	L	GF	GA	GD	Pts
-        Belgium	3	0	0	6	0	6	9
-         Serbia	1	1	1	4	4	0	4
-        Senegal	1	0	2	1	4	-3	3
-    South Korea	0	1	2	1	4	-3	1
+         Brazil	1	2	0	3	2	1	5
+          Japan	1	1	1	3	2	1	4
+        England	1	1	1	4	4	0	4
+        Tunisia	0	2	1	3	5	-2	2
 
 Final result for group H
           Team	W	D	L	GF	GA	GD	Pts
-       Portugal	3	0	0	7	1	6	9
-       Colombia	2	0	1	3	2	1	6
-     Costa Rica	1	0	2	1	4	-3	3
-          Swden	0	0	3	0	4	-4	0
+       Portugal	1	2	0	4	2	2	5
+     Costa Rica	1	1	1	3	3	0	4
+          Swden	1	1	1	3	3	0	4
+       Colombia	0	2	1	2	4	-2	2
