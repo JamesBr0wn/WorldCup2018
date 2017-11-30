@@ -1,25 +1,25 @@
 Qualified for round of 16:
 Group A
-	1. Mexico
-	2. Denmark
-Group B
-	1. Iceland
-	2. Iran
-Group C
-	1. Egypt
-	2. Switzerland
-Group D
 	1. Uruguay
-	2. Croatia
-Group E
+	2. Panama
+Group B
+	1. Serbia
+	2. South Korea
+Group C
+	1. Peru
+	2. Mexico
+Group D
 	1. Nigeria
 	2. Spain
+Group E
+	1. Egypt
+	2. Australia
 Group F
-	1. Brazil
-	2. Tunisia
-Group G
-	1. Belgium
-	2. Serbia
-Group H
-	1. Portugal
+	1. Swden
 	2. Colombia
+Group G
+	1. Portugal
+	2. Morocco
+Group H
+	1. Brazil
+	2. Japan

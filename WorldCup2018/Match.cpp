@@ -267,14 +267,15 @@ pair<int, int> WorldCup::liveBroadcast(string homeName, string awayName, vector<
 		if (result[i].goal) {
 			string shotInfo = voicePool(result[i], homeName, awayName, homeGoal, awayGoal);
 			cout << shotInfo;
+			out << shotInfo;
 			if (result[i].teamName == homeName) {
 				homeGoal++;
 			}
 			else {
 				awayGoal++;
 			}
-			cout << "Now it is " << homeGoal << ":" << awayGoal << endl;
-			out << "Now it is " << homeGoal << ":" << awayGoal << endl;
+			cout << "Now, " << homeName << " : " << awayName << " is " << homeGoal << " : " << awayGoal << endl;
+			out << "Now, " << homeName << " : " << awayName << " is " << homeGoal << " : " << awayGoal << endl;
 		}
 	}
 	if (homeGoal > awayGoal) {

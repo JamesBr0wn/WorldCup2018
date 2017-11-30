@@ -199,21 +199,21 @@ void WorldCup::schedule32()
 	int tempDay = date.day;
 	int tempDay1 = date.day + 1;
 	int i = 0;
-	helpSchedule16(out, GA, day_info, savePlace, 0,0);
+	helpSchedule32(out, GA, day_info, savePlace, 0,0);
 	date.day = tempDay1;
-	helpSchedule16(out, GB, day_info, savePlace, 1,0);
+	helpSchedule32(out, GB, day_info, savePlace, 1,0);
 	date.day = tempDay;
-	helpSchedule16(out, GC, day_info, savePlace, 0,1);
+	helpSchedule32(out, GC, day_info, savePlace, 0,1);
 	date.day = tempDay1;
-	helpSchedule16(out, GD, day_info, savePlace, 1,1);
+	helpSchedule32(out, GD, day_info, savePlace, 1,1);
 	date.day = tempDay;
-	helpSchedule16(out, GE, day_info, savePlace, 0,2);
+	helpSchedule32(out, GE, day_info, savePlace, 0,2);
 	date.day = tempDay1;
-	helpSchedule16(out, GF, day_info, savePlace, 1,2);
+	helpSchedule32(out, GF, day_info, savePlace, 1,2);
 	date.day = tempDay;
-	helpSchedule16(out, GG, day_info, savePlace, 0,3);
+	helpSchedule32(out, GG, day_info, savePlace, 0,3);
 	date.day = tempDay1;
-	helpSchedule16(out, GH, day_info, savePlace, 1,3);
+	helpSchedule32(out, GH, day_info, savePlace, 1,3);
 	date.day = tempDay;
 	cout << "\nMatches by date" << endl;
 	out << "\nMatches by date" << endl;
@@ -456,7 +456,7 @@ void WorldCup::helpGrouping32(vector<Team*>& tempPot, int ok)
 }
 bool WorldCup::helpGrouping32_1(vector<Team*>&tempPot, int index, Group &tempGroup)
 {
-	if (tempPot[index]->getContinent() != "EUROPE"&&tempGroup.continent[tempPot[index]->getContinent()] == 0) {
+	if (tempPot[index]->getContinent() != "EUROPE" && tempGroup.continent[tempPot[index]->getContinent()] == 0) {
 		tempGroup.continent[tempPot[index]->getContinent()] = 1;
 		tempGroup.group.push_back(tempPot[index]);
 		return true;
@@ -485,7 +485,7 @@ void WorldCup::helpPotShow(ofstream & out, vector<Team*>& tempPot)
 	}
 }
 
-void WorldCup::helpSchedule16(ofstream &out, Group tempGroup, multimap<int,string>& day_info, const vector<string>&tempPlace, int _day,int match)
+void WorldCup::helpSchedule32(ofstream &out, Group tempGroup, multimap<int,string>& day_info, const vector<string>&tempPlace, int _day,int match)
 {
 	cout << "Group " << tempGroup.groupName << endl;
 	out << "Group " << tempGroup.groupName << endl;

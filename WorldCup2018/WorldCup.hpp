@@ -80,18 +80,19 @@ public:
 	void semiFinals();			//半决赛
 	void final();				//决赛
 private:
-	void helpTeamShow(ofstream& out, int number,int amount, int &i);
-	void helpSetPlot(vector<Team*>& tempPot, int amount, int &i);
-	void helpGrouping32(vector<Team*>& tempPot,int ok);
-	bool helpGrouping32_1(vector<Team*>&tempPot,int index, Group &tempGroup);
-	void setTeamAmount(int _CAF, int _CONMEBOL, int _AFC, int _OFC, int _CONCACAF, int _UEFA);
-	void helpPotShow(ofstream& out, vector<Team*>& tempPot);
-	void helpSchedule16(ofstream &out, Group tempGroup,multimap<int,string>& day_info
-						,const vector<string>&tempPlace,int _day, int match);
-	void helpShowTeam16(ofstream &out, Group tempGroup);
-	void helpGrouping16(ofstream &out, Group tempGroup1, Group tempGroup2, vector<string>&tempPlace);
-	void helpShowTeam8_4_2(ofstream &out, int teamAmount);
-	void helpGrouping8_4_2(ofstream &out, int teamAmount);
+	void helpTeamShow(ofstream& out, int number,int amount, int &i); //帮助显示队伍信息
+	void helpSetPlot(vector<Team*>& tempPot, int amount, int &i);//帮助分pot，传入所有队伍，i为各个队伍对应的下标，amount为个pot中队伍的数量
+	void helpGrouping32(vector<Team*>& tempPot,int ok); //帮助从4个pot中分组，传入pot,如果有东道主，ok=1,否则为0
+	bool helpGrouping32_1(vector<Team*>&tempPot,int index, Group &tempGroup);//帮助从4个pot中分组，传入pot和组号(GA~GH),index为pot中各队对应下标
+	void setTeamAmount(int _CAF, int _CONMEBOL, int _AFC, int _OFC, int _CONCACAF, int _UEFA);//设置各大洲球队数
+	void helpPotShow(ofstream& out, vector<Team*>& tempPot);//帮助显示pot信息
+	void helpSchedule32(ofstream &out, Group tempGroup,multimap<int,string>& day_info //传入组号，比赛日期，比赛地点
+						,const vector<string>&tempPlace,int _day, int match);//，match=0表示单数组，match=1表示双数组，比赛安排储存在day_info中
+	//16强及以后有以个容器：matchTeam专门存放比赛队伍，相邻的队伍相互比赛
+	void helpShowTeam16(ofstream &out, Group tempGroup);//从tempGroup中读取16强信息并显示
+	void helpGrouping16(ofstream &out, Group tempGroup1, Group tempGroup2, vector<string>&tempPlace);//将tempGroup1与tempGroup2中队伍匹配，比赛保存在matchTeam中
+	void helpShowTeam8_4_2(ofstream &out, int teamAmount);//显示8，4，2强信息，从matchTeam中读取
+	void helpGrouping8_4_2(ofstream &out, int teamAmount);//安排比赛，即对matchTeam调整
 	void showGroupMatchResult();
 	void showKnockoutResult();
 	void showTeamScore(vector<Team*>& group, ofstream& out);
@@ -102,7 +103,7 @@ private:
 	pair<int, int> startMatch(string homeName, string awayName, int type);								//对应名称的球队进行比赛
 	pair<int, int> liveBroadcast(string homeName, string awayName, vector<Shot> result);				//比赛过程和结果播报
 	string voicePool(Shot shot, string homeName, string awayName, int homeGoal, int awayGoal);//解说语音池
-	string helpVoice(Shot shot, string firTeamName, string secTeamName, int homeGoal, int awayGoal);
+	string helpVoice(Shot shot, string firTeamName, string secTeamName, int homeGoal, int awayGoal);//帮助解说
 	Team& findTeam(string teamName);																	//由队名找到球队
 	void groupSort();																					//小组赛队伍排序
 	void sortGroup(Group& group);																		//对某个小组按积分排序

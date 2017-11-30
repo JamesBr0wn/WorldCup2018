@@ -1,7 +1,7 @@
 Hello everyone, it is June 14, the 1th day of group match.
 Today we will have matches of Group A, C, E and G, totally 4 matches.
 Next we will have today's 1th match:
-Russia(host) vs Nigeria
+Russia(host) vs Peru
 Country:Russia(host)
 	#1, Igor Akinfeev, GK
 	#28, Igor Smolnikov, DF
@@ -14,165 +14,6 @@ Country:Russia(host)
 	#10, Fyodor Smolov, FW
 	#7, Dmitry Poloz, FW
 	#11, Anton Zabolotny, FW
-Country:Nigeria
-	#16, Ikechukwu Ezenwa, GK
-	#4, Kenneth Omeruo, DF
-	#12, Shehu Abdullahi, DF
-	#10, John Obi Mikel, MF
-	#19, John Ogu, MF
-	#13, Wilfred Ndidi, MF
-	#8, Etebo Oghenekaro, MF
-	#7, Ahmed Musa, FW
-	#22, Moses Simon, FW
-	#14, Odion Ighalo, FW
-	#18, Kelechi Iheanacho, FW
-Playing...
-Now it is 0:1
-Now it is 1:1
-Now it is 2:1
-Now it is 2:2
-Now it is 2:3
-Russia(host) fails Nigeria with the goals 2:3
-
-Next we will have today's 2th match:
-Germany vs Senegal
-Country:Germany
-	#1, Kevin Trapp, GK
-	#2, Niklas S¨¹le, DF
-	#3, Marvin Plattenhardt, DF
-	#6, Sami Khedira, MF
-	#7, Julian Draxler, MF
-	#8, Toni Kroos, MF
-	#10, Mesut ?zil, MF
-	#24, Leroy San¨¦, MF
-	#9, Sandro Wagner, FW
-	#11, Timo Werner, FW
-	#13, Lars Stindl, FW
-Country:Senegal
-	#16, Khadim Ndiaye, GK
-	#2, Kara Mbodji, DF
-	#21, Lamine Gassama, DF
-	#5, Idrissa Gana Gueye, MF
-	#17, Cheikhou Kouyate, MF
-	#8, Cheikh Ndoye, MF
-	#11, Papa Alioune Ndiaye, MF
-	#7, Moussa Sow, FW
-	#14, Moussa Konate, FW
-	#6, Diafra Sakho, FW
-	#10, Opa Nguette, FW
-Playing...
-Now it is 1:0
-Now it is 2:0
-Now it is 3:0
-Germany beats Senegal with the goals 3:0
-
-Next we will have today's 3th match:
-France vs Morocco
-Country:France
-	#1, Alphonse Areola, GK
-	#2, Christophe Jallet, DF
-	#3, Layvin Kurzawa, DF
-	#6, Corentin Tolisso, MF
-	#14, Blaise Matuidi, MF
-	#15, Adrien Rabiot, MF
-	#18, Moussa Sissoko, MF
-	#7, Antoine Griezmann, FW
-	#8, Nabil Fekir, FW
-	#10, Alexandre Lacazette, FW
-	#11, Kingsley Coman, FW
-Country:Morocco
-	#12, Munir Mohamedi, GK
-	#5, Medhi Benatia, DF
-	#17, Nabil Dirar, DF
-	#14, Mbark Boussoufa, MF
-	#8, Karim El Ahmadi, MF
-	#10, Younes Belhanda, MF
-	#16, Nordin Amrabat, MF
-	#19, Sofyan Amrabat, MF
-	#23, Rachid Alioui, FW
-	#13, Khalid Boutaib, FW
-	#21, Achraf Bencharki, FW
-Playing...
-It is a draw with 0:0
-
-Next we will have today's 4th match:
-Brazil vs Tunisia
-Country:Brazil
-	#1, Alisson, GK
-	#2, Dani Alves, DF
-	#3, Miranda, DF
-	#5, Casemiro, MF
-	#8, Renato Augusto, MF
-	#11, Philippe Coutinho, MF
-	#15, Paulinho, MF
-	#7, Douglas Costa, FW
-	#9, Gabriel Jesus, FW
-	#10, Neymar, FW
-	#21, Roberto Firmino, FW
-Country:Tunisia
-	#1, Farouk Ben Mustapha, GK
-	#2, Syam Ben Youssef, DF
-	#4, Yassine Meriah, DF
-	#3, Aymen Trabelsi, MF
-	#10, Wahbi Khazri, MF
-	#13, Ferjani Sassi, MF
-	#14, Mohamed Ben Amor, MF
-	#7, Youssef Msakni, FW
-	#8, Fakhreddine Ben Youssef, FW
-	#9, Yoann Touzghar, FW
-	#11, Taha Khenissi, FW
-Playing...
-Now it is 0:1
-Now it is 1:1
-It is a draw with 1:1
-
-Hello everyone, it is June 15, the 2th day of group match.
-Today we will have matches of Group B, D, F and H, totally 4 matches.
-Next we will have today's 1th match:
-Argentina vs Egypt
-Country:Argentina
-	#1, Sergio Romero, GK
-	#2, Emanuel Mammana, DF
-	#3, Federico Fazio, DF
-	#5, Leandro Paredes, MF
-	#16, Diego Perotti, MF
-	#18, Eduardo Salvio, MF
-	#20, Giovani Lo Celso, MF
-	#10, Lionel Messi, FW
-	#7, Paulo Dybala, FW
-	#21, Dario Benedetto, FW
-	#26, Cristian Pavon, FW
-Country:Egypt
-	#1, Mohamed Awad, GK
-	#2, Ali Gabr, DF
-	#3, Ahmed Elmohamady, DF
-	#6, Sam Morsy, MF
-	#8, Tarek Hamed, MF
-	#12, Shikabala, MF
-	#10, Moamen Zakaria, MF
-	#9, Kouka, FW
-	#18, Kahraba, FW
-	#11, Amr Marey, FW
-	#13, Amr Gamal, FW
-Playing...
-Now it is 0:1
-Now it is 1:1
-It is a draw with 1:1
-
-Next we will have today's 2th match:
-Belgium vs Peru
-Country:Belgium
-	#1, Thibaut Courtois, GK
-	#5, Jan Vertonghen, DF
-	#3, Thomas Vermaelen, DF
-	#6, Axel Witsel, MF
-	#19, Mousa Demb¨¦l¨¦, MF
-	#7, Kevin De Bruyne, MF
-	#16, Steven Defour, MF
-	#10, Eden Hazard, FW
-	#9, Romelu Lukaku, FW
-	#14, Dries Mertens, FW
-	#11, Kevin Mirallas, FW
 Country:Peru
 	#1, Pedro Gallese, GK
 	#2, Alberto Rodriguez, DF
@@ -186,22 +27,28 @@ Country:Peru
 	#11, Raul Ruidiaz, FW
 	#18, Andre Carrillo, FW
 Playing...
-It is a draw with 0:0
+16 minutes :
+	Aleksandr Golovin helps Russia(host) take the first goal.
+Now, Russia(host) : Peru is 1 : 0
+30 minutes :
+	Paolo Hurtado goals in, helping Peru ties the score.
+Now, Russia(host) : Peru is 1 : 1
+It is a draw with 1:1
 
-Next we will have today's 3th match:
-Poland vs Uruguay
-Country:Poland
-	#22, ?ukasz Fabia¨½ski, GK
-	#13, Maciej Rybus, DF
-	#3, Artur J?drzejczyk, DF
-	#16, Jakub B?aszczykowski, MF
-	#5, Krzysztof M?czy¨½ski, MF
-	#19, Piotr Zieli¨½ski, MF
-	#8, Karol Linetty, MF
-	#26, Przemys?aw Frankowski, MF
-	#29, Mariusz St?pi¨½ski, FW
-	#23, Kamil Wilczek, FW
-	#28, Jakub ?wierczok, FW
+Next we will have today's 2th match:
+Belgium vs Uruguay
+Country:Belgium
+	#1, Thibaut Courtois, GK
+	#5, Jan Vertonghen, DF
+	#3, Thomas Vermaelen, DF
+	#6, Axel Witsel, MF
+	#19, Mousa Demb¨¦l¨¦, MF
+	#7, Kevin De Bruyne, MF
+	#16, Steven Defour, MF
+	#10, Eden Hazard, FW
+	#9, Romelu Lukaku, FW
+	#14, Dries Mertens, FW
+	#11, Kevin Mirallas, FW
 Country:Uruguay
 	#23, Martin Silva, GK
 	#3, Diego Godin, DF
@@ -215,13 +62,48 @@ Country:Uruguay
 	#18, Jonathan Urretaviscaya, FW
 	#9, Gaston Pereiro, FW
 Playing...
-Now it is 1:0
-Now it is 1:1
-Now it is 1:2
-Poland fails Uruguay with the goals 1:2
+24 minutes :
+	Kevin De Bruyne helps Belgium take the first goal.
+Now, Belgium : Uruguay is 1 : 0
+55 minutes :
+	Romelu Lukaku helps Belgium get 2 goals ahead.
+Now, Belgium : Uruguay is 2 : 0
+Belgium beats Uruguay with the goals 2:0
+
+Next we will have today's 3th match:
+Brazil vs Egypt
+Country:Brazil
+	#1, Alisson, GK
+	#2, Dani Alves, DF
+	#3, Miranda, DF
+	#5, Casemiro, MF
+	#8, Renato Augusto, MF
+	#11, Philippe Coutinho, MF
+	#15, Paulinho, MF
+	#7, Douglas Costa, FW
+	#9, Gabriel Jesus, FW
+	#10, Neymar, FW
+	#21, Roberto Firmino, FW
+Country:Egypt
+	#1, Mohamed Awad, GK
+	#2, Ali Gabr, DF
+	#3, Ahmed Elmohamady, DF
+	#6, Sam Morsy, MF
+	#8, Tarek Hamed, MF
+	#12, Shikabala, MF
+	#10, Moamen Zakaria, MF
+	#9, Kouka, FW
+	#18, Kahraba, FW
+	#11, Amr Marey, FW
+	#13, Amr Gamal, FW
+Playing...
+39 minutes :
+	Sam Morsy helps Egypt break the deadlock! The match is becoming interesting.
+Now, Brazil : Egypt is 0 : 1
+Brazil fails Egypt with the goals 0:1
 
 Next we will have today's 4th match:
-Portugal vs Colombia
+Portugal vs Nigeria
 Country:Portugal
 	#1, Jos¨¦ S¨¢, GK
 	#2, N¨¦lson Semedo, DF
@@ -234,6 +116,119 @@ Country:Portugal
 	#9, Andr¨¦ Silva, FW
 	#16, Rony Lopes, FW
 	#17, Bruma, FW
+Country:Nigeria
+	#16, Ikechukwu Ezenwa, GK
+	#4, Kenneth Omeruo, DF
+	#12, Shehu Abdullahi, DF
+	#10, John Obi Mikel, MF
+	#19, John Ogu, MF
+	#13, Wilfred Ndidi, MF
+	#8, Etebo Oghenekaro, MF
+	#7, Ahmed Musa, FW
+	#22, Moses Simon, FW
+	#14, Odion Ighalo, FW
+	#18, Kelechi Iheanacho, FW
+Playing...
+73 minutes :
+	This is a key shot, Bernardo Silva helps Portugal break the deadlock!!!
+Now, Portugal : Nigeria is 1 : 0
+Portugal beats Nigeria with the goals 1:0
+
+Hello everyone, it is June 15, the 2th day of group match.
+Today we will have matches of Group B, D, F and H, totally 4 matches.
+Next we will have today's 1th match:
+France vs Senegal
+Country:France
+	#1, Alphonse Areola, GK
+	#2, Christophe Jallet, DF
+	#3, Layvin Kurzawa, DF
+	#6, Corentin Tolisso, MF
+	#14, Blaise Matuidi, MF
+	#15, Adrien Rabiot, MF
+	#18, Moussa Sissoko, MF
+	#7, Antoine Griezmann, FW
+	#8, Nabil Fekir, FW
+	#10, Alexandre Lacazette, FW
+	#11, Kingsley Coman, FW
+Country:Senegal
+	#16, Khadim Ndiaye, GK
+	#2, Kara Mbodji, DF
+	#21, Lamine Gassama, DF
+	#5, Idrissa Gana Gueye, MF
+	#17, Cheikhou Kouyate, MF
+	#8, Cheikh Ndoye, MF
+	#11, Papa Alioune Ndiaye, MF
+	#7, Moussa Sow, FW
+	#14, Moussa Konate, FW
+	#6, Diafra Sakho, FW
+	#10, Opa Nguette, FW
+Playing...
+75 minutes :
+	This is a key shot, Cheikh Ndoye helps Senegal break the deadlock!!!
+Now, France : Senegal is 0 : 1
+82 minutes :
+	Nice shoot! France ties the score in the critical moment! Alexandre Lacazette's achievement cannot be left unrecongized!
+Now, France : Senegal is 1 : 1
+It is a draw with 1:1
+
+Next we will have today's 2th match:
+Poland vs Tunisia
+Country:Poland
+	#22, ?ukasz Fabia¨½ski, GK
+	#13, Maciej Rybus, DF
+	#3, Artur J?drzejczyk, DF
+	#16, Jakub B?aszczykowski, MF
+	#5, Krzysztof M?czy¨½ski, MF
+	#19, Piotr Zieli¨½ski, MF
+	#8, Karol Linetty, MF
+	#26, Przemys?aw Frankowski, MF
+	#29, Mariusz St?pi¨½ski, FW
+	#23, Kamil Wilczek, FW
+	#28, Jakub ?wierczok, FW
+Country:Tunisia
+	#1, Farouk Ben Mustapha, GK
+	#2, Syam Ben Youssef, DF
+	#4, Yassine Meriah, DF
+	#3, Aymen Trabelsi, MF
+	#10, Wahbi Khazri, MF
+	#13, Ferjani Sassi, MF
+	#14, Mohamed Ben Amor, MF
+	#7, Youssef Msakni, FW
+	#8, Fakhreddine Ben Youssef, FW
+	#9, Yoann Touzghar, FW
+	#11, Taha Khenissi, FW
+Playing...
+0 minutes :
+	Youssef Msakni helps Tunisia take the first goal.
+Now, Poland : Tunisia is 0 : 1
+37 minutes :
+	Kamil Wilczek goals in, helping Poland ties the score.
+Now, Poland : Tunisia is 1 : 1
+47 minutes :
+	Maciej Rybus's subtle goal helps Poland take the lead.
+Now, Poland : Tunisia is 2 : 1
+52 minutes :
+	Przemys?aw Frankowski helps Poland get 2 goals ahead.
+Now, Poland : Tunisia is 3 : 1
+75 minutes :
+	Tunisiahas goaled in by Aymen Trabelsi! But the situation is still very grim for them. Uh...They are not likely to tie the score today.
+Now, Poland : Tunisia is 3 : 2
+Poland beats Tunisia with the goals 3:2
+
+Next we will have today's 3th match:
+Germany vs Colombia
+Country:Germany
+	#1, Kevin Trapp, GK
+	#2, Niklas S¨¹le, DF
+	#3, Marvin Plattenhardt, DF
+	#6, Sami Khedira, MF
+	#7, Julian Draxler, MF
+	#8, Toni Kroos, MF
+	#10, Mesut ?zil, MF
+	#24, Leroy San¨¦, MF
+	#9, Sandro Wagner, FW
+	#11, Timo Werner, FW
+	#13, Lars Stindl, FW
 Country:Colombia
 	#1, Leandro Castellanos, GK
 	#18, Frank Fabra, DF
@@ -247,169 +242,52 @@ Country:Colombia
 	#17, Duvan Zapata, FW
 	#26, Felipe Pardo, FW
 Playing...
-Now it is 0:1
-Now it is 1:1
-It is a draw with 1:1
+42 minutes :
+	Sandro Wagner helps Germany break the deadlock! The match is becoming interesting.
+Now, Germany : Colombia is 1 : 0
+Germany beats Colombia with the goals 1:0
+
+Next we will have today's 4th match:
+Argentina vs Morocco
+Country:Argentina
+	#1, Sergio Romero, GK
+	#2, Emanuel Mammana, DF
+	#3, Federico Fazio, DF
+	#5, Leandro Paredes, MF
+	#16, Diego Perotti, MF
+	#18, Eduardo Salvio, MF
+	#20, Giovani Lo Celso, MF
+	#10, Lionel Messi, FW
+	#7, Paulo Dybala, FW
+	#21, Dario Benedetto, FW
+	#26, Cristian Pavon, FW
+Country:Morocco
+	#12, Munir Mohamedi, GK
+	#5, Medhi Benatia, DF
+	#17, Nabil Dirar, DF
+	#14, Mbark Boussoufa, MF
+	#8, Karim El Ahmadi, MF
+	#10, Younes Belhanda, MF
+	#16, Nordin Amrabat, MF
+	#19, Sofyan Amrabat, MF
+	#23, Rachid Alioui, FW
+	#13, Khalid Boutaib, FW
+	#21, Achraf Bencharki, FW
+Playing...
+30 minutes :
+	Khalid Boutaib helps Morocco take the first goal.
+Now, Argentina : Morocco is 0 : 1
+78 minutes :
+	Nice shoot! Argentina ties the score in the critical moment! Leandro Paredes's achievement cannot be left unrecongized!
+Now, Argentina : Morocco is 1 : 1
+81 minutes :
+	Wow~, Diego Perotti helps Argentinaget one new goal! Will they won the match?
+Now, Argentina : Morocco is 2 : 1
+Argentina beats Morocco with the goals 2:1
 
 Hello everyone, it is June 16, the 3th day of group match.
 Today we will have matches of Group A, C, E and G, totally 4 matches.
 Next we will have today's 1th match:
-Saudi Arabia vs Spain
-Country:Saudi Arabia
-	#1, Waleed Abdullah, GK
-	#2, Osama Hawsawi, DF
-	#3, Hassan Muath, DF
-	#4, Taisir Al-Jassim, MF
-	#5, Yahya Al-Shehri, MF
-	#6, Salman Al-Faraj, MF
-	#7, Ahmed Al-Fraidi, MF
-	#8, Ahm Al-Fraidi , MF
-	#9, Muhannad Assiri, FW
-	#10, Mukhtar Fallatah, FW
-	#11, Hazaa Al-Hazaa, FW
-Country:Spain
-	#1, David de Gea, GK
-	#2, ¨¢lvaro Odriozola, DF
-	#3, Gerard Piqu¨¦, DF
-	#5, Sergio Busquets, MF
-	#6, Andr¨¦s Iniesta, MF
-	#8, Sa¨²l ?¨ªguez, MF
-	#10, Thiago Alcantara, MF
-	#7, ¨¢lvaro Morata, FW
-	#9, Jos¨¦ Callej¨®n, FW
-	#11, Vitolo, FW
-	#17, Iago Aspas, FW
-Playing...
-It is a draw with 0:0
-
-Next we will have today's 2th match:
-South Korea vs Serbia
-Country:South Korea
-	#1, Kim Seung-gyu, GK
-	#2, Jang Hyun-soo, DF
-	#3, Kim Jin-su, DF
-	#4, Kim Min-woo, DF
-	#5, Go Yo-han, DF
-	#6, Yeom Ki-hun, MF
-	#7, Lee Jae-sung, MF
-	#8, Jung Woo-young	, MF
-	#9, Lee Myung-joo, MF
-	#10, Lee Keun-ho, FW
-	#11, Kim Shin-wook, FW
-Country:Serbia
-	#1, Vladimir Stojkovi?, GK
-	#6, Branislav Ivanovi?, DF
-	#2, Antonio Rukavina, DF
-	#22, Adem Ljaji?, MF
-	#4, Nemanja Gudelj, MF
-	#19, Andrija ?ivkovi?, MF
-	#14, Mijat Ga?inovi?, MF
-	#21, Nemanja Radonji?, MF
-	#9, Aleksandar Mitrovi?, FW
-	#8, Aleksandar Prijovi?, FW
-	#10, ?or?e Ivanovi?, FW
-Playing...
-Now it is 0:1
-Now it is 0:2
-Now it is 0:3
-Now it is 1:3
-Now it is 1:4
-South Korea fails Serbia with the goals 1:4
-
-Next we will have today's 3th match:
-Iran vs Iceland
-Country:Iran
-	#1, Alireza Beiranvand, GK
-	#2, Vouria Ghafouri, DF
-	#4, Jalal Hosseini, DF
-	#5, Milad Mohammadi, DF
-	#8, Morteza Pouraliganji, DF
-	#3, Ehsan Hajsafi, MF
-	#6, Saeid Ezatolahi, MF
-	#7, Saman Ghoddos, MF
-	#9, Omid Ebrahimi, MF
-	#10, Karim Ansarifard, FW
-	#16, Reza Ghoochannejhad, FW
-Country:Iceland
-	#1, Hannes Halld¨®rsson, GK
-	#2, Diego J¨®hannesson, DF
-	#3, J¨®n Gueni Fj¨®luson, DF
-	#7, J¨®hann Berg Guemundsson, MF
-	#8, Birkir Bjarnason, MF
-	#10, Gylfi Siguresson, MF
-	#15, R¨²nar M¨¢r Sigurj¨®nsson, MF
-	#9, Viear Kjartansson, FW
-	#11, Alfree Finnbogason, FW
-	#26, Kjartan Finnbogason, FW
-	#27, Kristj¨¢n Fl¨®ki Finnbogason, FW
-Playing...
-Now it is 1:0
-Iran beats Iceland with the goals 1:0
-
-Next we will have today's 4th match:
-Japan vs England
-Country:Japan
-	#1, Eiji Kawashima, GK
-	#3, Gen Shoji, DF
-	#4, Shintaro Kurumaya, DF
-	#2, Yosuke Ideguchi, MF
-	#14, Wataru Endo, MF
-	#16, Shu Kurata, MF
-	#17, Makoto Hasebe, MF
-	#8, Genki Haraguchi, FW
-	#9, Kenyu Sugimoto, FW
-	#10, Takashi Inui, FW
-	#11, Yuya Kubo, FW
-Country:England
-	#13, Jordan Pickford, GK
-	#12, Kieran Trippier, DF
-	#14, Danny Rose, DF
-	#7, Jake Livermore, MF
-	#8, Eric Dier, MF
-	#10, Ruben Loftus-Cheek, MF
-	#17, Jack Cork, MF
-	#9, Jamie Vardy, FW
-	#21, Tammy Abraham, FW
-	#11, Marcus Rashford, FW
-	#22, Dominic Solanke, FW
-Playing...
-Now it is 1:0
-Now it is 2:0
-Japan beats England with the goals 2:0
-
-Hello everyone, it is June 17, the 4th day of group match.
-Today we will have matches of Group B, D, F and H, totally 4 matches.
-Next we will have today's 1th match:
-Australia vs Switzerland
-Country:Australia
-	#1, Mathew Ryan, GK
-	#2, Milos Degenek, DF
-	#3, Alex Gersbach, DF
-	#6, Matthew Jurman, DF
-	#8, Bailey Wright, DF
-	#5, Mark Milligan, MF
-	#15, Craig Goodwin, MF
-	#11, Aaron Mooy, MF
-	#13, James Troisi, MF
-	#4, Tim Cahill, FW
-	#7, Mathew Leckie, FW
-Country:Switzerland
-	#1, Yann Sommer, GK
-	#2, Stephan Lichtsteiner, DF
-	#3, L¨¦o Lacroix, DF
-	#8, Fabian Frei, MF
-	#10, Granit Xhaka, MF
-	#11, Valon Behrami, MF
-	#14, Denis Zakaria, MF
-	#7, Breel Embolo, FW
-	#9, Haris Seferovi?, FW
-	#18, Admir Mehmedi, FW
-	#19, Mario Gavranovi?, FW
-Playing...
-Now it is 0:1
-Australia fails Switzerland with the goals 0:1
-
-Next we will have today's 2th match:
 Mexico vs Denmark
 Country:Mexico
 	#1, Guillermo Ochoa, GK
@@ -436,12 +314,9 @@ Country:Denmark
 	#15, Viktor Fischer, FW
 	#11, Nicklas Bendtner, FW
 Playing...
-Now it is 1:0
-Now it is 2:0
-Now it is 3:0
-Mexico beats Denmark with the goals 3:0
+It is a draw with 0:0
 
-Next we will have today's 3th match:
+Next we will have today's 2th match:
 Panama vs Croatia
 Country:Panama
 	#1, Jaime Penedo, GK
@@ -468,11 +343,148 @@ Country:Croatia
 	#8, Ante Rebi?, FW
 	#9, Andrej Kramari?, FW
 Playing...
-Now it is 0:1
-Now it is 0:2
-Panama fails Croatia with the goals 0:2
+26 minutes :
+	Ante Rebi? helps Croatia take the first goal.
+Now, Panama : Croatia is 0 : 1
+Panama fails Croatia with the goals 0:1
+
+Next we will have today's 3th match:
+Australia vs Switzerland
+Country:Australia
+	#1, Mathew Ryan, GK
+	#2, Milos Degenek, DF
+	#3, Alex Gersbach, DF
+	#6, Matthew Jurman, DF
+	#8, Bailey Wright, DF
+	#5, Mark Milligan, MF
+	#15, Craig Goodwin, MF
+	#11, Aaron Mooy, MF
+	#13, James Troisi, MF
+	#4, Tim Cahill, FW
+	#7, Mathew Leckie, FW
+Country:Switzerland
+	#1, Yann Sommer, GK
+	#2, Stephan Lichtsteiner, DF
+	#3, L¨¦o Lacroix, DF
+	#8, Fabian Frei, MF
+	#10, Granit Xhaka, MF
+	#11, Valon Behrami, MF
+	#14, Denis Zakaria, MF
+	#7, Breel Embolo, FW
+	#9, Haris Seferovi?, FW
+	#18, Admir Mehmedi, FW
+	#19, Mario Gavranovi?, FW
+Playing...
+35 minutes :
+	James Troisi helps Australia break the deadlock! The match is becoming interesting.
+Now, Australia : Switzerland is 1 : 0
+Australia beats Switzerland with the goals 1:0
 
 Next we will have today's 4th match:
+Saudi Arabia vs Spain
+Country:Saudi Arabia
+	#1, Waleed Abdullah, GK
+	#2, Osama Hawsawi, DF
+	#3, Hassan Muath, DF
+	#4, Taisir Al-Jassim, MF
+	#5, Yahya Al-Shehri, MF
+	#6, Salman Al-Faraj, MF
+	#7, Ahmed Al-Fraidi, MF
+	#8, Ahm Al-Fraidi , MF
+	#9, Muhannad Assiri, FW
+	#10, Mukhtar Fallatah, FW
+	#11, Hazaa Al-Hazaa, FW
+Country:Spain
+	#1, David de Gea, GK
+	#2, ¨¢lvaro Odriozola, DF
+	#3, Gerard Piqu¨¦, DF
+	#5, Sergio Busquets, MF
+	#6, Andr¨¦s Iniesta, MF
+	#8, Sa¨²l ?¨ªguez, MF
+	#10, Thiago Alcantara, MF
+	#7, ¨¢lvaro Morata, FW
+	#9, Jos¨¦ Callej¨®n, FW
+	#11, Vitolo, FW
+	#17, Iago Aspas, FW
+Playing...
+4 minutes :
+	Iago Aspas helps Spain take the first goal.
+Now, Saudi Arabia : Spain is 0 : 1
+54 minutes :
+	¨¢lvaro Morata helps Spain get 2 goals ahead.
+Now, Saudi Arabia : Spain is 0 : 2
+83 minutes :
+	Nice! Iago Aspas score a goal! Are Saudi Arabia's players just hanging out on the football pitch? Spain get one goal again.
+Now, Saudi Arabia : Spain is 0 : 3
+Saudi Arabia fails Spain with the goals 0:3
+
+Hello everyone, it is June 17, the 4th day of group match.
+Today we will have matches of Group B, D, F and H, totally 4 matches.
+Next we will have today's 1th match:
+South Korea vs Serbia
+Country:South Korea
+	#1, Kim Seung-gyu, GK
+	#2, Jang Hyun-soo, DF
+	#3, Kim Jin-su, DF
+	#4, Kim Min-woo, DF
+	#5, Go Yo-han, DF
+	#6, Yeom Ki-hun, MF
+	#7, Lee Jae-sung, MF
+	#8, Jung Woo-young	, MF
+	#9, Lee Myung-joo, MF
+	#10, Lee Keun-ho, FW
+	#11, Kim Shin-wook, FW
+Country:Serbia
+	#1, Vladimir Stojkovi?, GK
+	#6, Branislav Ivanovi?, DF
+	#2, Antonio Rukavina, DF
+	#22, Adem Ljaji?, MF
+	#4, Nemanja Gudelj, MF
+	#19, Andrija ?ivkovi?, MF
+	#14, Mijat Ga?inovi?, MF
+	#21, Nemanja Radonji?, MF
+	#9, Aleksandar Mitrovi?, FW
+	#8, Aleksandar Prijovi?, FW
+	#10, ?or?e Ivanovi?, FW
+Playing...
+5 minutes :
+	Andrija ?ivkovi? helps Serbia take the first goal.
+Now, South Korea : Serbia is 0 : 1
+16 minutes :
+	Lee Jae-sung goals in, helping South Korea ties the score.
+Now, South Korea : Serbia is 1 : 1
+It is a draw with 1:1
+
+Next we will have today's 2th match:
+Japan vs England
+Country:Japan
+	#1, Eiji Kawashima, GK
+	#3, Gen Shoji, DF
+	#4, Shintaro Kurumaya, DF
+	#2, Yosuke Ideguchi, MF
+	#14, Wataru Endo, MF
+	#16, Shu Kurata, MF
+	#17, Makoto Hasebe, MF
+	#8, Genki Haraguchi, FW
+	#9, Kenyu Sugimoto, FW
+	#10, Takashi Inui, FW
+	#11, Yuya Kubo, FW
+Country:England
+	#13, Jordan Pickford, GK
+	#12, Kieran Trippier, DF
+	#14, Danny Rose, DF
+	#7, Jake Livermore, MF
+	#8, Eric Dier, MF
+	#10, Ruben Loftus-Cheek, MF
+	#17, Jack Cork, MF
+	#9, Jamie Vardy, FW
+	#21, Tammy Abraham, FW
+	#11, Marcus Rashford, FW
+	#22, Dominic Solanke, FW
+Playing...
+It is a draw with 0:0
+
+Next we will have today's 3th match:
 Costa Rica vs Swden
 Country:Costa Rica
 	#1, Patrick Pemberton, GK
@@ -499,90 +511,16 @@ Country:Swden
 	#8, Isaac Kiese Thelin, FW
 	#9, Marcus Berg, FW
 Playing...
-Now it is 1:0
-Now it is 2:0
-Costa Rica beats Swden with the goals 2:0
+28 minutes :
+	Cristian Gamboa helps Costa Rica take the first goal.
+Now, Costa Rica : Swden is 1 : 0
+72 minutes :
+	Nice shoot! Swden ties the score in the critical moment! Isaac Kiese Thelin's achievement cannot be left unrecongized!
+Now, Costa Rica : Swden is 1 : 1
+It is a draw with 1:1
 
-Hello everyone, it is June 18, the 5th day of group match.
-Today we will have matches of Group A, C, E and G, totally 4 matches.
-Next we will have today's 1th match:
-Russia(host) vs Saudi Arabia
-Country:Russia(host)
-	#1, Igor Akinfeev, GK
-	#28, Igor Smolnikov, DF
-	#30, Fyodor Kudryashov, DF
-	#18, Yuri Zhirkov, MF
-	#8, Denis Glushakov, MF
-	#17, Alan Dzagoev, MF
-	#24, Aleksandr Golovin, MF
-	#9, Aleksandr Kokorin, FW
-	#10, Fyodor Smolov, FW
-	#7, Dmitry Poloz, FW
-	#11, Anton Zabolotny, FW
-Country:Saudi Arabia
-	#1, Waleed Abdullah, GK
-	#2, Osama Hawsawi, DF
-	#3, Hassan Muath, DF
-	#4, Taisir Al-Jassim, MF
-	#5, Yahya Al-Shehri, MF
-	#6, Salman Al-Faraj, MF
-	#7, Ahmed Al-Fraidi, MF
-	#8, Ahm Al-Fraidi , MF
-	#9, Muhannad Assiri, FW
-	#10, Mukhtar Fallatah, FW
-	#11, Hazaa Al-Hazaa, FW
-Playing...
-Now it is 0:1
-Now it is 0:2
-Now it is 1:2
-Russia(host) fails Saudi Arabia with the goals 1:2
-
-Next we will have today's 2th match:
-Germany vs South Korea
-Country:Germany
-	#1, Kevin Trapp, GK
-	#2, Niklas S¨¹le, DF
-	#3, Marvin Plattenhardt, DF
-	#6, Sami Khedira, MF
-	#7, Julian Draxler, MF
-	#8, Toni Kroos, MF
-	#10, Mesut ?zil, MF
-	#24, Leroy San¨¦, MF
-	#9, Sandro Wagner, FW
-	#11, Timo Werner, FW
-	#13, Lars Stindl, FW
-Country:South Korea
-	#1, Kim Seung-gyu, GK
-	#2, Jang Hyun-soo, DF
-	#3, Kim Jin-su, DF
-	#4, Kim Min-woo, DF
-	#5, Go Yo-han, DF
-	#6, Yeom Ki-hun, MF
-	#7, Lee Jae-sung, MF
-	#8, Jung Woo-young	, MF
-	#9, Lee Myung-joo, MF
-	#10, Lee Keun-ho, FW
-	#11, Kim Shin-wook, FW
-Playing...
-Now it is 0:1
-Now it is 1:1
-Now it is 2:1
-Germany beats South Korea with the goals 2:1
-
-Next we will have today's 3th match:
-France vs Iran
-Country:France
-	#1, Alphonse Areola, GK
-	#2, Christophe Jallet, DF
-	#3, Layvin Kurzawa, DF
-	#6, Corentin Tolisso, MF
-	#14, Blaise Matuidi, MF
-	#15, Adrien Rabiot, MF
-	#18, Moussa Sissoko, MF
-	#7, Antoine Griezmann, FW
-	#8, Nabil Fekir, FW
-	#10, Alexandre Lacazette, FW
-	#11, Kingsley Coman, FW
+Next we will have today's 4th match:
+Iran vs Iceland
 Country:Iran
 	#1, Alireza Beiranvand, GK
 	#2, Vouria Ghafouri, DF
@@ -595,249 +533,6 @@ Country:Iran
 	#9, Omid Ebrahimi, MF
 	#10, Karim Ansarifard, FW
 	#16, Reza Ghoochannejhad, FW
-Playing...
-Now it is 1:0
-Now it is 2:0
-France beats Iran with the goals 2:0
-
-Next we will have today's 4th match:
-Brazil vs Japan
-Country:Brazil
-	#1, Alisson, GK
-	#2, Dani Alves, DF
-	#3, Miranda, DF
-	#5, Casemiro, MF
-	#8, Renato Augusto, MF
-	#11, Philippe Coutinho, MF
-	#15, Paulinho, MF
-	#7, Douglas Costa, FW
-	#9, Gabriel Jesus, FW
-	#10, Neymar, FW
-	#21, Roberto Firmino, FW
-Country:Japan
-	#1, Eiji Kawashima, GK
-	#3, Gen Shoji, DF
-	#4, Shintaro Kurumaya, DF
-	#2, Yosuke Ideguchi, MF
-	#14, Wataru Endo, MF
-	#16, Shu Kurata, MF
-	#17, Makoto Hasebe, MF
-	#8, Genki Haraguchi, FW
-	#9, Kenyu Sugimoto, FW
-	#10, Takashi Inui, FW
-	#11, Yuya Kubo, FW
-Playing...
-Now it is 1:0
-Brazil beats Japan with the goals 1:0
-
-Hello everyone, it is June 19, the 6th day of group match.
-Today we will have matches of Group B, D, F and H, totally 4 matches.
-Next we will have today's 1th match:
-Argentina vs Australia
-Country:Argentina
-	#1, Sergio Romero, GK
-	#2, Emanuel Mammana, DF
-	#3, Federico Fazio, DF
-	#5, Leandro Paredes, MF
-	#16, Diego Perotti, MF
-	#18, Eduardo Salvio, MF
-	#20, Giovani Lo Celso, MF
-	#10, Lionel Messi, FW
-	#7, Paulo Dybala, FW
-	#21, Dario Benedetto, FW
-	#26, Cristian Pavon, FW
-Country:Australia
-	#1, Mathew Ryan, GK
-	#2, Milos Degenek, DF
-	#3, Alex Gersbach, DF
-	#6, Matthew Jurman, DF
-	#8, Bailey Wright, DF
-	#5, Mark Milligan, MF
-	#15, Craig Goodwin, MF
-	#11, Aaron Mooy, MF
-	#13, James Troisi, MF
-	#4, Tim Cahill, FW
-	#7, Mathew Leckie, FW
-Playing...
-Now it is 1:0
-Now it is 2:0
-Argentina beats Australia with the goals 2:0
-
-Next we will have today's 2th match:
-Belgium vs Mexico
-Country:Belgium
-	#1, Thibaut Courtois, GK
-	#5, Jan Vertonghen, DF
-	#3, Thomas Vermaelen, DF
-	#6, Axel Witsel, MF
-	#19, Mousa Demb¨¦l¨¦, MF
-	#7, Kevin De Bruyne, MF
-	#16, Steven Defour, MF
-	#10, Eden Hazard, FW
-	#9, Romelu Lukaku, FW
-	#14, Dries Mertens, FW
-	#11, Kevin Mirallas, FW
-Country:Mexico
-	#1, Guillermo Ochoa, GK
-	#2, H¨¦ctor Moreno, DF
-	#3, Miguel Lay¨²n, DF
-	#4, Diego Reyes, DF
-	#5, Hugo Ayala, DF
-	#6, Andr¨¦s Guardado, MF
-	#7, Javier Aquino, MF
-	#8, Jonathan dos Santos, MF
-	#9, J¨¹rgen Damm, MF
-	#10, Carlos Vela, FW
-	#11, Oribe Peralta, FW
-Playing...
-Now it is 1:0
-Now it is 2:0
-Now it is 3:0
-Now it is 4:0
-Belgium beats Mexico with the goals 4:0
-
-Next we will have today's 3th match:
-Poland vs Panama
-Country:Poland
-	#22, ?ukasz Fabia¨½ski, GK
-	#13, Maciej Rybus, DF
-	#3, Artur J?drzejczyk, DF
-	#16, Jakub B?aszczykowski, MF
-	#5, Krzysztof M?czy¨½ski, MF
-	#19, Piotr Zieli¨½ski, MF
-	#8, Karol Linetty, MF
-	#26, Przemys?aw Frankowski, MF
-	#29, Mariusz St?pi¨½ski, FW
-	#23, Kamil Wilczek, FW
-	#28, Jakub ?wierczok, FW
-Country:Panama
-	#1, Jaime Penedo, GK
-	#23, Felipe Baloy, DF
-	#15, Erick Davis, DF
-	#17, Luis Ovalle, DF
-	#13, Roberto Chen, DF
-	#11, Armando Cooper, MF
-	#8, Marcos S¨¢nchez, MF
-	#19, Ricardo Buitrago, MF
-	#6, Josiel Nunez, MF
-	#7, Blas Perez, FW
-	#9, Gabriel Torres, FW
-Playing...
-Now it is 0:1
-Poland fails Panama with the goals 0:1
-
-Next we will have today's 4th match:
-Portugal vs Costa Rica
-Country:Portugal
-	#1, Jos¨¦ S¨¢, GK
-	#2, N¨¦lson Semedo, DF
-	#3, Pepe, DF
-	#6, R¨²ben Neves, MF
-	#8, Bruno Fernandes, MF
-	#10, Jo?o M¨¢rio, MF
-	#11, Bernardo Silva, MF
-	#7, Gon?alo Guedes, FW
-	#9, Andr¨¦ Silva, FW
-	#16, Rony Lopes, FW
-	#17, Bruma, FW
-Country:Costa Rica
-	#1, Patrick Pemberton, GK
-	#2, Giancarlo Gonz¨¢lez, DF
-	#3, Cristian Gamboa, DF
-	#4, Bryan Oviedo, DF
-	#5, Jos¨¦ Salvatierra, DF
-	#6, Celso Borges, MF
-	#7, Christian Bola?os, MF
-	#8, Yeltsin Tejeda, MF
-	#9, David Guzm¨¢n, MF
-	#10, Marco Ure?a, FW
-	#11, Johan Venegas, FW
-Playing...
-Now it is 1:0
-Now it is 2:0
-Portugal beats Costa Rica with the goals 2:0
-
-Hello everyone, it is June 20, the 7th day of group match.
-Today we will have matches of Group A, C, E and G, totally 4 matches.
-Next we will have today's 1th match:
-Nigeria vs Spain
-Country:Nigeria
-	#16, Ikechukwu Ezenwa, GK
-	#4, Kenneth Omeruo, DF
-	#12, Shehu Abdullahi, DF
-	#10, John Obi Mikel, MF
-	#19, John Ogu, MF
-	#13, Wilfred Ndidi, MF
-	#8, Etebo Oghenekaro, MF
-	#7, Ahmed Musa, FW
-	#22, Moses Simon, FW
-	#14, Odion Ighalo, FW
-	#18, Kelechi Iheanacho, FW
-Country:Spain
-	#1, David de Gea, GK
-	#2, ¨¢lvaro Odriozola, DF
-	#3, Gerard Piqu¨¦, DF
-	#5, Sergio Busquets, MF
-	#6, Andr¨¦s Iniesta, MF
-	#8, Sa¨²l ?¨ªguez, MF
-	#10, Thiago Alcantara, MF
-	#7, ¨¢lvaro Morata, FW
-	#9, Jos¨¦ Callej¨®n, FW
-	#11, Vitolo, FW
-	#17, Iago Aspas, FW
-Playing...
-Now it is 1:0
-Now it is 2:0
-Now it is 3:0
-Now it is 4:0
-Nigeria beats Spain with the goals 4:0
-
-Next we will have today's 2th match:
-Senegal vs Serbia
-Country:Senegal
-	#16, Khadim Ndiaye, GK
-	#2, Kara Mbodji, DF
-	#21, Lamine Gassama, DF
-	#5, Idrissa Gana Gueye, MF
-	#17, Cheikhou Kouyate, MF
-	#8, Cheikh Ndoye, MF
-	#11, Papa Alioune Ndiaye, MF
-	#7, Moussa Sow, FW
-	#14, Moussa Konate, FW
-	#6, Diafra Sakho, FW
-	#10, Opa Nguette, FW
-Country:Serbia
-	#1, Vladimir Stojkovi?, GK
-	#6, Branislav Ivanovi?, DF
-	#2, Antonio Rukavina, DF
-	#22, Adem Ljaji?, MF
-	#4, Nemanja Gudelj, MF
-	#19, Andrija ?ivkovi?, MF
-	#14, Mijat Ga?inovi?, MF
-	#21, Nemanja Radonji?, MF
-	#9, Aleksandar Mitrovi?, FW
-	#8, Aleksandar Prijovi?, FW
-	#10, ?or?e Ivanovi?, FW
-Playing...
-Now it is 1:0
-Now it is 2:0
-Now it is 2:1
-Senegal beats Serbia with the goals 2:1
-
-Next we will have today's 3th match:
-Morocco vs Iceland
-Country:Morocco
-	#12, Munir Mohamedi, GK
-	#5, Medhi Benatia, DF
-	#17, Nabil Dirar, DF
-	#14, Mbark Boussoufa, MF
-	#8, Karim El Ahmadi, MF
-	#10, Younes Belhanda, MF
-	#16, Nordin Amrabat, MF
-	#19, Sofyan Amrabat, MF
-	#23, Rachid Alioui, FW
-	#13, Khalid Boutaib, FW
-	#21, Achraf Bencharki, FW
 Country:Iceland
 	#1, Hannes Halld¨®rsson, GK
 	#2, Diego J¨®hannesson, DF
@@ -851,75 +546,286 @@ Country:Iceland
 	#26, Kjartan Finnbogason, FW
 	#27, Kristj¨¢n Fl¨®ki Finnbogason, FW
 Playing...
-Now it is 0:1
-Morocco fails Iceland with the goals 0:1
+46 minutes :
+	Milad Mohammadi helps Iran break the deadlock! The match is becoming interesting.
+Now, Iran : Iceland is 1 : 0
+Iran beats Iceland with the goals 1:0
 
-Next we will have today's 4th match:
-Tunisia vs England
-Country:Tunisia
-	#1, Farouk Ben Mustapha, GK
-	#2, Syam Ben Youssef, DF
-	#4, Yassine Meriah, DF
-	#3, Aymen Trabelsi, MF
-	#10, Wahbi Khazri, MF
-	#13, Ferjani Sassi, MF
-	#14, Mohamed Ben Amor, MF
-	#7, Youssef Msakni, FW
-	#8, Fakhreddine Ben Youssef, FW
-	#9, Yoann Touzghar, FW
-	#11, Taha Khenissi, FW
-Country:England
-	#13, Jordan Pickford, GK
-	#12, Kieran Trippier, DF
-	#14, Danny Rose, DF
-	#7, Jake Livermore, MF
-	#8, Eric Dier, MF
-	#10, Ruben Loftus-Cheek, MF
-	#17, Jack Cork, MF
-	#9, Jamie Vardy, FW
-	#21, Tammy Abraham, FW
-	#11, Marcus Rashford, FW
-	#22, Dominic Solanke, FW
-Playing...
-Now it is 1:0
-Now it is 1:1
-Now it is 1:2
-Now it is 1:3
-Tunisia fails England with the goals 1:3
-
-Hello everyone, it is June 21, the 8th day of group match.
-Today we will have matches of Group B, D, F and H, totally 4 matches.
+Hello everyone, it is June 18, the 5th day of group match.
+Today we will have matches of Group A, C, E and G, totally 4 matches.
 Next we will have today's 1th match:
-Egypt vs Switzerland
-Country:Egypt
-	#1, Mohamed Awad, GK
-	#2, Ali Gabr, DF
-	#3, Ahmed Elmohamady, DF
-	#6, Sam Morsy, MF
-	#8, Tarek Hamed, MF
-	#12, Shikabala, MF
-	#10, Moamen Zakaria, MF
-	#9, Kouka, FW
-	#18, Kahraba, FW
-	#11, Amr Marey, FW
-	#13, Amr Gamal, FW
-Country:Switzerland
-	#1, Yann Sommer, GK
-	#2, Stephan Lichtsteiner, DF
-	#3, L¨¦o Lacroix, DF
-	#8, Fabian Frei, MF
-	#10, Granit Xhaka, MF
-	#11, Valon Behrami, MF
-	#14, Denis Zakaria, MF
-	#7, Breel Embolo, FW
-	#9, Haris Seferovi?, FW
-	#18, Admir Mehmedi, FW
-	#19, Mario Gavranovi?, FW
+Russia(host) vs Mexico
+Country:Russia(host)
+	#1, Igor Akinfeev, GK
+	#28, Igor Smolnikov, DF
+	#30, Fyodor Kudryashov, DF
+	#18, Yuri Zhirkov, MF
+	#8, Denis Glushakov, MF
+	#17, Alan Dzagoev, MF
+	#24, Aleksandr Golovin, MF
+	#9, Aleksandr Kokorin, FW
+	#10, Fyodor Smolov, FW
+	#7, Dmitry Poloz, FW
+	#11, Anton Zabolotny, FW
+Country:Mexico
+	#1, Guillermo Ochoa, GK
+	#2, H¨¦ctor Moreno, DF
+	#3, Miguel Lay¨²n, DF
+	#4, Diego Reyes, DF
+	#5, Hugo Ayala, DF
+	#6, Andr¨¦s Guardado, MF
+	#7, Javier Aquino, MF
+	#8, Jonathan dos Santos, MF
+	#9, J¨¹rgen Damm, MF
+	#10, Carlos Vela, FW
+	#11, Oribe Peralta, FW
 Playing...
-Now it is 1:0
-Egypt beats Switzerland with the goals 1:0
+It is a draw with 0:0
 
 Next we will have today's 2th match:
+Belgium vs Panama
+Country:Belgium
+	#1, Thibaut Courtois, GK
+	#5, Jan Vertonghen, DF
+	#3, Thomas Vermaelen, DF
+	#6, Axel Witsel, MF
+	#19, Mousa Demb¨¦l¨¦, MF
+	#7, Kevin De Bruyne, MF
+	#16, Steven Defour, MF
+	#10, Eden Hazard, FW
+	#9, Romelu Lukaku, FW
+	#14, Dries Mertens, FW
+	#11, Kevin Mirallas, FW
+Country:Panama
+	#1, Jaime Penedo, GK
+	#23, Felipe Baloy, DF
+	#15, Erick Davis, DF
+	#17, Luis Ovalle, DF
+	#13, Roberto Chen, DF
+	#11, Armando Cooper, MF
+	#8, Marcos S¨¢nchez, MF
+	#19, Ricardo Buitrago, MF
+	#6, Josiel Nunez, MF
+	#7, Blas Perez, FW
+	#9, Gabriel Torres, FW
+Playing...
+6 minutes :
+	Romelu Lukaku helps Belgium take the first goal.
+Now, Belgium : Panama is 1 : 0
+12 minutes :
+	Steven Defour helps Belgium get 2 goals ahead.
+Now, Belgium : Panama is 2 : 0
+87 minutes :
+	Nice! Dries Mertens score a goal! Are Panama's players just hanging out on the football pitch? Belgium get one goal again.
+Now, Belgium : Panama is 3 : 0
+Belgium beats Panama with the goals 3:0
+
+Next we will have today's 3th match:
+Brazil vs Australia
+Country:Brazil
+	#1, Alisson, GK
+	#2, Dani Alves, DF
+	#3, Miranda, DF
+	#5, Casemiro, MF
+	#8, Renato Augusto, MF
+	#11, Philippe Coutinho, MF
+	#15, Paulinho, MF
+	#7, Douglas Costa, FW
+	#9, Gabriel Jesus, FW
+	#10, Neymar, FW
+	#21, Roberto Firmino, FW
+Country:Australia
+	#1, Mathew Ryan, GK
+	#2, Milos Degenek, DF
+	#3, Alex Gersbach, DF
+	#6, Matthew Jurman, DF
+	#8, Bailey Wright, DF
+	#5, Mark Milligan, MF
+	#15, Craig Goodwin, MF
+	#11, Aaron Mooy, MF
+	#13, James Troisi, MF
+	#4, Tim Cahill, FW
+	#7, Mathew Leckie, FW
+Playing...
+80 minutes :
+	This is a key shot, Philippe Coutinho helps Brazil break the deadlock!!!
+Now, Brazil : Australia is 1 : 0
+Brazil beats Australia with the goals 1:0
+
+Next we will have today's 4th match:
+Portugal vs Saudi Arabia
+Country:Portugal
+	#1, Jos¨¦ S¨¢, GK
+	#2, N¨¦lson Semedo, DF
+	#3, Pepe, DF
+	#6, R¨²ben Neves, MF
+	#8, Bruno Fernandes, MF
+	#10, Jo?o M¨¢rio, MF
+	#11, Bernardo Silva, MF
+	#7, Gon?alo Guedes, FW
+	#9, Andr¨¦ Silva, FW
+	#16, Rony Lopes, FW
+	#17, Bruma, FW
+Country:Saudi Arabia
+	#1, Waleed Abdullah, GK
+	#2, Osama Hawsawi, DF
+	#3, Hassan Muath, DF
+	#4, Taisir Al-Jassim, MF
+	#5, Yahya Al-Shehri, MF
+	#6, Salman Al-Faraj, MF
+	#7, Ahmed Al-Fraidi, MF
+	#8, Ahm Al-Fraidi , MF
+	#9, Muhannad Assiri, FW
+	#10, Mukhtar Fallatah, FW
+	#11, Hazaa Al-Hazaa, FW
+Playing...
+15 minutes :
+	Ahmed Al-Fraidi helps Saudi Arabia take the first goal.
+Now, Portugal : Saudi Arabia is 0 : 1
+75 minutes :
+	Saudi Arabia's player Ahmed Al-Fraidi score a goal, they go further to victory!
+Now, Portugal : Saudi Arabia is 0 : 2
+Portugal fails Saudi Arabia with the goals 0:2
+
+Hello everyone, it is June 19, the 6th day of group match.
+Today we will have matches of Group B, D, F and H, totally 4 matches.
+Next we will have today's 1th match:
+France vs South Korea
+Country:France
+	#1, Alphonse Areola, GK
+	#2, Christophe Jallet, DF
+	#3, Layvin Kurzawa, DF
+	#6, Corentin Tolisso, MF
+	#14, Blaise Matuidi, MF
+	#15, Adrien Rabiot, MF
+	#18, Moussa Sissoko, MF
+	#7, Antoine Griezmann, FW
+	#8, Nabil Fekir, FW
+	#10, Alexandre Lacazette, FW
+	#11, Kingsley Coman, FW
+Country:South Korea
+	#1, Kim Seung-gyu, GK
+	#2, Jang Hyun-soo, DF
+	#3, Kim Jin-su, DF
+	#4, Kim Min-woo, DF
+	#5, Go Yo-han, DF
+	#6, Yeom Ki-hun, MF
+	#7, Lee Jae-sung, MF
+	#8, Jung Woo-young	, MF
+	#9, Lee Myung-joo, MF
+	#10, Lee Keun-ho, FW
+	#11, Kim Shin-wook, FW
+Playing...
+45 minutes :
+	Kim Shin-wook helps South Korea break the deadlock! The match is becoming interesting.
+Now, France : South Korea is 0 : 1
+France fails South Korea with the goals 0:1
+
+Next we will have today's 2th match:
+Poland vs Japan
+Country:Poland
+	#22, ?ukasz Fabia¨½ski, GK
+	#13, Maciej Rybus, DF
+	#3, Artur J?drzejczyk, DF
+	#16, Jakub B?aszczykowski, MF
+	#5, Krzysztof M?czy¨½ski, MF
+	#19, Piotr Zieli¨½ski, MF
+	#8, Karol Linetty, MF
+	#26, Przemys?aw Frankowski, MF
+	#29, Mariusz St?pi¨½ski, FW
+	#23, Kamil Wilczek, FW
+	#28, Jakub ?wierczok, FW
+Country:Japan
+	#1, Eiji Kawashima, GK
+	#3, Gen Shoji, DF
+	#4, Shintaro Kurumaya, DF
+	#2, Yosuke Ideguchi, MF
+	#14, Wataru Endo, MF
+	#16, Shu Kurata, MF
+	#17, Makoto Hasebe, MF
+	#8, Genki Haraguchi, FW
+	#9, Kenyu Sugimoto, FW
+	#10, Takashi Inui, FW
+	#11, Yuya Kubo, FW
+Playing...
+15 minutes :
+	Krzysztof M?czy¨½ski helps Poland take the first goal.
+Now, Poland : Japan is 1 : 0
+75 minutes :
+	Poland's player Krzysztof M?czy¨½ski score a goal, they go further to victory!
+Now, Poland : Japan is 2 : 0
+Poland beats Japan with the goals 2:0
+
+Next we will have today's 3th match:
+Germany vs Costa Rica
+Country:Germany
+	#1, Kevin Trapp, GK
+	#2, Niklas S¨¹le, DF
+	#3, Marvin Plattenhardt, DF
+	#6, Sami Khedira, MF
+	#7, Julian Draxler, MF
+	#8, Toni Kroos, MF
+	#10, Mesut ?zil, MF
+	#24, Leroy San¨¦, MF
+	#9, Sandro Wagner, FW
+	#11, Timo Werner, FW
+	#13, Lars Stindl, FW
+Country:Costa Rica
+	#1, Patrick Pemberton, GK
+	#2, Giancarlo Gonz¨¢lez, DF
+	#3, Cristian Gamboa, DF
+	#4, Bryan Oviedo, DF
+	#5, Jos¨¦ Salvatierra, DF
+	#6, Celso Borges, MF
+	#7, Christian Bola?os, MF
+	#8, Yeltsin Tejeda, MF
+	#9, David Guzm¨¢n, MF
+	#10, Marco Ure?a, FW
+	#11, Johan Venegas, FW
+Playing...
+45 minutes :
+	Julian Draxler helps Germany break the deadlock! The match is becoming interesting.
+Now, Germany : Costa Rica is 1 : 0
+Germany beats Costa Rica with the goals 1:0
+
+Next we will have today's 4th match:
+Argentina vs Iran
+Country:Argentina
+	#1, Sergio Romero, GK
+	#2, Emanuel Mammana, DF
+	#3, Federico Fazio, DF
+	#5, Leandro Paredes, MF
+	#16, Diego Perotti, MF
+	#18, Eduardo Salvio, MF
+	#20, Giovani Lo Celso, MF
+	#10, Lionel Messi, FW
+	#7, Paulo Dybala, FW
+	#21, Dario Benedetto, FW
+	#26, Cristian Pavon, FW
+Country:Iran
+	#1, Alireza Beiranvand, GK
+	#2, Vouria Ghafouri, DF
+	#4, Jalal Hosseini, DF
+	#5, Milad Mohammadi, DF
+	#8, Morteza Pouraliganji, DF
+	#3, Ehsan Hajsafi, MF
+	#6, Saeid Ezatolahi, MF
+	#7, Saman Ghoddos, MF
+	#9, Omid Ebrahimi, MF
+	#10, Karim Ansarifard, FW
+	#16, Reza Ghoochannejhad, FW
+Playing...
+15 minutes :
+	Reza Ghoochannejhad helps Iran take the first goal.
+Now, Argentina : Iran is 0 : 1
+75 minutes :
+	Iran's player Reza Ghoochannejhad score a goal, they go further to victory!
+Now, Argentina : Iran is 0 : 2
+Argentina fails Iran with the goals 0:2
+
+Hello everyone, it is June 20, the 7th day of group match.
+Today we will have matches of Group A, C, E and G, totally 4 matches.
+Next we will have today's 1th match:
 Peru vs Denmark
 Country:Peru
 	#1, Pedro Gallese, GK
@@ -946,11 +852,12 @@ Country:Denmark
 	#15, Viktor Fischer, FW
 	#11, Nicklas Bendtner, FW
 Playing...
-Now it is 0:1
-Now it is 1:1
-It is a draw with 1:1
+45 minutes :
+	Raul Ruidiaz helps Peru break the deadlock! The match is becoming interesting.
+Now, Peru : Denmark is 1 : 0
+Peru beats Denmark with the goals 1:0
 
-Next we will have today's 3th match:
+Next we will have today's 2th match:
 Uruguay vs Croatia
 Country:Uruguay
 	#23, Martin Silva, GK
@@ -977,10 +884,151 @@ Country:Croatia
 	#8, Ante Rebi?, FW
 	#9, Andrej Kramari?, FW
 Playing...
-Now it is 0:1
-Uruguay fails Croatia with the goals 0:1
+15 minutes :
+	Jonathan Urretaviscaya helps Uruguay take the first goal.
+Now, Uruguay : Croatia is 1 : 0
+75 minutes :
+	Uruguay's player Jonathan Urretaviscaya score a goal, they go further to victory!
+Now, Uruguay : Croatia is 2 : 0
+Uruguay beats Croatia with the goals 2:0
+
+Next we will have today's 3th match:
+Egypt vs Switzerland
+Country:Egypt
+	#1, Mohamed Awad, GK
+	#2, Ali Gabr, DF
+	#3, Ahmed Elmohamady, DF
+	#6, Sam Morsy, MF
+	#8, Tarek Hamed, MF
+	#12, Shikabala, MF
+	#10, Moamen Zakaria, MF
+	#9, Kouka, FW
+	#18, Kahraba, FW
+	#11, Amr Marey, FW
+	#13, Amr Gamal, FW
+Country:Switzerland
+	#1, Yann Sommer, GK
+	#2, Stephan Lichtsteiner, DF
+	#3, L¨¦o Lacroix, DF
+	#8, Fabian Frei, MF
+	#10, Granit Xhaka, MF
+	#11, Valon Behrami, MF
+	#14, Denis Zakaria, MF
+	#7, Breel Embolo, FW
+	#9, Haris Seferovi?, FW
+	#18, Admir Mehmedi, FW
+	#19, Mario Gavranovi?, FW
+Playing...
+45 minutes :
+	Amr Marey helps Egypt break the deadlock! The match is becoming interesting.
+Now, Egypt : Switzerland is 1 : 0
+Egypt beats Switzerland with the goals 1:0
 
 Next we will have today's 4th match:
+Nigeria vs Spain
+Country:Nigeria
+	#16, Ikechukwu Ezenwa, GK
+	#4, Kenneth Omeruo, DF
+	#12, Shehu Abdullahi, DF
+	#10, John Obi Mikel, MF
+	#19, John Ogu, MF
+	#13, Wilfred Ndidi, MF
+	#8, Etebo Oghenekaro, MF
+	#7, Ahmed Musa, FW
+	#22, Moses Simon, FW
+	#14, Odion Ighalo, FW
+	#18, Kelechi Iheanacho, FW
+Country:Spain
+	#1, David de Gea, GK
+	#2, ¨¢lvaro Odriozola, DF
+	#3, Gerard Piqu¨¦, DF
+	#5, Sergio Busquets, MF
+	#6, Andr¨¦s Iniesta, MF
+	#8, Sa¨²l ?¨ªguez, MF
+	#10, Thiago Alcantara, MF
+	#7, ¨¢lvaro Morata, FW
+	#9, Jos¨¦ Callej¨®n, FW
+	#11, Vitolo, FW
+	#17, Iago Aspas, FW
+Playing...
+15 minutes :
+	Odion Ighalo helps Nigeria take the first goal.
+Now, Nigeria : Spain is 1 : 0
+75 minutes :
+	Nigeria's player Odion Ighalo score a goal, they go further to victory!
+Now, Nigeria : Spain is 2 : 0
+Nigeria beats Spain with the goals 2:0
+
+Hello everyone, it is June 21, the 8th day of group match.
+Today we will have matches of Group B, D, F and H, totally 4 matches.
+Next we will have today's 1th match:
+Senegal vs Serbia
+Country:Senegal
+	#16, Khadim Ndiaye, GK
+	#2, Kara Mbodji, DF
+	#21, Lamine Gassama, DF
+	#5, Idrissa Gana Gueye, MF
+	#17, Cheikhou Kouyate, MF
+	#8, Cheikh Ndoye, MF
+	#11, Papa Alioune Ndiaye, MF
+	#7, Moussa Sow, FW
+	#14, Moussa Konate, FW
+	#6, Diafra Sakho, FW
+	#10, Opa Nguette, FW
+Country:Serbia
+	#1, Vladimir Stojkovi?, GK
+	#6, Branislav Ivanovi?, DF
+	#2, Antonio Rukavina, DF
+	#22, Adem Ljaji?, MF
+	#4, Nemanja Gudelj, MF
+	#19, Andrija ?ivkovi?, MF
+	#14, Mijat Ga?inovi?, MF
+	#21, Nemanja Radonji?, MF
+	#9, Aleksandar Mitrovi?, FW
+	#8, Aleksandar Prijovi?, FW
+	#10, ?or?e Ivanovi?, FW
+Playing...
+45 minutes :
+	Nemanja Gudelj helps Serbia break the deadlock! The match is becoming interesting.
+Now, Senegal : Serbia is 0 : 1
+Senegal fails Serbia with the goals 0:1
+
+Next we will have today's 2th match:
+Tunisia vs England
+Country:Tunisia
+	#1, Farouk Ben Mustapha, GK
+	#2, Syam Ben Youssef, DF
+	#4, Yassine Meriah, DF
+	#3, Aymen Trabelsi, MF
+	#10, Wahbi Khazri, MF
+	#13, Ferjani Sassi, MF
+	#14, Mohamed Ben Amor, MF
+	#7, Youssef Msakni, FW
+	#8, Fakhreddine Ben Youssef, FW
+	#9, Yoann Touzghar, FW
+	#11, Taha Khenissi, FW
+Country:England
+	#13, Jordan Pickford, GK
+	#12, Kieran Trippier, DF
+	#14, Danny Rose, DF
+	#7, Jake Livermore, MF
+	#8, Eric Dier, MF
+	#10, Ruben Loftus-Cheek, MF
+	#17, Jack Cork, MF
+	#9, Jamie Vardy, FW
+	#21, Tammy Abraham, FW
+	#11, Marcus Rashford, FW
+	#22, Dominic Solanke, FW
+Playing...
+66 minutes :
+	Taha Khenissi helps Tunisia break the deadlock! The match is becoming interesting.
+Now, Tunisia : England is 1 : 0
+85 minutes :
+	Tunisia's player Mohamed Ben Amor score a goal, they go further to victory!
+Now, Tunisia : England is 2 : 0
+Tunisia beats England with the goals 2:0
+
+Next we will have today's 3th match:
 Colombia vs Swden
 Country:Colombia
 	#1, Leandro Castellanos, GK
@@ -1007,87 +1055,25 @@ Country:Swden
 	#8, Isaac Kiese Thelin, FW
 	#9, Marcus Berg, FW
 Playing...
-Now it is 0:1
-Now it is 0:2
-Colombia fails Swden with the goals 0:2
+64 minutes :
+	Isaac Kiese Thelin helps Swden break the deadlock! The match is becoming interesting.
+Now, Colombia : Swden is 0 : 1
+Colombia fails Swden with the goals 0:1
 
-Hello everyone, it is June 22, the 9th day of group match.
-Today we will have matches of Group A, C, E and G, totally 4 matches.
-Next we will have today's 1th match:
-Russia(host) vs Spain
-Country:Russia(host)
-	#1, Igor Akinfeev, GK
-	#28, Igor Smolnikov, DF
-	#30, Fyodor Kudryashov, DF
-	#18, Yuri Zhirkov, MF
-	#8, Denis Glushakov, MF
-	#17, Alan Dzagoev, MF
-	#24, Aleksandr Golovin, MF
-	#9, Aleksandr Kokorin, FW
-	#10, Fyodor Smolov, FW
-	#7, Dmitry Poloz, FW
-	#11, Anton Zabolotny, FW
-Country:Spain
-	#1, David de Gea, GK
-	#2, ¨¢lvaro Odriozola, DF
-	#3, Gerard Piqu¨¦, DF
-	#5, Sergio Busquets, MF
-	#6, Andr¨¦s Iniesta, MF
-	#8, Sa¨²l ?¨ªguez, MF
-	#10, Thiago Alcantara, MF
-	#7, ¨¢lvaro Morata, FW
-	#9, Jos¨¦ Callej¨®n, FW
-	#11, Vitolo, FW
-	#17, Iago Aspas, FW
-Playing...
-Now it is 1:0
-Now it is 1:1
-It is a draw with 1:1
-
-Next we will have today's 2th match:
-Germany vs Serbia
-Country:Germany
-	#1, Kevin Trapp, GK
-	#2, Niklas S¨¹le, DF
-	#3, Marvin Plattenhardt, DF
-	#6, Sami Khedira, MF
-	#7, Julian Draxler, MF
-	#8, Toni Kroos, MF
-	#10, Mesut ?zil, MF
-	#24, Leroy San¨¦, MF
-	#9, Sandro Wagner, FW
-	#11, Timo Werner, FW
-	#13, Lars Stindl, FW
-Country:Serbia
-	#1, Vladimir Stojkovi?, GK
-	#6, Branislav Ivanovi?, DF
-	#2, Antonio Rukavina, DF
-	#22, Adem Ljaji?, MF
-	#4, Nemanja Gudelj, MF
-	#19, Andrija ?ivkovi?, MF
-	#14, Mijat Ga?inovi?, MF
-	#21, Nemanja Radonji?, MF
-	#9, Aleksandar Mitrovi?, FW
-	#8, Aleksandar Prijovi?, FW
-	#10, ?or?e Ivanovi?, FW
-Playing...
-Now it is 1:0
-Germany beats Serbia with the goals 1:0
-
-Next we will have today's 3th match:
-France vs Iceland
-Country:France
-	#1, Alphonse Areola, GK
-	#2, Christophe Jallet, DF
-	#3, Layvin Kurzawa, DF
-	#6, Corentin Tolisso, MF
-	#14, Blaise Matuidi, MF
-	#15, Adrien Rabiot, MF
-	#18, Moussa Sissoko, MF
-	#7, Antoine Griezmann, FW
-	#8, Nabil Fekir, FW
-	#10, Alexandre Lacazette, FW
-	#11, Kingsley Coman, FW
+Next we will have today's 4th match:
+Morocco vs Iceland
+Country:Morocco
+	#12, Munir Mohamedi, GK
+	#5, Medhi Benatia, DF
+	#17, Nabil Dirar, DF
+	#14, Mbark Boussoufa, MF
+	#8, Karim El Ahmadi, MF
+	#10, Younes Belhanda, MF
+	#16, Nordin Amrabat, MF
+	#19, Sofyan Amrabat, MF
+	#23, Rachid Alioui, FW
+	#13, Khalid Boutaib, FW
+	#21, Achraf Bencharki, FW
 Country:Iceland
 	#1, Hannes Halld¨®rsson, GK
 	#2, Diego J¨®hannesson, DF
@@ -1101,87 +1087,33 @@ Country:Iceland
 	#26, Kjartan Finnbogason, FW
 	#27, Kristj¨¢n Fl¨®ki Finnbogason, FW
 Playing...
-Now it is 0:1
-France fails Iceland with the goals 0:1
+14 minutes :
+	Rachid Alioui helps Morocco take the first goal.
+Now, Morocco : Iceland is 1 : 0
+25 minutes :
+	Kjartan Finnbogason goals in, helping Iceland ties the score.
+Now, Morocco : Iceland is 1 : 1
+52 minutes :
+	Diego J¨®hannesson's subtle goal helps Iceland take the lead.
+Now, Morocco : Iceland is 1 : 2
+Morocco fails Iceland with the goals 1:2
 
-Next we will have today's 4th match:
-Brazil vs England
-Country:Brazil
-	#1, Alisson, GK
-	#2, Dani Alves, DF
-	#3, Miranda, DF
-	#5, Casemiro, MF
-	#8, Renato Augusto, MF
-	#11, Philippe Coutinho, MF
-	#15, Paulinho, MF
-	#7, Douglas Costa, FW
-	#9, Gabriel Jesus, FW
-	#10, Neymar, FW
-	#21, Roberto Firmino, FW
-Country:England
-	#13, Jordan Pickford, GK
-	#12, Kieran Trippier, DF
-	#14, Danny Rose, DF
-	#7, Jake Livermore, MF
-	#8, Eric Dier, MF
-	#10, Ruben Loftus-Cheek, MF
-	#17, Jack Cork, MF
-	#9, Jamie Vardy, FW
-	#21, Tammy Abraham, FW
-	#11, Marcus Rashford, FW
-	#22, Dominic Solanke, FW
-Playing...
-Now it is 1:0
-Now it is 1:1
-It is a draw with 1:1
-
-Hello everyone, it is June 23, the 10th day of group match.
-Today we will have matches of Group B, D, F and H, totally 4 matches.
+Hello everyone, it is June 22, the 9th day of group match.
+Today we will have matches of Group A, C, E and G, totally 4 matches.
 Next we will have today's 1th match:
-Argentina vs Switzerland
-Country:Argentina
-	#1, Sergio Romero, GK
-	#2, Emanuel Mammana, DF
-	#3, Federico Fazio, DF
-	#5, Leandro Paredes, MF
-	#16, Diego Perotti, MF
-	#18, Eduardo Salvio, MF
-	#20, Giovani Lo Celso, MF
-	#10, Lionel Messi, FW
-	#7, Paulo Dybala, FW
-	#21, Dario Benedetto, FW
-	#26, Cristian Pavon, FW
-Country:Switzerland
-	#1, Yann Sommer, GK
-	#2, Stephan Lichtsteiner, DF
-	#3, L¨¦o Lacroix, DF
-	#8, Fabian Frei, MF
-	#10, Granit Xhaka, MF
-	#11, Valon Behrami, MF
-	#14, Denis Zakaria, MF
-	#7, Breel Embolo, FW
-	#9, Haris Seferovi?, FW
-	#18, Admir Mehmedi, FW
-	#19, Mario Gavranovi?, FW
-Playing...
-Now it is 0:1
-Now it is 1:1
-It is a draw with 1:1
-
-Next we will have today's 2th match:
-Belgium vs Denmark
-Country:Belgium
-	#1, Thibaut Courtois, GK
-	#5, Jan Vertonghen, DF
-	#3, Thomas Vermaelen, DF
-	#6, Axel Witsel, MF
-	#19, Mousa Demb¨¦l¨¦, MF
-	#7, Kevin De Bruyne, MF
-	#16, Steven Defour, MF
-	#10, Eden Hazard, FW
-	#9, Romelu Lukaku, FW
-	#14, Dries Mertens, FW
-	#11, Kevin Mirallas, FW
+Russia(host) vs Denmark
+Country:Russia(host)
+	#1, Igor Akinfeev, GK
+	#28, Igor Smolnikov, DF
+	#30, Fyodor Kudryashov, DF
+	#18, Yuri Zhirkov, MF
+	#8, Denis Glushakov, MF
+	#17, Alan Dzagoev, MF
+	#24, Aleksandr Golovin, MF
+	#9, Aleksandr Kokorin, FW
+	#10, Fyodor Smolov, FW
+	#7, Dmitry Poloz, FW
+	#11, Anton Zabolotny, FW
 Country:Denmark
 	#1, Kasper Schmeichel, GK
 	#3, Jannik Vestergaard, DF
@@ -1195,23 +1127,22 @@ Country:Denmark
 	#15, Viktor Fischer, FW
 	#11, Nicklas Bendtner, FW
 Playing...
-Now it is 1:0
-Belgium beats Denmark with the goals 1:0
+It is a draw with 0:0
 
-Next we will have today's 3th match:
-Poland vs Croatia
-Country:Poland
-	#22, ?ukasz Fabia¨½ski, GK
-	#13, Maciej Rybus, DF
-	#3, Artur J?drzejczyk, DF
-	#16, Jakub B?aszczykowski, MF
-	#5, Krzysztof M?czy¨½ski, MF
-	#19, Piotr Zieli¨½ski, MF
-	#8, Karol Linetty, MF
-	#26, Przemys?aw Frankowski, MF
-	#29, Mariusz St?pi¨½ski, FW
-	#23, Kamil Wilczek, FW
-	#28, Jakub ?wierczok, FW
+Next we will have today's 2th match:
+Belgium vs Croatia
+Country:Belgium
+	#1, Thibaut Courtois, GK
+	#5, Jan Vertonghen, DF
+	#3, Thomas Vermaelen, DF
+	#6, Axel Witsel, MF
+	#19, Mousa Demb¨¦l¨¦, MF
+	#7, Kevin De Bruyne, MF
+	#16, Steven Defour, MF
+	#10, Eden Hazard, FW
+	#9, Romelu Lukaku, FW
+	#14, Dries Mertens, FW
+	#11, Kevin Mirallas, FW
 Country:Croatia
 	#1, Dominik Livakovi?, GK
 	#2, ?ime Vrsaljko, DF
@@ -1225,10 +1156,51 @@ Country:Croatia
 	#8, Ante Rebi?, FW
 	#9, Andrej Kramari?, FW
 Playing...
-It is a draw with 0:0
+19 minutes :
+	Marcelo Brozovi? helps Croatia take the first goal.
+Now, Belgium : Croatia is 0 : 1
+87 minutes :
+	Nice shoot! Belgium ties the score in the critical moment! Romelu Lukaku's achievement cannot be left unrecongized!
+Now, Belgium : Croatia is 1 : 1
+It is a draw with 1:1
+
+Next we will have today's 3th match:
+Brazil vs Switzerland
+Country:Brazil
+	#1, Alisson, GK
+	#2, Dani Alves, DF
+	#3, Miranda, DF
+	#5, Casemiro, MF
+	#8, Renato Augusto, MF
+	#11, Philippe Coutinho, MF
+	#15, Paulinho, MF
+	#7, Douglas Costa, FW
+	#9, Gabriel Jesus, FW
+	#10, Neymar, FW
+	#21, Roberto Firmino, FW
+Country:Switzerland
+	#1, Yann Sommer, GK
+	#2, Stephan Lichtsteiner, DF
+	#3, L¨¦o Lacroix, DF
+	#8, Fabian Frei, MF
+	#10, Granit Xhaka, MF
+	#11, Valon Behrami, MF
+	#14, Denis Zakaria, MF
+	#7, Breel Embolo, FW
+	#9, Haris Seferovi?, FW
+	#18, Admir Mehmedi, FW
+	#19, Mario Gavranovi?, FW
+Playing...
+62 minutes :
+	Mario Gavranovi? helps Switzerland break the deadlock! The match is becoming interesting.
+Now, Brazil : Switzerland is 0 : 1
+82 minutes :
+	Nice shoot! Brazil ties the score in the critical moment! Paulinho's achievement cannot be left unrecongized!
+Now, Brazil : Switzerland is 1 : 1
+It is a draw with 1:1
 
 Next we will have today's 4th match:
-Portugal vs Swden
+Portugal vs Spain
 Country:Portugal
 	#1, Jos¨¦ S¨¢, GK
 	#2, N¨¦lson Semedo, DF
@@ -1241,6 +1213,113 @@ Country:Portugal
 	#9, Andr¨¦ Silva, FW
 	#16, Rony Lopes, FW
 	#17, Bruma, FW
+Country:Spain
+	#1, David de Gea, GK
+	#2, ¨¢lvaro Odriozola, DF
+	#3, Gerard Piqu¨¦, DF
+	#5, Sergio Busquets, MF
+	#6, Andr¨¦s Iniesta, MF
+	#8, Sa¨²l ?¨ªguez, MF
+	#10, Thiago Alcantara, MF
+	#7, ¨¢lvaro Morata, FW
+	#9, Jos¨¦ Callej¨®n, FW
+	#11, Vitolo, FW
+	#17, Iago Aspas, FW
+Playing...
+12 minutes :
+	Iago Aspas helps Spain take the first goal.
+Now, Portugal : Spain is 0 : 1
+Portugal fails Spain with the goals 0:1
+
+Hello everyone, it is June 23, the 10th day of group match.
+Today we will have matches of Group B, D, F and H, totally 4 matches.
+Next we will have today's 1th match:
+France vs Serbia
+Country:France
+	#1, Alphonse Areola, GK
+	#2, Christophe Jallet, DF
+	#3, Layvin Kurzawa, DF
+	#6, Corentin Tolisso, MF
+	#14, Blaise Matuidi, MF
+	#15, Adrien Rabiot, MF
+	#18, Moussa Sissoko, MF
+	#7, Antoine Griezmann, FW
+	#8, Nabil Fekir, FW
+	#10, Alexandre Lacazette, FW
+	#11, Kingsley Coman, FW
+Country:Serbia
+	#1, Vladimir Stojkovi?, GK
+	#6, Branislav Ivanovi?, DF
+	#2, Antonio Rukavina, DF
+	#22, Adem Ljaji?, MF
+	#4, Nemanja Gudelj, MF
+	#19, Andrija ?ivkovi?, MF
+	#14, Mijat Ga?inovi?, MF
+	#21, Nemanja Radonji?, MF
+	#9, Aleksandar Mitrovi?, FW
+	#8, Aleksandar Prijovi?, FW
+	#10, ?or?e Ivanovi?, FW
+Playing...
+18 minutes :
+	Antoine Griezmann helps France take the first goal.
+Now, France : Serbia is 1 : 0
+20 minutes :
+	Kingsley Coman helps France get 2 goals ahead.
+Now, France : Serbia is 2 : 0
+France beats Serbia with the goals 2:0
+
+Next we will have today's 2th match:
+Poland vs England
+Country:Poland
+	#22, ?ukasz Fabia¨½ski, GK
+	#13, Maciej Rybus, DF
+	#3, Artur J?drzejczyk, DF
+	#16, Jakub B?aszczykowski, MF
+	#5, Krzysztof M?czy¨½ski, MF
+	#19, Piotr Zieli¨½ski, MF
+	#8, Karol Linetty, MF
+	#26, Przemys?aw Frankowski, MF
+	#29, Mariusz St?pi¨½ski, FW
+	#23, Kamil Wilczek, FW
+	#28, Jakub ?wierczok, FW
+Country:England
+	#13, Jordan Pickford, GK
+	#12, Kieran Trippier, DF
+	#14, Danny Rose, DF
+	#7, Jake Livermore, MF
+	#8, Eric Dier, MF
+	#10, Ruben Loftus-Cheek, MF
+	#17, Jack Cork, MF
+	#9, Jamie Vardy, FW
+	#21, Tammy Abraham, FW
+	#11, Marcus Rashford, FW
+	#22, Dominic Solanke, FW
+Playing...
+11 minutes :
+	Tammy Abraham helps England take the first goal.
+Now, Poland : England is 0 : 1
+32 minutes :
+	Dominic Solanke helps England get 2 goals ahead.
+Now, Poland : England is 0 : 2
+64 minutes :
+	Jake Livermore helps England get 3 goals ahead.
+Now, Poland : England is 0 : 3
+Poland fails England with the goals 0:3
+
+Next we will have today's 3th match:
+Germany vs Swden
+Country:Germany
+	#1, Kevin Trapp, GK
+	#2, Niklas S¨¹le, DF
+	#3, Marvin Plattenhardt, DF
+	#6, Sami Khedira, MF
+	#7, Julian Draxler, MF
+	#8, Toni Kroos, MF
+	#10, Mesut ?zil, MF
+	#24, Leroy San¨¦, MF
+	#9, Sandro Wagner, FW
+	#11, Timo Werner, FW
+	#13, Lars Stindl, FW
 Country:Swden
 	#1, Robin Olsen, GK
 	#2, Mikael Lustig, DF
@@ -1254,169 +1333,43 @@ Country:Swden
 	#8, Isaac Kiese Thelin, FW
 	#9, Marcus Berg, FW
 Playing...
-Now it is 0:1
-Now it is 1:1
-It is a draw with 1:1
+It is a draw with 0:0
+
+Next we will have today's 4th match:
+Argentina vs Iceland
+Country:Argentina
+	#1, Sergio Romero, GK
+	#2, Emanuel Mammana, DF
+	#3, Federico Fazio, DF
+	#5, Leandro Paredes, MF
+	#16, Diego Perotti, MF
+	#18, Eduardo Salvio, MF
+	#20, Giovani Lo Celso, MF
+	#10, Lionel Messi, FW
+	#7, Paulo Dybala, FW
+	#21, Dario Benedetto, FW
+	#26, Cristian Pavon, FW
+Country:Iceland
+	#1, Hannes Halld¨®rsson, GK
+	#2, Diego J¨®hannesson, DF
+	#3, J¨®n Gueni Fj¨®luson, DF
+	#7, J¨®hann Berg Guemundsson, MF
+	#8, Birkir Bjarnason, MF
+	#10, Gylfi Siguresson, MF
+	#15, R¨²nar M¨¢r Sigurj¨®nsson, MF
+	#9, Viear Kjartansson, FW
+	#11, Alfree Finnbogason, FW
+	#26, Kjartan Finnbogason, FW
+	#27, Kristj¨¢n Fl¨®ki Finnbogason, FW
+Playing...
+43 minutes :
+	Cristian Pavon helps Argentina break the deadlock! The match is becoming interesting.
+Now, Argentina : Iceland is 1 : 0
+Argentina beats Iceland with the goals 1:0
 
 Hello everyone, it is June 24, the 11th day of group match.
 Today we will have matches of Group A, C, E and G, totally 4 matches.
 Next we will have today's 1th match:
-Nigeria vs Saudi Arabia
-Country:Nigeria
-	#16, Ikechukwu Ezenwa, GK
-	#4, Kenneth Omeruo, DF
-	#12, Shehu Abdullahi, DF
-	#10, John Obi Mikel, MF
-	#19, John Ogu, MF
-	#13, Wilfred Ndidi, MF
-	#8, Etebo Oghenekaro, MF
-	#7, Ahmed Musa, FW
-	#22, Moses Simon, FW
-	#14, Odion Ighalo, FW
-	#18, Kelechi Iheanacho, FW
-Country:Saudi Arabia
-	#1, Waleed Abdullah, GK
-	#2, Osama Hawsawi, DF
-	#3, Hassan Muath, DF
-	#4, Taisir Al-Jassim, MF
-	#5, Yahya Al-Shehri, MF
-	#6, Salman Al-Faraj, MF
-	#7, Ahmed Al-Fraidi, MF
-	#8, Ahm Al-Fraidi , MF
-	#9, Muhannad Assiri, FW
-	#10, Mukhtar Fallatah, FW
-	#11, Hazaa Al-Hazaa, FW
-Playing...
-Now it is 1:0
-Now it is 1:1
-It is a draw with 1:1
-
-Next we will have today's 2th match:
-Senegal vs South Korea
-Country:Senegal
-	#16, Khadim Ndiaye, GK
-	#2, Kara Mbodji, DF
-	#21, Lamine Gassama, DF
-	#5, Idrissa Gana Gueye, MF
-	#17, Cheikhou Kouyate, MF
-	#8, Cheikh Ndoye, MF
-	#11, Papa Alioune Ndiaye, MF
-	#7, Moussa Sow, FW
-	#14, Moussa Konate, FW
-	#6, Diafra Sakho, FW
-	#10, Opa Nguette, FW
-Country:South Korea
-	#1, Kim Seung-gyu, GK
-	#2, Jang Hyun-soo, DF
-	#3, Kim Jin-su, DF
-	#4, Kim Min-woo, DF
-	#5, Go Yo-han, DF
-	#6, Yeom Ki-hun, MF
-	#7, Lee Jae-sung, MF
-	#8, Jung Woo-young	, MF
-	#9, Lee Myung-joo, MF
-	#10, Lee Keun-ho, FW
-	#11, Kim Shin-wook, FW
-Playing...
-Now it is 1:0
-Senegal beats South Korea with the goals 1:0
-
-Next we will have today's 3th match:
-Morocco vs Iran
-Country:Morocco
-	#12, Munir Mohamedi, GK
-	#5, Medhi Benatia, DF
-	#17, Nabil Dirar, DF
-	#14, Mbark Boussoufa, MF
-	#8, Karim El Ahmadi, MF
-	#10, Younes Belhanda, MF
-	#16, Nordin Amrabat, MF
-	#19, Sofyan Amrabat, MF
-	#23, Rachid Alioui, FW
-	#13, Khalid Boutaib, FW
-	#21, Achraf Bencharki, FW
-Country:Iran
-	#1, Alireza Beiranvand, GK
-	#2, Vouria Ghafouri, DF
-	#4, Jalal Hosseini, DF
-	#5, Milad Mohammadi, DF
-	#8, Morteza Pouraliganji, DF
-	#3, Ehsan Hajsafi, MF
-	#6, Saeid Ezatolahi, MF
-	#7, Saman Ghoddos, MF
-	#9, Omid Ebrahimi, MF
-	#10, Karim Ansarifard, FW
-	#16, Reza Ghoochannejhad, FW
-Playing...
-Now it is 1:0
-Now it is 1:1
-It is a draw with 1:1
-
-Next we will have today's 4th match:
-Tunisia vs Japan
-Country:Tunisia
-	#1, Farouk Ben Mustapha, GK
-	#2, Syam Ben Youssef, DF
-	#4, Yassine Meriah, DF
-	#3, Aymen Trabelsi, MF
-	#10, Wahbi Khazri, MF
-	#13, Ferjani Sassi, MF
-	#14, Mohamed Ben Amor, MF
-	#7, Youssef Msakni, FW
-	#8, Fakhreddine Ben Youssef, FW
-	#9, Yoann Touzghar, FW
-	#11, Taha Khenissi, FW
-Country:Japan
-	#1, Eiji Kawashima, GK
-	#3, Gen Shoji, DF
-	#4, Shintaro Kurumaya, DF
-	#2, Yosuke Ideguchi, MF
-	#14, Wataru Endo, MF
-	#16, Shu Kurata, MF
-	#17, Makoto Hasebe, MF
-	#8, Genki Haraguchi, FW
-	#9, Kenyu Sugimoto, FW
-	#10, Takashi Inui, FW
-	#11, Yuya Kubo, FW
-Playing...
-Now it is 1:0
-Now it is 1:1
-It is a draw with 1:1
-
-Hello everyone, it is June 25, the last day of group match, tomorrow 32 promotion team will face curel knockout.
-Today we will have matches of Group B, D, F and H, totally 4 matches.
-Next we will have today's 1th match:
-Egypt vs Australia
-Country:Egypt
-	#1, Mohamed Awad, GK
-	#2, Ali Gabr, DF
-	#3, Ahmed Elmohamady, DF
-	#6, Sam Morsy, MF
-	#8, Tarek Hamed, MF
-	#12, Shikabala, MF
-	#10, Moamen Zakaria, MF
-	#9, Kouka, FW
-	#18, Kahraba, FW
-	#11, Amr Marey, FW
-	#13, Amr Gamal, FW
-Country:Australia
-	#1, Mathew Ryan, GK
-	#2, Milos Degenek, DF
-	#3, Alex Gersbach, DF
-	#6, Matthew Jurman, DF
-	#8, Bailey Wright, DF
-	#5, Mark Milligan, MF
-	#15, Craig Goodwin, MF
-	#11, Aaron Mooy, MF
-	#13, James Troisi, MF
-	#4, Tim Cahill, FW
-	#7, Mathew Leckie, FW
-Playing...
-Now it is 1:0
-Now it is 1:1
-It is a draw with 1:1
-
-Next we will have today's 2th match:
 Peru vs Mexico
 Country:Peru
 	#1, Pedro Gallese, GK
@@ -1443,11 +1396,12 @@ Country:Mexico
 	#10, Carlos Vela, FW
 	#11, Oribe Peralta, FW
 Playing...
-Now it is 1:0
-Now it is 2:0
-Peru beats Mexico with the goals 2:0
+39 minutes :
+	Raul Ruidiaz helps Peru break the deadlock! The match is becoming interesting.
+Now, Peru : Mexico is 1 : 0
+Peru beats Mexico with the goals 1:0
 
-Next we will have today's 3th match:
+Next we will have today's 2th match:
 Uruguay vs Panama
 Country:Uruguay
 	#23, Martin Silva, GK
@@ -1474,10 +1428,151 @@ Country:Panama
 	#7, Blas Perez, FW
 	#9, Gabriel Torres, FW
 Playing...
-Now it is 0:1
-Uruguay fails Panama with the goals 0:1
+17 minutes :
+	Cristhian Stuani helps Uruguay take the first goal.
+Now, Uruguay : Panama is 1 : 0
+82 minutes :
+	Uruguay's player Nicolas Lodeiro score a goal, they go further to victory!
+Now, Uruguay : Panama is 2 : 0
+Uruguay beats Panama with the goals 2:0
+
+Next we will have today's 3th match:
+Egypt vs Australia
+Country:Egypt
+	#1, Mohamed Awad, GK
+	#2, Ali Gabr, DF
+	#3, Ahmed Elmohamady, DF
+	#6, Sam Morsy, MF
+	#8, Tarek Hamed, MF
+	#12, Shikabala, MF
+	#10, Moamen Zakaria, MF
+	#9, Kouka, FW
+	#18, Kahraba, FW
+	#11, Amr Marey, FW
+	#13, Amr Gamal, FW
+Country:Australia
+	#1, Mathew Ryan, GK
+	#2, Milos Degenek, DF
+	#3, Alex Gersbach, DF
+	#6, Matthew Jurman, DF
+	#8, Bailey Wright, DF
+	#5, Mark Milligan, MF
+	#15, Craig Goodwin, MF
+	#11, Aaron Mooy, MF
+	#13, James Troisi, MF
+	#4, Tim Cahill, FW
+	#7, Mathew Leckie, FW
+Playing...
+12 minutes :
+	Moamen Zakaria helps Egypt take the first goal.
+Now, Egypt : Australia is 1 : 0
+32 minutes :
+	Amr Gamal helps Egypt get 2 goals ahead.
+Now, Egypt : Australia is 2 : 0
+Egypt beats Australia with the goals 2:0
 
 Next we will have today's 4th match:
+Nigeria vs Saudi Arabia
+Country:Nigeria
+	#16, Ikechukwu Ezenwa, GK
+	#4, Kenneth Omeruo, DF
+	#12, Shehu Abdullahi, DF
+	#10, John Obi Mikel, MF
+	#19, John Ogu, MF
+	#13, Wilfred Ndidi, MF
+	#8, Etebo Oghenekaro, MF
+	#7, Ahmed Musa, FW
+	#22, Moses Simon, FW
+	#14, Odion Ighalo, FW
+	#18, Kelechi Iheanacho, FW
+Country:Saudi Arabia
+	#1, Waleed Abdullah, GK
+	#2, Osama Hawsawi, DF
+	#3, Hassan Muath, DF
+	#4, Taisir Al-Jassim, MF
+	#5, Yahya Al-Shehri, MF
+	#6, Salman Al-Faraj, MF
+	#7, Ahmed Al-Fraidi, MF
+	#8, Ahm Al-Fraidi , MF
+	#9, Muhannad Assiri, FW
+	#10, Mukhtar Fallatah, FW
+	#11, Hazaa Al-Hazaa, FW
+Playing...
+38 minutes :
+	Ahmed Musa helps Nigeria break the deadlock! The match is becoming interesting.
+Now, Nigeria : Saudi Arabia is 1 : 0
+40 minutes :
+	Ahmed Al-Fraidi goals in, helping Saudi Arabia ties the score.
+Now, Nigeria : Saudi Arabia is 1 : 1
+It is a draw with 1:1
+
+Hello everyone, it is June 25, the last day of group match, tomorrow 32 promotion team will face curel knockout.
+Today we will have matches of Group B, D, F and H, totally 4 matches.
+Next we will have today's 1th match:
+Senegal vs South Korea
+Country:Senegal
+	#16, Khadim Ndiaye, GK
+	#2, Kara Mbodji, DF
+	#21, Lamine Gassama, DF
+	#5, Idrissa Gana Gueye, MF
+	#17, Cheikhou Kouyate, MF
+	#8, Cheikh Ndoye, MF
+	#11, Papa Alioune Ndiaye, MF
+	#7, Moussa Sow, FW
+	#14, Moussa Konate, FW
+	#6, Diafra Sakho, FW
+	#10, Opa Nguette, FW
+Country:South Korea
+	#1, Kim Seung-gyu, GK
+	#2, Jang Hyun-soo, DF
+	#3, Kim Jin-su, DF
+	#4, Kim Min-woo, DF
+	#5, Go Yo-han, DF
+	#6, Yeom Ki-hun, MF
+	#7, Lee Jae-sung, MF
+	#8, Jung Woo-young	, MF
+	#9, Lee Myung-joo, MF
+	#10, Lee Keun-ho, FW
+	#11, Kim Shin-wook, FW
+Playing...
+It is a draw with 0:0
+
+Next we will have today's 2th match:
+Tunisia vs Japan
+Country:Tunisia
+	#1, Farouk Ben Mustapha, GK
+	#2, Syam Ben Youssef, DF
+	#4, Yassine Meriah, DF
+	#3, Aymen Trabelsi, MF
+	#10, Wahbi Khazri, MF
+	#13, Ferjani Sassi, MF
+	#14, Mohamed Ben Amor, MF
+	#7, Youssef Msakni, FW
+	#8, Fakhreddine Ben Youssef, FW
+	#9, Yoann Touzghar, FW
+	#11, Taha Khenissi, FW
+Country:Japan
+	#1, Eiji Kawashima, GK
+	#3, Gen Shoji, DF
+	#4, Shintaro Kurumaya, DF
+	#2, Yosuke Ideguchi, MF
+	#14, Wataru Endo, MF
+	#16, Shu Kurata, MF
+	#17, Makoto Hasebe, MF
+	#8, Genki Haraguchi, FW
+	#9, Kenyu Sugimoto, FW
+	#10, Takashi Inui, FW
+	#11, Yuya Kubo, FW
+Playing...
+14 minutes :
+	Syam Ben Youssef helps Tunisia take the first goal.
+Now, Tunisia : Japan is 1 : 0
+37 minutes :
+	Wataru Endo goals in, helping Japan ties the score.
+Now, Tunisia : Japan is 1 : 1
+It is a draw with 1:1
+
+Next we will have today's 3th match:
 Colombia vs Costa Rica
 Country:Colombia
 	#1, Leandro Castellanos, GK
@@ -1504,7 +1599,40 @@ Country:Costa Rica
 	#10, Marco Ure?a, FW
 	#11, Johan Venegas, FW
 Playing...
-Now it is 1:0
-Now it is 1:1
-It is a draw with 1:1
+64 minutes :
+	Frank Fabra helps Colombia break the deadlock! The match is becoming interesting.
+Now, Colombia : Costa Rica is 1 : 0
+87 minutes :
+	Colombia's player Abel Aguilar score a goal, they go further to victory!
+Now, Colombia : Costa Rica is 2 : 0
+Colombia beats Costa Rica with the goals 2:0
+
+Next we will have today's 4th match:
+Morocco vs Iran
+Country:Morocco
+	#12, Munir Mohamedi, GK
+	#5, Medhi Benatia, DF
+	#17, Nabil Dirar, DF
+	#14, Mbark Boussoufa, MF
+	#8, Karim El Ahmadi, MF
+	#10, Younes Belhanda, MF
+	#16, Nordin Amrabat, MF
+	#19, Sofyan Amrabat, MF
+	#23, Rachid Alioui, FW
+	#13, Khalid Boutaib, FW
+	#21, Achraf Bencharki, FW
+Country:Iran
+	#1, Alireza Beiranvand, GK
+	#2, Vouria Ghafouri, DF
+	#4, Jalal Hosseini, DF
+	#5, Milad Mohammadi, DF
+	#8, Morteza Pouraliganji, DF
+	#3, Ehsan Hajsafi, MF
+	#6, Saeid Ezatolahi, MF
+	#7, Saman Ghoddos, MF
+	#9, Omid Ebrahimi, MF
+	#10, Karim Ansarifard, FW
+	#16, Reza Ghoochannejhad, FW
+Playing...
+It is a draw with 0:0
 

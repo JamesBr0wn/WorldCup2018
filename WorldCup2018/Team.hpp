@@ -6,7 +6,8 @@
 class Team
 {
 public:
-	Team(string _country = "", string _coutinent = "", vector<Player*> _myPlayer = vector<Player*>(), int _rank = 0, int _ability = 0, int _won = 0, int _draw = 0, int _lost = 0, int _goals_for = 0, int _goals_against = 0);
+	Team(string _country = "", string _coutinent = "", vector<Player*> _myPlayer = vector<Player*>()
+		, int _rank = 0, int _ability = 0, int _won = 0, int _draw = 0, int _lost = 0, int _goals_for = 0, int _goals_against = 0);
 	void setCountry(string countryName);
 	void setPlayer(Player* tempPlayer);
 	void setRank(int _rank);
