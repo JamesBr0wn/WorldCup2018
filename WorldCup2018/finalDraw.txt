@@ -9,70 +9,70 @@ pot1
 	Portugal
 	France
 pot2
-	Tunisia
-	Nigeria
-	Morocco
-	Senegal
-	Egypt
 	Uruguay
 	Colombia
 	Peru
+	Mexico
+	England
+	Spain
+	Switzerland
+	Croatia
 pot3
+	Tunisia
+	Senegal
+	Egypt
+	Iran
+	Costa Rica
+	Iceland
+	Sweden
+	Denmark
+pot4
+	Nigeria
+	Morocco
 	Japan
 	Saudi Arabia
-	Iran
 	South Korea
 	Australia
 	Panama
-	Costa Rica
-	Mexico
-pot4
-	England
-	Spain
-	Iceland
 	Serbia
-	Switzerland
-	Croatia
-	Swden
-	Denmark
 The Final Draw:
 group A
-	Russia(host)
-	Peru
-	Mexico
-	Denmark
-group B
-	France
-	Senegal
-	South Korea
-	Serbia
-group C
-	Belgium
-	Uruguay
-	Panama
-	Croatia
-group D
-	Poland
-	Tunisia
-	Japan
-	England
-group E
-	Brazil
 	Egypt
-	Australia
-	Switzerland
-group F
-	Germany
-	Colombia
-	Costa Rica
-	Swden
-group G
-	Portugal
-	Nigeria
+	Uruguay
 	Saudi Arabia
-	Spain
-group H
-	Argentina
+	Russia(host)
+group B
 	Morocco
 	Iran
+	Spain
+	Portugal
+group C
+	Peru
+	Australia
+	France
+	Denmark
+group D
+	Nigeria
+	Argentina
 	Iceland
+	Croatia
+group E
+	Brazil
+	Costa Rica
+	Serbia
+	Switzerland
+group F
+	South Korea
+	Mexico
+	Germany
+	Sweden
+group G
+	Tunisia
+	Panama
+	Belgium
+	England
+group H
+	Senegal
+	Colombia
+	Japan
+	Poland

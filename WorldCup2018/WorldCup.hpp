@@ -81,9 +81,9 @@ public:
 	void final();				//决赛
 private:
 	void helpTeamShow(ofstream& out, int number,int amount, int &i); //帮助显示队伍信息
-	void helpSetPlot(vector<Team*>& tempPot, int amount, int &i);//帮助分pot，传入所有队伍，i为各个队伍对应的下标，amount为个pot中队伍的数量
-	void helpGrouping32(vector<Team*>& tempPot,int ok); //帮助从4个pot中分组，传入pot,如果有东道主，ok=1,否则为0
-	bool helpGrouping32_1(vector<Team*>&tempPot,int index, Group &tempGroup);//帮助从4个pot中分组，传入pot和组号(GA~GH),index为pot中各队对应下标
+	//void helpSetPlot(vector<Team*>& tempPot, int amount, int &i);//帮助分pot，传入所有队伍，i为各个队伍对应的下标，amount为个pot中队伍的数量
+	//void helpGrouping32(vector<Team*>& tempPot,int ok); //帮助从4个pot中分组，传入pot,如果有东道主，ok=1,否则为0
+	//bool helpGrouping32_1(vector<Team*>&tempPot,int index, Group &tempGroup);//帮助从4个pot中分组，传入pot和组号(GA~GH),index为pot中各队对应下标
 	void setTeamAmount(int _CAF, int _CONMEBOL, int _AFC, int _OFC, int _CONCACAF, int _UEFA);//设置各大洲球队数
 	void helpPotShow(ofstream& out, vector<Team*>& tempPot);//帮助显示pot信息
 	void helpSchedule32(ofstream &out, Group tempGroup,multimap<int,string>& day_info //传入组号，比赛日期，比赛地点

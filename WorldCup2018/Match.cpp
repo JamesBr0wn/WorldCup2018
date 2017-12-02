@@ -376,7 +376,7 @@ string WorldCup::helpVoice(Shot shot, string firTeamName, string secTeamName, in
 		if (firstGoal == secondGoal) {
 			//再次甩开(关键）
 			temp += ("Wow~, " + shot.playerName + " helps "
-				+ firTeamName + "get one new goal! Will they won the match?\n");
+				+ firTeamName + " get one new goal! Will they won the match?\n");
 		}
 		else if (secondGoal - firstGoal == 1) {
 			//再次追上(关键）

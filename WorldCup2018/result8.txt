@@ -1,21 +1,21 @@
 Final result
 Promotion Team(s):
           Team	W	D	L	GF	GA	GD	Pts
-    South Korea	3	0	1	5	2	3	9
-           Peru	3	1	0	9	4	5	10
-          Egypt	3	1	0	5	1	4	10
-       Portugal	3	1	0	6	1	5	10
-         Panama	2	1	1	6	4	2	7
-         Mexico	2	2	0	4	2	2	8
-      Australia	1	1	2	2	4	-2	4
-        Morocco	2	0	2	5	4	1	6
+        Uruguay	3	0	1	8	3	5	9
+        Iceland	2	1	1	2	2	0	7
+    Switzerland	2	2	0	6	2	4	8
+         Poland	2	0	2	6	5	1	6
+          Spain	3	1	0	6	3	3	10
+           Peru	3	1	0	7	3	4	10
+        Germany	2	2	0	6	4	2	8
+        Tunisia	3	0	1	5	5	0	9
 Elimination Team(s):
           Team	W	D	L	GF	GA	GD	Pts
-        Uruguay	1	2	1	4	3	1	5
-          Spain	1	2	1	3	3	0	5
-       Colombia	2	0	2	4	4	0	6
-          Japan	1	1	2	2	4	-2	4
-         Serbia	3	0	1	9	5	4	9
-        Nigeria	1	2	1	1	1	0	5
-      Australia	2	1	1	3	3	0	7
-        Morocco	3	0	1	6	3	3	9
+       Portugal	2	0	2	4	4	0	6
+        Denmark	2	1	1	4	2	2	7
+         Mexico	1	2	1	4	4	0	5
+         Poland	3	0	1	7	4	3	9
+   Saudi Arabia	2	0	2	4	5	-1	6
+        Croatia	2	1	1	3	1	2	7
+     Costa Rica	1	1	2	3	5	-2	4
+          Japan	2	1	1	4	1	3	7

@@ -173,18 +173,110 @@ void WorldCup::showPotInfo()
 
 void WorldCup::setPot()
 {
-	int i = 0;
-	helpSetPlot(pot2, CAF + CONMEBOL, i);
+	for (int i = 0; i < 32; i++) {
+		switch (totalTeams[i].getRank()) {
+		case 65:
+		case 1:
+		case 2:
+		case 3:
+		case 4:
+		case 5:
+		case 6:
+		case 7:
+			pot1.push_back(&totalTeams[i]);
+			break;
+		case 8:
+		case 10:
+		case 11:
+		case 12:
+		case 13:
+		case 16:
+		case 17:
+		case 18:
+			pot2.push_back(&totalTeams[i]);
+			break;
+		case 19:
+		case 21:
+		case 22:
+		case 25:
+		case 28:
+		case 30:
+		case 32:
+		case 34:
+			pot3.push_back(&totalTeams[i]);
+			break;
+		case 38:
+		case 41:
+		case 43:
+		case 44:
+		case 48:
+		case 49:
+		case 62:
+		case 63:
+			pot4.push_back(&totalTeams[i]);
+			break;
+		}
+	}
+
+	/*helpSetPlot(pot2, CAF + CONMEBOL, i);
 	helpSetPlot(pot3, CAF + CONMEBOL+ AFC+ OFC + CONCACAF, i);
-	helpSetPlot(pot4, CAF + CONMEBOL + AFC + OFC + CONCACAF+ UEFA, i);
+	helpSetPlot(pot4, CAF + CONMEBOL + AFC + OFC + CONCACAF+ UEFA, i);*/
 }
 
 void WorldCup::grouping32()
 {
-	helpGrouping32(pot1,1);
-	helpGrouping32(pot2,0);
-	helpGrouping32(pot3, 0);
-	helpGrouping32(pot4, 0);
+	for (int i = 0; i < 32; i++) {
+		switch (totalTeams[i].getRank()) {
+		case 17:
+		case 30:
+		case 63:
+		case 65:
+			GA.group.push_back(&totalTeams[i]);
+			break;
+		case 3:
+		case 8:
+		case 34:
+		case 48:
+			GB.group.push_back(&totalTeams[i]);
+			break;
+		case 7:
+		case 10:
+		case 19:
+		case 43:
+			GC.group.push_back(&totalTeams[i]);
+			break;
+		case 4:
+		case 21:
+		case 18:
+		case 41:
+			GD.group.push_back(&totalTeams[i]);
+			break;
+		case 2:
+		case 11:
+		case 22:
+		case 38:
+			GE.group.push_back(&totalTeams[i]);
+			break;
+		case 1:
+		case 16:
+		case 25:
+		case 62:
+			GF.group.push_back(&totalTeams[i]);
+			break;
+		case 5:
+		case 49:
+		case 28:
+		case 12:
+			GG.group.push_back(&totalTeams[i]);
+			break;
+		case 6:
+		case 32:
+		case 13:
+		case 44:
+			GH.group.push_back(&totalTeams[i]);
+			break;
+		}
+	}
 }
 
 void WorldCup::schedule32()
@@ -380,8 +472,9 @@ void WorldCup::helpTeamShow(ofstream &out,int number, int amount, int &i)
 	}
 }
 
-void WorldCup::helpSetPlot(vector<Team*>& tempPot,int amount,int &i)
+/*void WorldCup::helpSetPlot(vector<Team*>& tempPot,int amount,int &i)
 {
+	
 	for (; i < amount; i++) {
 		if (totalTeams[i].getRank() <= 7 || totalTeams[i].getRank() == hostRank)
 			pot1.push_back(&totalTeams[i]);
@@ -389,9 +482,13 @@ void WorldCup::helpSetPlot(vector<Team*>& tempPot,int amount,int &i)
 			tempPot.push_back(&totalTeams[i]);
 	}
 }
+*/
 
+/*
 void WorldCup::helpGrouping32(vector<Team*>& tempPot, int ok)
 {
+
+
 	srand((unsigned)time(NULL));
 	bool check[8];
 	for (int i = 0; i < 8; i++)check[i] = false;
@@ -454,7 +551,8 @@ void WorldCup::helpGrouping32(vector<Team*>& tempPot, int ok)
 		tempPot.erase(tempPot.begin() + index);
 	}
 }
-bool WorldCup::helpGrouping32_1(vector<Team*>&tempPot, int index, Group &tempGroup)
+*/
+/*bool WorldCup::helpGrouping32_1(vector<Team*>&tempPot, int index, Group &tempGroup)
 {
 	if (tempPot[index]->getContinent() != "EUROPE" && tempGroup.continent[tempPot[index]->getContinent()] == 0) {
 		tempGroup.continent[tempPot[index]->getContinent()] = 1;
@@ -468,7 +566,7 @@ bool WorldCup::helpGrouping32_1(vector<Team*>&tempPot, int index, Group &tempGro
 	}
 	return false;
 }
-
+*/
 
 
 void WorldCup::setTeamAmount(int _CAF, int _CONMEBOL, int _AFC,int _OFC, int _CONCACAF, int _UEFA)
